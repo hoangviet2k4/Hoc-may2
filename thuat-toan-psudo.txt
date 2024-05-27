@@ -1,0 +1,80 @@
+BẮT ĐẦU
+
+# Nhập các thư viện
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import LabelEncoder, train_test_split, MinMaxScaler, GridSearchCV, SVC, classification_report, accuracy_score from sklearn
+
+# Tải dữ liệu
+upload file using google.colab
+read csv file "heart_attack_prediction_dataset.csv" into dataframe df
+
+# Hiển thị thông tin cơ bản về dữ liệu
+df.head()
+df.info()
+df.describe()
+df.isnull().sum()
+
+# Phân tích và xử lý dữ liệu
+df.columns
+hiển thị số lượng giá trị của 'Heart Attack Risk'
+hiển thị số lượng giá trị của 'Sex'
+hiển thị số lượng giá trị của 'Diet'
+
+VẼ biểu đồ countplot cho 'Sex' so với 'Heart Attack Risk'
+VẼ biểu đồ countplot cho 'Diet' so với 'Heart Attack Risk'
+
+# Loại bỏ các cột không cần thiết
+drop columns 'Country', 'Continent', 'Diet', 'Hemisphere' frokm df
+
+# Tách cột 'Blood Pressure' thành 'BP_Systolic' và 'BP_Diastolic'
+tách 'Blood Pressure' thành 'BP_Systolic' và 'BP_Diastolic'
+chuyển đổi 'BP_Systolic' và 'BP_Diastolic' sang dạng số
+BỎ cột 'Blood Pressure' from df
+
+# Mã hóa cột 'Sex' sử dụng LabelEncoder
+khởi tạo LabelEncoder le
+fit and transform cột 'Sex' using le
+
+# Hiển thị kiểu dữ liệu và ma trận tương quan
+hiển thị df.dtypes
+hiển thị tương quan của các đặc trưng với 'Heart Attack Risk'
+
+VẼ biểu đồ heatmap của ma trận tương quan
+
+# Chia dữ liệu thành tập huấn luyện và tập kiểm tra
+Đặt X = df drop 'Heart Attack Risk'
+Đặt y = df['Heart Attack Risk']
+Chia X, y THÀNH X_train, X_test, y_train, y_test với test_size=0.30 và random_state=42
+
+# Chuẩn hóa dữ liệu sử dụng MinMaxScaler
+khởi tạo MinMaxScaler scaler
+fit and tranform X_train using scaler
+transform X_test using scaler
+
+# Huấn luyện mô hình SVM sử dụng GridSearchCV
+khởi tạo SVC svm
+đặt param_grid với các giá trị cho 'C', 'kernel', 'degree'
+khởi tạo GridSearchCV với svm và param_grid
+fit GridSearchCV trên X_train, y_train
+
+lấy các tham số tốt nhất và điểm số tốt nhất từ GridSearchCV
+in các tham số tốt nhất và điểm số kiểm tra chéo tốt nhất
+
+# Huấn luyện và dự đoán sử dụng mô hình SVM tốt nhất
+khởi tạo best_svm với các tham số tốt nhất
+Fit best_svm trên X_train, y_train
+DỰ ĐOÁN y_pred sử dụng best_svm trên X_test
+
+In báo cáo phân loại cho y_test và y_pred
+
+# So sánh với SVM mặc định của Sklearn
+khởi tạo SVC svm_sklearn
+Fit svm_sklearn trên X_train, y_train
+Dự đoán y_pred_sklearn trên X_test
+Lấy độ chính xác và báo cáo phân loại cho y_pred_sklearn
+In độ chính xác và báo cáo phân loại cho y_pred_sklearn
+
+KẾT THÚC

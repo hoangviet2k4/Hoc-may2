@@ -1,0 +1,1433 @@
+Age,Sex,Cholesterol,Blood Pressure,Heart Rate,Diabetes,Family History,Smoking,Obesity,Alcohol Consumption,Exercise Hours Per Week,Diet,Previous Heart Problems,Medication Use,Stress Level,Sedentary Hours Per Day,Income,BMI,Triglycerides,Physical Activity Days Per Week,Sleep Hours Per Day,Country,Continent,Hemisphere,Heart Attack Risk
+67,Male,208,158/88,72,0,0,1,0,0,4.168188835,Average,0,0,9,6.615001453,261404,31.25123273,286,0,6,Argentina,South America,Southern Hemisphere,0
+21,Male,389,165/93,98,1,1,1,1,1,1.813241618,Unhealthy,1,0,1,4.96345884,285768,27.19497335,235,1,7,Canada,North America,Northern Hemisphere,0
+21,Female,324,174/99,72,1,0,0,0,0,2.078352986,Healthy,1,1,9,9.463425838,235282,28.17657068,587,4,4,France,Europe,Northern Hemisphere,0
+84,Male,383,163/100,73,1,1,1,0,1,9.828129593,Average,1,0,9,7.648980824,125640,36.46470429,378,3,4,Canada,North America,Northern Hemisphere,0
+66,Male,318,91/88,93,1,1,1,1,0,5.80429882,Unhealthy,1,0,6,1.514820926,160555,21.80914418,231,1,5,Thailand,Asia,Northern Hemisphere,0
+54,Female,297,172/86,48,1,1,1,0,1,0.625008024,Unhealthy,1,1,2,7.798752409,241339,20.1468395,795,5,10,Germany,Europe,Northern Hemisphere,1
+90,Male,358,102/73,84,0,0,1,0,1,4.098177091,Healthy,0,0,7,0.627356001,190450,28.88581061,284,4,10,Canada,North America,Northern Hemisphere,1
+84,Male,220,131/68,107,0,0,1,1,1,3.427928754,Average,0,1,4,10.54378024,122093,22.22186174,370,6,7,Japan,Asia,Northern Hemisphere,1
+20,Male,145,144/105,68,1,0,1,1,0,16.86830224,Average,0,0,5,11.34878687,25086,35.80990132,790,7,4,Brazil,South America,Southern Hemisphere,0
+43,Female,248,160/70,55,0,1,1,1,1,0.194515061,Unhealthy,0,0,4,4.055114782,209703,22.55891675,232,7,7,Japan,Asia,Northern Hemisphere,0
+73,Female,373,107/69,97,1,1,1,0,1,16.84198759,Average,1,1,8,8.919879241,50030,22.86791077,469,0,4,South Africa,Africa,Southern Hemisphere,0
+71,Male,374,158/71,70,1,1,1,1,1,8.251995072,Average,0,0,4,7.227338314,163066,32.48534524,523,4,8,United States,North America,Northern Hemisphere,0
+77,Male,228,101/72,68,1,1,1,1,1,19.63326816,Unhealthy,0,0,9,10.91752425,29886,35.10223615,590,7,6,Vietnam,Asia,Northern Hemisphere,1
+60,Male,259,169/72,85,1,1,1,0,1,17.03737418,Healthy,1,1,1,8.727417212,292173,25.56489715,506,1,4,China,Asia,Northern Hemisphere,1
+88,Male,297,112/81,102,1,1,1,0,1,15.38760463,Unhealthy,0,1,2,10.42548958,165300,25.49174066,635,3,6,China,Asia,Northern Hemisphere,0
+73,Male,122,114/88,97,1,1,1,0,1,14.5596645,Average,0,0,5,10.08647897,265839,36.52439524,773,5,8,Italy,Europe,Southern Hemisphere,1
+69,Male,379,173/75,40,1,1,1,1,1,4.184648046,Average,1,0,5,9.060508568,267997,28.3327472,68,3,6,Brazil,South America,Southern Hemisphere,0
+38,Male,166,120/74,56,1,0,1,1,0,8.91790723,Healthy,0,1,9,3.660748791,48376,29.51738756,402,0,6,Thailand,Asia,Northern Hemisphere,0
+50,Female,303,120/100,104,1,0,1,0,1,4.943580247,Average,1,1,1,7.586983941,21501,25.96435073,517,1,5,United States,North America,Northern Hemisphere,1
+60,Male,145,160/98,71,1,0,1,0,1,1.89255933,Healthy,1,0,8,5.99422791,234966,29.16231875,247,7,7,Canada,North America,Northern Hemisphere,0
+66,Male,340,180/101,69,1,0,1,1,0,9.105433807,Unhealthy,1,1,1,6.218069155,156946,38.08867135,747,1,10,Canada,North America,Northern Hemisphere,0
+45,Male,294,130/84,66,0,0,1,1,1,13.69378493,Healthy,0,0,9,7.007391726,216565,25.12060465,360,4,6,France,Europe,Northern Hemisphere,1
+50,Male,359,175/60,97,0,1,1,0,1,8.354399413,Healthy,1,0,2,4.045831287,278301,34.65109042,358,4,8,Spain,Europe,Southern Hemisphere,0
+84,Male,202,173/109,81,1,1,1,0,1,10.99581328,Unhealthy,1,0,7,7.11893543,95237,29.63411091,526,0,9,Brazil,South America,Southern Hemisphere,0
+36,Male,133,161/90,97,1,0,1,1,1,3.61800905,Healthy,1,0,10,10.9635441,223132,22.38680356,605,5,10,Canada,North America,Northern Hemisphere,0
+90,Male,159,140/95,52,0,0,1,0,1,10.7098555,Healthy,0,1,2,1.216510417,110213,26.07202585,667,4,5,Spain,Europe,Southern Hemisphere,0
+48,Male,271,148/105,105,0,1,1,0,1,13.5915217,Unhealthy,1,0,4,8.478895441,139560,21.58220276,316,3,8,Thailand,Asia,Northern Hemisphere,0
+40,Male,273,160/76,96,0,0,1,1,1,17.63212811,Average,1,1,4,4.547241792,178241,26.41704698,551,4,6,France,Europe,Northern Hemisphere,0
+79,Female,328,113/78,74,0,0,1,0,1,16.89624545,Unhealthy,0,0,1,5.209267317,98663,31.63319643,482,4,6,China,Asia,Northern Hemisphere,0
+63,Male,154,99/81,102,1,0,1,1,0,7.94973472,Unhealthy,1,1,1,7.26838454,247960,39.273374,718,4,10,India,Asia,Northern Hemisphere,0
+27,Female,135,120/77,49,1,1,0,0,1,16.91048542,Healthy,0,0,6,9.120329364,71276,22.77885893,297,1,10,Argentina,South America,Southern Hemisphere,1
+25,Male,197,178/72,45,0,1,1,0,1,18.84852628,Unhealthy,1,1,1,1.419888198,59634,18.52219873,661,0,6,Spain,Europe,Southern Hemisphere,0
+27,Male,321,111/91,50,1,0,1,1,0,0.759439871,Unhealthy,1,1,2,3.379074925,53345,34.19649188,558,7,8,Nigeria,Africa,Northern Hemisphere,1
+86,Male,375,99/85,46,1,1,1,0,0,3.466864144,Healthy,0,1,3,1.866031148,163789,18.79283401,209,6,10,France,Europe,Northern Hemisphere,0
+42,Male,360,103/107,44,1,0,1,1,1,8.503859747,Healthy,0,0,5,9.580939649,94144,29.70187717,586,1,4,India,Asia,Northern Hemisphere,1
+52,Female,360,94/60,106,1,0,1,1,0,11.30836599,Unhealthy,0,0,3,7.69563951,135099,27.0958532,743,4,5,New Zealand,Australia,Southern Hemisphere,1
+27,Female,263,127/109,83,0,1,0,0,0,2.096676342,Unhealthy,0,0,2,9.362786136,264135,39.84414468,411,2,9,Argentina,South America,Southern Hemisphere,0
+29,Female,201,134/60,86,0,0,0,1,1,3.973168002,Average,1,0,6,10.96551695,138186,33.7876846,785,0,10,Argentina,South America,Southern Hemisphere,0
+67,Male,347,115/92,65,1,0,1,1,1,13.87148671,Healthy,1,0,1,1.253955533,37324,38.72018788,790,1,10,India,Asia,Northern Hemisphere,0
+29,Male,129,124/93,86,0,1,1,1,1,12.10698169,Unhealthy,1,1,3,3.641065224,123956,32.1721718,697,4,6,Canada,North America,Northern Hemisphere,0
+30,Female,135,104/96,101,0,0,0,0,1,5.732724595,Unhealthy,1,1,8,9.750387233,139504,27.47436401,519,1,5,New Zealand,Australia,Southern Hemisphere,0
+47,Male,229,144/108,65,1,0,1,1,0,5.367175284,Healthy,1,0,6,4.6055845,278913,35.25160589,595,0,7,India,Asia,Northern Hemisphere,1
+86,Female,251,101/90,96,0,1,1,0,1,7.489451607,Unhealthy,1,1,3,11.03939444,202033,21.81136793,452,5,4,Canada,North America,Northern Hemisphere,1
+44,Male,121,115/109,51,1,0,1,1,1,16.65897338,Healthy,0,0,7,5.25891489,59122,27.09419137,158,4,10,United States,North America,Northern Hemisphere,1
+50,Male,190,149/73,43,1,1,1,0,0,0.618009983,Unhealthy,0,0,5,0.870974853,119607,25.76902564,679,7,9,France,Europe,Northern Hemisphere,0
+33,Male,185,120/63,79,0,1,1,1,0,16.16048124,Healthy,0,1,7,11.08384293,239725,37.20900496,675,6,4,Italy,Europe,Southern Hemisphere,1
+51,Male,197,106/106,79,1,1,1,1,0,14.12351894,Unhealthy,0,0,3,1.539100041,257061,24.66997133,785,1,5,Argentina,South America,Southern Hemisphere,0
+70,Female,279,102/76,86,0,0,1,1,1,2.590628034,Healthy,1,1,6,1.090400176,191558,29.97080949,792,4,6,Japan,Asia,Northern Hemisphere,1
+85,Male,336,114/92,73,1,1,1,0,1,17.75435919,Average,0,1,1,10.38214938,204162,25.58300807,584,7,10,South Korea,Asia,Northern Hemisphere,0
+31,Female,192,124/93,90,1,0,0,0,1,3.604784791,Unhealthy,1,0,1,10.37886973,30816,30.14819319,366,5,10,Vietnam,Asia,Northern Hemisphere,1
+56,Male,180,173/108,94,1,1,1,1,1,7.272098929,Unhealthy,1,0,7,5.855339554,295082,18.29173183,741,6,7,New Zealand,Australia,Southern Hemisphere,0
+36,Male,203,173/109,101,1,1,1,0,0,14.20552681,Average,1,0,8,10.85699532,102220,28.00714262,523,2,6,Germany,Europe,Northern Hemisphere,1
+70,Male,368,168/91,78,0,0,1,0,0,2.16438381,Healthy,1,1,10,11.64360411,225432,29.76367384,474,5,10,Italy,Europe,Southern Hemisphere,1
+67,Male,222,159/79,105,1,1,1,1,0,0.516875097,Average,1,1,1,0.861539698,286299,37.25874755,92,0,8,Australia,Australia,Southern Hemisphere,1
+31,Male,243,100/80,92,1,1,1,1,1,2.403627265,Unhealthy,0,1,2,7.247166874,269959,30.99029906,410,7,9,United States,North America,Northern Hemisphere,1
+24,Male,218,118/76,68,0,1,1,1,1,6.319013961,Average,0,1,10,10.89882737,226086,27.18363775,398,3,8,Australia,Australia,Southern Hemisphere,1
+54,Female,120,103/83,54,1,1,1,0,0,15.03677503,Unhealthy,1,0,8,9.766583458,50984,18.77846118,493,0,5,China,Asia,Northern Hemisphere,1
+70,Female,279,152/90,52,1,1,1,1,1,9.66059725,Average,0,1,3,0.408900818,242491,39.001247,614,3,10,Vietnam,Asia,Northern Hemisphere,1
+74,Male,285,151/85,109,1,1,1,0,1,5.575382082,Unhealthy,0,1,1,10.87126984,35855,39.78390935,682,6,10,Nigeria,Africa,Northern Hemisphere,1
+72,Male,377,144/98,61,1,1,1,1,0,17.43960987,Unhealthy,1,1,9,3.476703151,249614,28.5146383,106,1,10,Japan,Asia,Northern Hemisphere,1
+55,Male,369,109/95,64,1,0,1,0,0,1.402201343,Unhealthy,1,0,3,4.639206671,75517,23.39932278,216,5,10,Argentina,South America,Southern Hemisphere,1
+42,Male,311,92/61,82,1,0,1,0,1,1.773249911,Average,0,0,8,4.615071623,133766,32.15698824,408,1,7,South Korea,Asia,Northern Hemisphere,1
+90,Female,139,179/93,85,0,1,1,1,1,1.713099241,Average,1,0,6,6.260978915,73167,28.27730545,628,7,9,South Africa,Africa,Southern Hemisphere,1
+26,Male,266,120/69,46,1,0,1,0,1,18.18809035,Unhealthy,0,0,3,5.626265743,57948,32.33484692,481,7,5,Germany,Europe,Northern Hemisphere,1
+53,Male,133,161/108,110,1,1,1,1,0,4.869746613,Average,1,0,8,2.094265076,182477,27.68179213,67,4,9,Canada,North America,Northern Hemisphere,1
+63,Male,153,131/76,86,1,1,1,1,1,18.59588033,Average,0,0,4,11.65980561,262933,19.67582873,82,0,4,Brazil,South America,Southern Hemisphere,1
+46,Male,120,107/65,50,1,0,1,1,1,4.947740062,Average,0,0,6,6.569873059,193855,36.48884649,305,1,10,Australia,Australia,Southern Hemisphere,1
+57,Female,220,132/109,94,1,1,1,0,0,13.65806898,Average,1,1,4,11.1219217,250419,37.8069946,164,2,5,China,Asia,Northern Hemisphere,1
+31,Female,339,131/97,42,1,0,0,1,0,12.37025952,Healthy,0,0,5,6.760226195,187864,35.45545928,211,5,6,Brazil,South America,Southern Hemisphere,1
+74,Male,329,149/73,96,1,0,1,1,1,14.08894887,Unhealthy,1,0,1,1.726470503,258104,37.67866251,511,0,4,Germany,Europe,Northern Hemisphere,1
+63,Female,203,177/99,55,1,0,1,0,1,17.32914386,Unhealthy,0,1,2,8.299276308,52552,30.87047999,766,1,9,Canada,North America,Northern Hemisphere,1
+46,Male,333,130/94,63,1,1,1,0,0,18.10883359,Unhealthy,1,1,5,11.03718724,128868,23.9070912,547,5,10,Spain,Europe,Southern Hemisphere,1
+22,Male,398,174/93,82,1,1,1,0,0,18.42230195,Average,0,1,9,5.204852034,259754,39.4132127,327,3,6,Nigeria,Africa,Northern Hemisphere,1
+53,Female,124,110/105,93,0,0,1,0,0,1.017523783,Unhealthy,0,1,1,1.786264551,49893,34.11599988,367,7,10,Germany,Europe,Northern Hemisphere,1
+90,Male,183,116/98,69,1,0,1,0,0,19.71384008,Average,0,1,7,4.921845222,294623,22.16398755,681,2,8,Australia,Australia,Southern Hemisphere,1
+55,Male,163,139/107,63,0,0,1,1,0,11.475115,Healthy,1,1,2,9.35106664,158030,26.60876731,131,0,7,Australia,Australia,Southern Hemisphere,1
+64,Male,368,164/95,105,1,0,1,0,1,19.9212262,Average,1,0,1,3.849533404,74158,37.87087017,653,3,6,Nigeria,Africa,Northern Hemisphere,1
+78,Male,252,104/83,40,0,0,1,1,1,3.427060786,Unhealthy,1,0,2,1.310930461,207372,38.00949039,336,6,9,Thailand,Asia,Northern Hemisphere,1
+76,Male,149,103/85,42,1,0,1,0,1,7.397623753,Healthy,0,1,8,0.857911231,234439,20.95661183,600,5,8,Vietnam,Asia,Northern Hemisphere,1
+53,Male,350,147/72,55,1,1,1,0,1,10.02684708,Unhealthy,1,1,1,6.262094552,72363,38.45506571,195,7,5,Colombia,South America,Northern Hemisphere,1
+44,Male,294,140/92,79,0,0,1,0,0,15.1999453,Healthy,0,1,4,11.39897809,294424,28.84411853,341,4,4,Nigeria,Africa,Northern Hemisphere,1
+42,Male,257,172/93,99,1,1,1,0,1,1.560415311,Healthy,1,0,3,7.08773388,162034,23.55382634,279,6,4,Australia,Australia,Southern Hemisphere,1
+31,Male,290,157/87,65,1,0,1,1,0,8.013247039,Average,1,1,8,5.471387436,207590,36.36949716,612,0,7,Australia,Australia,Southern Hemisphere,1
+62,Male,271,131/72,53,1,0,1,1,0,17.82902262,Average,1,0,5,2.122526591,205715,21.4815551,394,2,9,China,Asia,Northern Hemisphere,1
+40,Male,370,117/72,91,0,1,1,0,1,7.293812118,Unhealthy,0,1,8,3.734164377,219218,18.19731929,232,7,10,France,Europe,Northern Hemisphere,1
+20,Male,390,163/81,46,1,1,1,1,0,4.263203849,Unhealthy,0,1,9,11.55965457,295494,39.15937191,445,0,5,France,Europe,Northern Hemisphere,1
+42,Male,139,159/76,46,1,0,1,1,0,0.836760948,Unhealthy,0,1,9,2.795308973,179422,20.36366287,278,7,4,South Korea,Asia,Northern Hemisphere,1
+57,Male,320,172/92,99,1,1,1,0,1,12.24406091,Healthy,1,0,5,1.162737222,176506,27.35432211,501,7,7,New Zealand,Australia,Southern Hemisphere,1
+69,Female,361,129/73,94,0,0,1,1,1,0.274676564,Healthy,1,1,2,8.099702639,284912,20.44533771,398,2,8,Thailand,Asia,Northern Hemisphere,1
+84,Male,287,165/105,82,0,0,1,0,1,4.013599646,Average,0,0,5,7.384184192,126601,30.0984745,587,2,6,United Kingdom,Europe,Northern Hemisphere,1
+35,Male,375,110/88,100,1,1,1,1,1,10.50671443,Healthy,0,1,3,4.935843404,251471,22.5764601,529,0,9,Spain,Europe,Southern Hemisphere,1
+49,Male,156,142/67,65,1,0,1,0,0,19.69588301,Healthy,1,0,5,8.065939409,95357,30.21954659,491,0,8,Argentina,South America,Southern Hemisphere,1
+51,Male,238,99/98,85,0,0,1,1,0,9.130548932,Unhealthy,0,1,3,10.4485964,290935,23.54356577,53,3,4,Thailand,Asia,Northern Hemisphere,1
+53,Male,237,168/66,98,1,0,1,0,1,9.319740283,Average,1,0,2,3.660129711,77182,30.90261297,69,5,5,Australia,Australia,Southern Hemisphere,1
+84,Male,313,170/85,54,0,0,1,0,1,19.09383601,Unhealthy,1,1,8,7.692439777,201042,31.31678555,394,7,7,China,Asia,Northern Hemisphere,1
+63,Male,201,169/70,66,0,0,1,0,1,17.57134637,Healthy,0,0,9,7.30986974,218991,32.53665419,68,5,10,Brazil,South America,Southern Hemisphere,1
+79,Male,120,168/88,77,0,0,1,1,1,8.603965877,Average,1,1,9,2.88677901,284238,21.30711279,202,7,7,Italy,Europe,Southern Hemisphere,1
+48,Male,374,116/97,94,1,0,1,0,1,5.340802444,Healthy,0,0,1,10.16786156,218311,19.02289191,337,7,10,Vietnam,Asia,Northern Hemisphere,1
+73,Male,356,170/68,96,1,1,1,0,1,13.56162463,Healthy,1,0,7,5.866060198,22173,22.85900796,313,5,4,Germany,Europe,Northern Hemisphere,1
+73,Male,128,147/79,71,1,1,1,0,0,17.76894466,Healthy,1,0,10,6.522385766,202066,39.10410885,760,2,8,China,Asia,Northern Hemisphere,1
+72,Male,395,125/102,72,1,0,1,0,1,10.65499794,Healthy,0,1,4,6.493060213,175195,18.32136543,160,1,7,Colombia,South America,Northern Hemisphere,1
+80,Male,142,157/84,41,1,1,1,1,1,1.406060578,Healthy,0,0,6,0.440663517,132748,33.89206728,726,2,7,Spain,Europe,Southern Hemisphere,1
+45,Male,183,93/90,107,1,1,1,0,0,6.678677782,Unhealthy,1,1,4,3.863398839,87063,37.23110396,46,1,6,Brazil,South America,Southern Hemisphere,1
+18,Male,157,130/69,85,1,0,1,0,1,11.84766942,Unhealthy,0,0,3,2.40764415,213925,30.07539614,718,0,5,Colombia,South America,Northern Hemisphere,1
+43,Female,348,105/80,102,1,0,1,1,1,8.546344791,Healthy,0,0,3,10.18114394,237268,38.60198914,176,3,6,Colombia,South America,Northern Hemisphere,1
+49,Male,363,129/60,94,1,0,1,0,0,9.989825584,Healthy,1,1,2,3.314630286,212845,37.76412137,407,1,5,Germany,Europe,Northern Hemisphere,1
+36,Male,389,138/72,108,1,0,1,0,1,7.487174886,Healthy,1,0,5,7.080768709,74719,28.70616732,180,2,9,Thailand,Asia,Northern Hemisphere,1
+82,Male,143,102/80,41,0,0,1,1,0,15.30454349,Healthy,1,1,3,5.543284323,282627,26.38081318,372,6,4,Nigeria,Africa,Northern Hemisphere,1
+28,Male,130,139/65,74,1,1,1,0,1,2.245300812,Healthy,1,0,4,3.201965747,195166,39.98032654,289,2,9,Nigeria,Africa,Northern Hemisphere,1
+21,Male,140,180/103,48,0,1,1,1,1,3.84992552,Average,1,1,5,0.892631586,179903,37.9670858,409,3,5,Nigeria,Africa,Northern Hemisphere,1
+66,Male,205,135/90,65,1,0,1,0,1,0.182219403,Average,1,0,10,1.050808225,130205,20.38616276,87,4,4,Canada,North America,Northern Hemisphere,1
+87,Male,262,107/102,62,1,1,1,0,1,13.1001318,Unhealthy,1,1,4,2.232996053,226028,27.08847859,331,2,9,India,Asia,Northern Hemisphere,1
+88,Male,198,110/75,78,0,1,1,1,1,6.750503291,Average,1,1,4,5.867111204,197396,28.71740833,85,0,6,Australia,Australia,Southern Hemisphere,1
+20,Female,192,105/109,108,1,1,0,1,0,2.791220087,Healthy,1,1,8,2.586848185,263413,19.97928858,39,5,7,Vietnam,Asia,Northern Hemisphere,1
+75,Male,296,142/78,100,0,0,1,1,1,2.524134212,Healthy,1,1,1,1.861284275,181375,29.69184226,220,0,6,China,Asia,Northern Hemisphere,1
+59,Male,393,148/60,51,0,1,1,1,1,18.78690377,Average,1,0,4,4.087981113,164231,30.85282397,457,5,9,New Zealand,Australia,Southern Hemisphere,1
+75,Male,356,133/89,49,1,1,1,0,1,7.601976645,Average,0,1,8,1.821695536,47488,35.85517646,39,2,5,Germany,Europe,Northern Hemisphere,0
+86,Female,250,170/83,104,1,1,1,0,0,17.42455612,Unhealthy,1,1,5,8.500770883,136781,38.4423231,699,5,6,United Kingdom,Europe,Northern Hemisphere,1
+38,Female,395,92/108,103,1,0,0,0,0,11.62186194,Average,0,1,7,5.854517151,111056,34.33669032,319,7,10,South Korea,Asia,Northern Hemisphere,1
+24,Female,343,131/71,66,1,0,0,1,1,11.50005078,Average,1,1,5,4.368843233,87749,34.916421,664,3,8,Vietnam,Asia,Northern Hemisphere,0
+89,Male,209,113/71,51,1,0,1,0,1,10.37095631,Average,1,0,7,9.221382874,113819,29.7265642,387,5,10,Vietnam,Asia,Northern Hemisphere,0
+33,Female,286,106/89,107,0,1,0,1,1,7.599786615,Average,1,0,10,4.511997944,179603,25.33300915,254,3,8,Japan,Asia,Northern Hemisphere,0
+88,Male,349,126/68,75,1,1,1,1,0,17.55529343,Average,1,0,6,6.812053773,86695,28.52014864,79,5,6,United States,North America,Northern Hemisphere,0
+38,Female,301,131/97,102,0,1,0,1,0,18.03917936,Healthy,0,1,2,8.851385926,92213,28.2120233,112,0,8,Nigeria,Africa,Northern Hemisphere,1
+74,Female,218,126/83,41,1,1,1,0,1,8.095629223,Healthy,1,0,4,7.601228326,66256,19.6497218,765,3,7,South Africa,Africa,Southern Hemisphere,0
+46,Male,300,108/81,85,0,0,1,0,1,8.250547062,Healthy,0,0,7,1.04616974,294982,38.08497477,365,4,10,India,Asia,Northern Hemisphere,1
+43,Male,400,101/85,44,1,0,1,1,0,4.371707218,Unhealthy,1,0,8,2.625386857,291988,29.68239509,695,1,7,Vietnam,Asia,Northern Hemisphere,0
+50,Male,142,121/82,108,1,0,1,1,1,3.38019781,Healthy,1,1,9,4.759966035,95171,30.41536567,500,0,8,Australia,Australia,Southern Hemisphere,1
+89,Female,185,146/86,75,1,1,1,0,1,12.99342099,Healthy,1,0,2,11.97542197,39653,35.88786597,507,3,7,South Africa,Africa,Southern Hemisphere,1
+60,Male,252,120/82,91,0,1,1,0,0,2.063053599,Unhealthy,0,1,7,4.41485633,195939,35.05036511,611,6,4,United Kingdom,Europe,Northern Hemisphere,0
+29,Male,251,178/88,105,1,1,1,1,0,8.826357788,Healthy,0,1,6,1.480949148,214157,36.4893229,415,7,6,Germany,Europe,Northern Hemisphere,1
+76,Female,379,158/79,85,0,0,1,1,1,14.35432494,Average,0,0,8,5.016740598,96785,38.97554365,164,3,10,Thailand,Asia,Northern Hemisphere,1
+19,Female,303,177/73,44,1,0,0,0,1,13.45380337,Average,1,0,2,7.704465987,96606,39.48991072,430,6,4,South Africa,Africa,Southern Hemisphere,1
+90,Male,314,100/69,58,1,0,1,1,1,6.902415072,Unhealthy,1,1,5,9.966609813,120615,27.66056935,778,1,9,Thailand,Asia,Northern Hemisphere,1
+24,Male,287,91/92,93,1,1,1,1,0,17.51936962,Unhealthy,1,0,7,9.165225059,162757,36.91244913,429,5,5,Germany,Europe,Northern Hemisphere,0
+63,Male,361,148/67,55,1,0,1,0,0,4.715044646,Average,0,0,3,11.93946617,229706,35.96298157,570,5,8,South Korea,Asia,Northern Hemisphere,1
+66,Male,309,120/71,85,1,0,1,0,0,16.93282613,Healthy,0,0,1,2.604973782,90107,28.41910426,154,1,4,United States,North America,Northern Hemisphere,0
+86,Male,363,176/89,106,0,1,1,0,0,12.46024813,Average,1,1,1,9.968568966,66773,39.73967896,367,3,8,South Korea,Asia,Northern Hemisphere,1
+88,Male,225,110/96,110,1,0,1,1,1,15.18986354,Average,1,0,3,4.304371259,138913,20.42552221,597,7,5,United States,North America,Northern Hemisphere,1
+47,Male,209,164/65,102,1,0,1,0,0,17.62438221,Healthy,1,0,2,6.03815768,244489,37.4355915,769,5,8,Brazil,South America,Southern Hemisphere,1
+33,Female,159,165/82,95,0,1,0,1,1,11.39601747,Unhealthy,1,1,3,6.261884223,28230,39.12596016,451,6,6,France,Europe,Northern Hemisphere,1
+27,Female,126,139/90,83,1,1,0,0,1,15.27396383,Average,1,1,3,6.356127642,168922,36.20097075,472,2,5,Spain,Europe,Southern Hemisphere,1
+47,Female,192,159/85,84,1,0,1,0,0,5.952965038,Average,0,1,8,5.731114979,67695,34.32745062,387,4,8,United Kingdom,Europe,Northern Hemisphere,1
+53,Male,291,109/67,52,0,1,1,0,1,0.681883511,Unhealthy,0,1,10,5.315750241,169327,23.13462698,500,1,4,South Africa,Africa,Southern Hemisphere,1
+88,Male,242,112/75,77,0,1,1,1,0,7.665029755,Healthy,0,1,10,10.97795234,35183,25.80231395,643,7,4,Japan,Asia,Northern Hemisphere,1
+67,Male,234,166/82,71,1,1,1,0,0,13.39714494,Unhealthy,1,1,8,8.222926042,205797,37.79725615,775,5,9,Thailand,Asia,Northern Hemisphere,1
+42,Male,277,94/88,96,1,0,1,0,0,13.03711189,Healthy,1,0,1,6.231741669,230147,30.64839952,301,2,10,India,Asia,Northern Hemisphere,1
+79,Female,155,153/99,72,1,1,1,1,1,8.238792782,Average,1,1,10,3.988100301,201162,24.65643121,111,1,10,Nigeria,Africa,Northern Hemisphere,1
+28,Male,122,149/86,81,1,1,1,1,0,9.890458352,Healthy,1,1,7,4.062703646,28765,33.85153492,500,3,5,South Africa,Africa,Southern Hemisphere,1
+53,Male,326,109/68,47,1,1,1,1,1,3.141612889,Average,0,1,2,8.122135178,137381,20.38946907,234,0,10,United States,North America,Northern Hemisphere,1
+62,Female,274,143/78,98,1,0,1,1,1,1.316222432,Healthy,0,0,3,5.719210434,250398,37.0675357,554,3,4,Thailand,Asia,Northern Hemisphere,1
+33,Female,349,116/60,41,1,0,0,0,1,17.17850426,Unhealthy,0,1,4,3.606981009,269780,33.57209531,323,7,7,Brazil,South America,Southern Hemisphere,1
+81,Male,170,155/75,89,1,1,1,0,0,4.748286561,Unhealthy,0,1,7,5.522182134,87197,22.69249012,95,5,6,Argentina,South America,Southern Hemisphere,1
+83,Male,291,153/93,58,1,1,1,0,1,14.85569874,Healthy,1,1,4,10.72432087,43163,32.72753562,94,6,6,Colombia,South America,Northern Hemisphere,1
+85,Female,194,99/86,46,0,0,1,1,0,6.153063946,Average,0,1,8,8.263437228,280098,35.58563476,314,3,6,Nigeria,Africa,Northern Hemisphere,1
+55,Female,124,116/104,62,0,1,1,1,0,16.26030512,Unhealthy,1,1,2,5.478341985,126601,36.50235729,657,3,5,Japan,Asia,Northern Hemisphere,1
+42,Male,389,148/100,48,0,1,1,1,0,2.847814916,Unhealthy,0,0,1,9.238428307,53767,29.68808505,318,2,7,United Kingdom,Europe,Northern Hemisphere,1
+84,Male,217,163/68,66,1,1,1,0,1,0.26747432,Healthy,0,0,3,5.222403545,112453,39.93079479,624,5,6,New Zealand,Australia,Southern Hemisphere,1
+30,Male,158,147/82,74,0,1,1,0,1,10.31911254,Healthy,1,0,4,11.8583698,206019,31.64181699,634,7,10,United Kingdom,Europe,Northern Hemisphere,1
+55,Male,329,156/80,78,1,0,1,0,1,11.24036644,Unhealthy,0,0,4,9.433998223,240128,37.88063687,361,6,8,United States,North America,Northern Hemisphere,1
+35,Female,191,93/63,106,0,1,0,0,0,10.78726153,Unhealthy,1,1,4,5.698529544,189139,33.55043577,254,7,8,Spain,Europe,Southern Hemisphere,1
+39,Female,166,164/110,76,0,1,0,0,0,4.343458176,Unhealthy,0,1,5,11.31055686,127625,33.65713665,88,3,9,Canada,North America,Northern Hemisphere,1
+42,Male,204,103/107,110,1,1,1,0,1,14.99326139,Healthy,0,1,6,10.51127796,297848,22.49340065,278,0,7,China,Asia,Northern Hemisphere,1
+28,Male,141,155/96,64,1,0,1,0,1,6.393542516,Unhealthy,1,0,7,1.788047508,217172,28.98587379,188,1,6,India,Asia,Northern Hemisphere,1
+59,Male,229,110/108,47,1,0,1,0,1,5.240304159,Average,1,0,3,4.860240695,56761,18.90959312,370,4,9,Australia,Australia,Southern Hemisphere,1
+54,Male,204,134/98,88,1,0,1,0,0,11.18420835,Average,0,0,1,4.736575336,138999,27.04742091,402,2,6,Brazil,South America,Southern Hemisphere,1
+82,Male,156,178/102,75,1,0,1,1,0,7.858603023,Average,0,1,2,1.086317417,59038,38.95907759,737,1,9,Colombia,South America,Northern Hemisphere,1
+41,Male,277,170/72,58,1,0,1,0,1,6.098259493,Average,0,1,5,6.606019634,240182,32.49820996,141,7,7,Thailand,Asia,Northern Hemisphere,1
+42,Male,375,143/95,41,0,0,1,0,0,3.267347702,Healthy,1,0,3,5.569277973,102628,26.27124672,465,5,9,Brazil,South America,Southern Hemisphere,1
+63,Male,371,170/106,74,0,0,1,1,1,13.48436401,Unhealthy,0,1,1,10.95928354,74458,27.78242992,160,1,4,France,Europe,Northern Hemisphere,1
+57,Female,217,97/104,109,1,0,1,1,1,9.671844685,Unhealthy,0,1,4,8.748946619,255604,33.7235632,536,3,8,Nigeria,Africa,Northern Hemisphere,1
+90,Male,274,169/87,49,1,0,1,0,0,1.858143203,Healthy,1,1,2,11.47244741,176586,22.41033804,459,4,5,Italy,Europe,Southern Hemisphere,1
+19,Female,200,153/105,47,1,0,0,0,0,14.22558048,Average,1,1,6,5.508286869,105934,22.50990503,650,6,10,Thailand,Asia,Northern Hemisphere,1
+25,Male,186,157/63,43,0,1,1,1,0,5.236219006,Average,0,0,5,10.5172522,144145,33.65075415,562,2,9,Italy,Europe,Southern Hemisphere,1
+84,Male,373,179/91,54,0,1,1,1,0,19.43941222,Healthy,0,0,8,7.520265001,79810,18.84353619,244,0,9,Australia,Australia,Southern Hemisphere,1
+23,Female,265,94/95,70,1,0,0,1,1,13.91326601,Healthy,1,1,10,2.633555068,178661,35.23995835,144,3,9,Italy,Europe,Southern Hemisphere,1
+82,Male,298,146/68,94,1,1,1,0,1,11.07362597,Unhealthy,0,1,1,3.601086076,134587,18.7838929,610,3,4,South Africa,Africa,Southern Hemisphere,1
+45,Female,370,98/63,108,1,1,1,0,1,11.40841571,Average,1,0,9,7.350674707,68192,25.07581005,101,7,4,South Korea,Asia,Northern Hemisphere,1
+41,Male,258,101/96,67,1,1,1,0,1,18.61500703,Unhealthy,0,1,8,4.326457295,99462,37.6185257,196,4,5,Canada,North America,Northern Hemisphere,1
+40,Male,216,174/97,43,0,1,1,1,0,11.34190157,Average,0,0,9,2.038367534,230913,39.78902823,781,5,9,Argentina,South America,Southern Hemisphere,1
+36,Male,228,171/96,69,1,1,1,0,0,7.371445786,Average,1,0,2,4.092699418,82000,39.12665314,305,4,5,South Korea,Asia,Northern Hemisphere,1
+32,Female,277,143/89,53,0,1,0,1,1,4.823750457,Healthy,0,1,4,4.982257529,263895,29.13327983,461,4,9,Italy,Europe,Southern Hemisphere,1
+53,Female,192,136/68,70,1,0,1,0,1,13.03157182,Healthy,0,0,7,6.136151567,185808,28.03543074,667,0,9,Vietnam,Asia,Northern Hemisphere,1
+63,Female,392,141/90,55,0,1,1,0,0,3.737398894,Average,0,0,3,3.032948703,72350,33.85701385,468,6,10,United Kingdom,Europe,Northern Hemisphere,1
+24,Male,175,171/61,94,1,0,1,1,1,15.33850847,Healthy,1,0,2,10.4230363,228469,24.11967621,537,5,4,China,Asia,Northern Hemisphere,1
+45,Male,154,154/76,49,0,0,1,0,0,6.898745852,Average,1,0,2,8.716668468,109611,20.56576575,288,3,8,India,Asia,Northern Hemisphere,1
+32,Male,127,100/108,105,0,1,1,1,0,5.873882556,Average,1,0,10,4.698957833,84368,21.15163753,674,1,8,Nigeria,Africa,Northern Hemisphere,1
+34,Male,238,170/108,48,1,1,1,0,1,9.525508003,Healthy,0,0,10,6.872265755,132256,34.06768958,629,3,8,United Kingdom,Europe,Northern Hemisphere,1
+44,Male,344,96/107,65,0,0,1,0,0,9.84491655,Average,1,1,4,9.780469972,50584,22.02613488,195,3,10,Spain,Europe,Southern Hemisphere,1
+33,Male,235,172/75,41,0,0,1,1,0,11.54620887,Average,0,1,9,10.17669825,297167,39.87249772,229,1,10,Brazil,South America,Southern Hemisphere,1
+72,Male,217,142/106,87,1,1,1,0,0,6.273567041,Unhealthy,0,1,6,1.095631575,172093,19.59124634,731,4,4,Italy,Europe,Southern Hemisphere,1
+51,Male,248,145/108,103,1,1,1,1,0,4.06079157,Healthy,1,1,5,6.530105153,237808,35.7207226,668,3,10,South Korea,Asia,Northern Hemisphere,1
+80,Female,368,96/97,60,0,0,1,1,1,16.99104664,Unhealthy,0,1,1,11.57763111,58276,28.75310413,388,7,9,Vietnam,Asia,Northern Hemisphere,1
+19,Male,317,146/77,84,1,0,1,1,1,14.34144775,Average,1,1,10,11.46464928,154933,36.29537123,413,2,5,Australia,Australia,Southern Hemisphere,1
+67,Female,161,170/62,79,1,0,1,0,1,7.905767421,Average,1,0,5,1.745379649,244124,25.22850058,176,6,9,China,Asia,Northern Hemisphere,1
+63,Female,202,171/80,92,0,0,1,0,1,0.481009596,Unhealthy,0,1,1,6.442425506,72327,30.63425447,613,4,8,Australia,Australia,Southern Hemisphere,1
+30,Male,142,132/107,86,1,0,1,0,1,13.16778966,Unhealthy,0,1,10,5.039048277,223985,30.71764006,301,5,9,South Africa,Africa,Southern Hemisphere,1
+47,Male,183,130/81,88,1,1,1,1,0,2.864783613,Unhealthy,0,1,9,0.977721611,106806,32.11180336,266,5,10,Brazil,South America,Southern Hemisphere,1
+58,Male,371,110/101,80,0,0,1,1,1,12.47933819,Average,0,1,5,8.391162908,236318,19.67129593,588,5,8,Vietnam,Asia,Northern Hemisphere,1
+53,Male,218,105/110,102,1,0,1,1,0,4.340345871,Healthy,1,0,2,10.58598055,298967,30.41016893,148,4,10,Argentina,South America,Southern Hemisphere,1
+64,Female,253,151/105,52,1,1,1,0,0,7.711515602,Average,1,0,10,3.727493163,299769,23.84046705,40,2,5,Spain,Europe,Southern Hemisphere,1
+66,Male,305,127/69,50,0,1,1,1,0,17.48555156,Unhealthy,0,0,1,7.795456226,147136,25.46415915,331,3,9,Italy,Europe,Southern Hemisphere,1
+37,Male,143,116/67,104,1,0,1,1,1,13.65271256,Unhealthy,0,1,2,5.984106515,49007,39.34208446,354,0,9,United Kingdom,Europe,Northern Hemisphere,1
+27,Male,289,143/85,51,1,0,1,0,1,10.94678701,Unhealthy,1,1,3,4.211492832,225725,32.26697035,592,6,9,Germany,Europe,Northern Hemisphere,1
+39,Male,302,126/99,49,0,1,1,1,1,13.95097393,Healthy,1,0,7,3.427157152,293278,24.03724937,429,6,10,Nigeria,Africa,Northern Hemisphere,1
+18,Male,166,139/96,59,1,1,1,0,1,9.866695631,Healthy,1,1,6,6.110058069,105803,38.2086475,391,1,10,Argentina,South America,Southern Hemisphere,1
+76,Male,296,167/64,95,0,0,1,1,1,9.0357728,Average,0,0,3,9.859125048,157544,29.26618259,316,5,7,Canada,North America,Northern Hemisphere,1
+57,Male,364,98/84,53,1,1,1,1,1,5.629857142,Healthy,1,0,9,4.399725425,111421,24.28194495,103,1,5,Brazil,South America,Southern Hemisphere,1
+75,Male,300,170/84,101,1,1,1,0,1,1.319077422,Healthy,0,1,1,2.265700619,106124,27.44102843,701,3,8,Canada,North America,Northern Hemisphere,1
+79,Female,377,116/87,55,0,1,1,1,1,17.21746942,Average,1,0,3,11.38751432,210971,23.73056679,645,5,10,China,Asia,Northern Hemisphere,1
+29,Male,264,117/87,103,0,0,1,1,1,0.155751974,Healthy,0,0,9,3.660932529,186466,26.43626508,440,7,8,Italy,Europe,Southern Hemisphere,1
+84,Female,201,116/92,61,0,1,1,0,0,17.05085406,Average,0,0,6,6.729573233,90470,30.94140167,596,4,6,Canada,North America,Northern Hemisphere,1
+65,Male,136,145/109,84,1,0,1,0,1,14.99119992,Unhealthy,1,0,4,1.936725102,146635,33.89827016,182,2,9,Vietnam,Asia,Northern Hemisphere,1
+44,Male,261,98/85,104,1,1,1,1,0,14.4359355,Healthy,1,1,3,2.345751399,276643,39.19919254,747,6,5,Colombia,South America,Northern Hemisphere,1
+65,Male,392,178/77,54,0,0,1,1,0,11.479092,Unhealthy,0,0,4,3.655200218,158889,34.25537335,700,5,6,South Korea,Asia,Northern Hemisphere,1
+80,Male,170,93/79,42,1,0,1,1,1,3.666964809,Healthy,1,0,6,9.18839947,174310,30.23827209,721,1,4,Spain,Europe,Southern Hemisphere,1
+35,Male,253,155/96,83,1,0,1,0,0,2.813449643,Average,0,0,1,11.49534517,258813,23.03367285,347,1,10,Spain,Europe,Southern Hemisphere,1
+40,Male,268,175/90,81,0,1,1,0,1,19.76845743,Healthy,1,0,2,10.56776346,57444,20.01284348,733,7,9,Colombia,South America,Northern Hemisphere,1
+74,Female,227,128/98,57,1,0,1,1,0,16.04972091,Unhealthy,0,1,4,8.518243903,279497,22.57680939,395,6,9,India,Asia,Northern Hemisphere,1
+65,Male,280,154/106,63,0,0,1,0,1,12.13409144,Unhealthy,1,1,9,3.842719672,118770,32.10721733,276,3,4,France,Europe,Northern Hemisphere,1
+66,Male,281,155/102,83,0,1,1,0,1,8.346492475,Average,1,0,2,4.093676465,107568,37.62462747,352,2,7,Spain,Europe,Southern Hemisphere,1
+36,Male,228,150/93,92,0,0,1,0,1,2.430102309,Average,0,1,8,5.3915073,110863,33.78619501,453,2,6,Canada,North America,Northern Hemisphere,1
+78,Female,244,133/103,104,0,1,1,0,1,4.152201682,Average,1,0,5,4.360797821,225857,18.26457356,349,6,10,New Zealand,Australia,Southern Hemisphere,1
+79,Female,245,117/100,47,1,0,1,0,1,7.364373724,Healthy,0,1,2,3.551014241,220789,20.67895421,434,0,8,Japan,Asia,Northern Hemisphere,1
+34,Male,240,162/99,42,0,1,1,1,0,0.413496526,Average,1,1,5,0.361735471,265088,33.06522214,209,4,6,France,Europe,Northern Hemisphere,1
+50,Female,234,117/78,52,1,0,1,1,1,7.430065765,Average,0,0,5,7.638038655,106808,26.11935512,352,6,10,Canada,North America,Northern Hemisphere,1
+34,Female,139,124/107,47,0,1,0,1,1,0.197653148,Healthy,1,0,6,2.462533021,111631,25.70673827,690,7,10,Germany,Europe,Northern Hemisphere,1
+40,Female,346,106/88,43,1,1,0,0,1,8.549005315,Unhealthy,1,0,3,3.351618777,184426,37.78868482,423,6,5,Colombia,South America,Northern Hemisphere,1
+62,Male,340,117/110,46,1,1,1,0,1,11.64660067,Unhealthy,0,0,1,5.998699787,164026,27.36884261,95,0,5,India,Asia,Northern Hemisphere,1
+60,Male,276,158/86,106,1,1,1,1,1,5.572549413,Unhealthy,0,0,2,6.467775112,65956,18.60907124,90,7,10,Australia,Australia,Southern Hemisphere,1
+72,Male,306,124/88,45,1,0,1,0,0,8.70767926,Average,1,1,4,5.933622031,129075,20.34727791,203,5,4,China,Asia,Northern Hemisphere,1
+37,Male,217,97/78,108,1,1,1,1,0,9.418486523,Healthy,1,1,8,3.280370579,78441,27.85605082,498,0,9,South Korea,Asia,Northern Hemisphere,1
+90,Male,185,159/62,86,1,0,1,1,1,10.4629791,Average,0,0,8,9.720913506,156557,25.32181766,201,7,8,Nigeria,Africa,Northern Hemisphere,1
+34,Female,334,175/64,41,1,0,0,0,1,6.269944497,Average,0,1,1,5.073972173,115057,18.56940442,202,3,10,United Kingdom,Europe,Northern Hemisphere,1
+51,Male,135,125/97,108,1,0,1,0,1,0.125396227,Healthy,1,0,1,7.676969876,162418,18.51204532,759,5,7,South Africa,Africa,Southern Hemisphere,1
+67,Male,266,164/87,83,1,0,1,1,1,12.05970428,Healthy,0,1,9,0.334895049,142983,38.354294,789,5,5,Canada,North America,Northern Hemisphere,1
+49,Male,373,176/72,59,1,0,1,1,1,16.79627385,Healthy,1,0,6,0.746399823,289721,26.06370126,165,5,9,New Zealand,Australia,Southern Hemisphere,1
+38,Male,216,91/85,74,1,0,1,0,1,12.99817728,Unhealthy,1,0,2,3.575244406,194210,19.41555261,533,7,5,Germany,Europe,Northern Hemisphere,1
+25,Male,225,174/99,79,0,1,1,1,0,0.875743842,Average,1,1,2,10.61280397,169190,23.14103388,241,7,10,Colombia,South America,Northern Hemisphere,1
+72,Male,127,165/96,70,1,0,1,1,1,7.104858726,Unhealthy,1,0,1,10.51064607,102174,23.61003393,273,5,7,Spain,Europe,Southern Hemisphere,1
+70,Male,380,175/88,69,1,0,1,1,0,17.22177779,Average,1,1,7,1.85642427,82221,37.81640075,304,6,9,Spain,Europe,Southern Hemisphere,1
+19,Male,145,143/89,93,1,1,1,1,1,5.341391515,Unhealthy,1,0,4,11.93617457,100164,26.9933732,352,1,7,Argentina,South America,Southern Hemisphere,1
+52,Male,304,94/65,81,1,1,1,1,0,11.66316457,Average,0,1,2,5.626923679,131428,29.62117568,568,3,6,South Africa,Africa,Southern Hemisphere,1
+28,Male,158,100/66,72,1,1,1,1,1,1.735793516,Unhealthy,0,0,9,10.09220983,172819,36.71766595,251,2,6,Japan,Asia,Northern Hemisphere,1
+69,Male,370,178/107,97,1,0,1,1,1,0.333244629,Healthy,0,1,4,1.960894744,201344,38.06280412,382,3,9,India,Asia,Northern Hemisphere,1
+27,Male,195,126/82,59,0,0,1,0,1,6.054631855,Average,1,0,7,5.663008542,43277,23.65359389,177,4,10,United States,North America,Northern Hemisphere,1
+41,Female,166,164/74,63,1,1,1,0,0,11.64653699,Unhealthy,1,1,9,10.33814139,145733,23.01228767,252,2,5,Vietnam,Asia,Northern Hemisphere,1
+71,Male,143,102/95,49,1,1,1,1,0,6.198438545,Healthy,0,1,4,4.030806631,184050,30.35384491,785,0,6,Australia,Australia,Southern Hemisphere,1
+56,Male,330,93/77,87,1,0,1,0,0,18.64250562,Average,0,0,3,6.474893314,122575,21.78618191,108,7,4,United Kingdom,Europe,Northern Hemisphere,1
+56,Male,154,160/71,40,0,1,1,0,0,15.69209794,Healthy,1,1,5,2.910677979,104178,20.44699104,667,5,8,Thailand,Asia,Northern Hemisphere,1
+69,Female,183,108/92,78,1,1,1,1,1,9.193626159,Average,0,1,10,3.674706874,210141,29.54313642,302,4,4,Argentina,South America,Southern Hemisphere,1
+62,Male,390,91/75,105,1,0,1,1,0,12.46631262,Average,0,1,8,3.911793906,92476,25.81952099,468,4,5,South Korea,Asia,Northern Hemisphere,1
+83,Male,269,103/66,107,1,0,1,0,0,6.742772802,Unhealthy,1,0,6,11.50928412,196400,24.51887414,604,6,8,Australia,Australia,Southern Hemisphere,1
+22,Female,344,175/107,100,0,0,0,1,1,9.165449437,Unhealthy,0,1,9,2.830031558,70570,28.101104,121,3,8,Spain,Europe,Southern Hemisphere,1
+38,Male,168,121/87,103,1,0,1,0,0,12.63160601,Healthy,0,0,5,10.4638696,79066,18.24377929,289,6,6,Nigeria,Africa,Northern Hemisphere,1
+27,Male,127,90/61,65,1,0,1,0,1,4.053429708,Unhealthy,1,0,3,6.349645206,109212,39.54221632,645,7,4,United Kingdom,Europe,Northern Hemisphere,1
+50,Male,311,177/93,75,1,0,1,0,1,8.109650432,Healthy,0,0,4,8.716180058,144836,33.57818987,689,2,6,Italy,Europe,Southern Hemisphere,1
+55,Male,158,178/92,42,1,1,1,0,0,17.06653014,Average,0,1,9,6.721552194,33515,36.99308488,119,5,4,Vietnam,Asia,Northern Hemisphere,1
+74,Male,301,159/72,58,1,1,1,1,1,4.49873175,Average,0,1,4,10.98822966,133539,25.29407727,148,3,7,United States,North America,Northern Hemisphere,1
+20,Female,400,131/97,83,1,0,0,0,1,0.703076769,Healthy,1,0,10,7.048898077,208929,39.37980062,722,7,9,Germany,Europe,Northern Hemisphere,1
+65,Male,260,150/73,77,1,0,1,1,1,6.777252107,Unhealthy,1,0,4,0.731843161,53694,31.46604632,767,4,5,Colombia,South America,Northern Hemisphere,1
+62,Female,229,140/80,92,1,1,1,1,0,3.55647241,Healthy,1,0,6,8.183987366,202910,34.42649113,55,2,8,Nigeria,Africa,Northern Hemisphere,1
+25,Male,162,134/70,64,0,1,1,1,1,8.038573354,Unhealthy,1,1,9,6.344082401,163861,34.3300715,582,7,7,Thailand,Asia,Northern Hemisphere,1
+57,Male,168,122/91,62,1,0,1,0,0,2.126055147,Average,1,1,1,9.36869455,265157,28.77268062,663,5,5,Italy,Europe,Southern Hemisphere,1
+69,Male,149,129/73,76,0,0,1,1,0,8.956408694,Unhealthy,0,0,1,6.332195127,129236,35.67847187,328,1,6,France,Europe,Northern Hemisphere,1
+18,Female,200,139/86,107,1,1,0,0,1,1.270307515,Healthy,0,1,2,2.484179252,152823,36.60566669,121,1,5,France,Europe,Northern Hemisphere,1
+77,Male,366,94/66,95,1,0,1,1,0,1.360056419,Average,0,0,2,4.243087911,39335,19.11495297,781,2,4,Colombia,South America,Northern Hemisphere,0
+46,Female,193,104/63,88,0,0,1,1,1,14.00219624,Healthy,1,0,8,7.033315323,213082,37.00606513,109,0,8,India,Asia,Northern Hemisphere,0
+38,Male,149,93/108,73,0,1,1,1,1,14.27358409,Average,0,1,3,0.924159409,172056,19.45442967,306,4,9,South Africa,Africa,Southern Hemisphere,0
+90,Male,249,120/103,72,1,0,1,1,0,11.33061182,Unhealthy,0,0,10,7.617851183,192178,28.18720261,245,4,4,New Zealand,Australia,Southern Hemisphere,0
+35,Female,364,175/68,62,0,1,0,1,1,16.9064458,Average,0,0,3,1.158039194,252209,37.93759631,135,2,7,United States,North America,Northern Hemisphere,0
+26,Male,301,141/103,45,1,1,1,1,1,16.73954702,Average,0,1,2,5.795374651,69615,22.31965253,336,7,9,India,Asia,Northern Hemisphere,0
+77,Female,130,91/77,82,1,1,1,1,1,8.008237911,Healthy,0,1,7,7.801650609,156979,19.59354263,313,6,5,India,Asia,Northern Hemisphere,0
+86,Male,286,157/102,41,1,1,1,0,1,4.315404868,Average,0,0,1,1.08025616,137416,19.53359694,217,5,6,India,Asia,Northern Hemisphere,1
+90,Male,217,113/105,50,0,0,1,1,1,2.757762473,Unhealthy,1,1,1,9.402923357,38296,21.58451132,362,6,6,Italy,Europe,Southern Hemisphere,0
+84,Female,294,121/106,42,0,0,1,0,1,13.60151614,Unhealthy,0,0,9,9.168147626,175124,20.43969642,781,6,10,South Korea,Asia,Northern Hemisphere,1
+28,Male,360,155/77,99,0,0,1,0,0,9.782238699,Healthy,0,0,9,11.42259079,98650,28.88216939,284,4,6,Vietnam,Asia,Northern Hemisphere,0
+62,Male,120,145/76,74,0,0,1,1,1,1.54571903,Unhealthy,0,1,7,11.20541831,121461,21.57348608,471,2,7,Colombia,South America,Northern Hemisphere,0
+87,Male,202,125/77,48,1,1,1,0,0,0.346849941,Healthy,1,1,10,4.916370489,177823,29.11147552,754,6,5,South Africa,Africa,Southern Hemisphere,0
+67,Male,148,141/81,57,0,1,1,0,1,13.51936602,Unhealthy,0,1,3,4.839704404,124014,19.25985068,779,2,7,France,Europe,Northern Hemisphere,1
+83,Female,167,154/106,89,1,0,1,0,1,19.18120862,Unhealthy,0,1,3,4.730698857,107254,25.45560316,82,2,4,Germany,Europe,Northern Hemisphere,1
+66,Female,289,146/66,50,1,1,1,0,1,10.0409526,Average,1,1,1,5.969893037,110964,27.37092741,281,7,5,Thailand,Asia,Northern Hemisphere,0
+46,Female,310,161/85,86,0,1,1,1,0,13.61480215,Healthy,0,1,9,11.04346845,209471,26.59137681,609,1,8,South Korea,Asia,Northern Hemisphere,0
+36,Male,156,146/90,76,1,0,1,1,0,1.588950403,Healthy,1,0,2,1.05572139,207492,22.22558447,453,2,10,Japan,Asia,Northern Hemisphere,0
+53,Male,216,126/84,51,1,0,1,1,1,12.1172618,Unhealthy,1,0,4,0.479117117,124419,30.74720878,523,3,8,Australia,Australia,Southern Hemisphere,0
+88,Male,164,166/99,80,1,1,1,0,1,17.90943145,Average,0,0,8,2.260927296,68149,31.52335653,698,1,10,Australia,Australia,Southern Hemisphere,1
+83,Male,274,142/107,54,1,1,1,1,0,9.717622133,Average,1,0,7,8.724034104,96831,31.73597233,637,1,6,Canada,North America,Northern Hemisphere,0
+46,Female,240,174/68,69,0,1,1,0,1,12.68787466,Healthy,1,0,3,4.336953574,267905,31.34433078,332,0,8,Italy,Europe,Southern Hemisphere,1
+21,Male,255,124/99,61,0,1,1,1,0,0.139027611,Unhealthy,1,1,2,6.671829763,239294,32.51126161,796,5,7,Brazil,South America,Southern Hemisphere,1
+33,Female,215,129/102,48,1,1,0,1,1,10.79579948,Average,1,0,7,4.666812845,156530,21.53089099,356,5,10,France,Europe,Northern Hemisphere,1
+43,Male,334,127/102,64,0,0,1,1,1,14.05882659,Healthy,1,0,4,8.720002087,218793,36.41909378,541,3,4,Thailand,Asia,Northern Hemisphere,0
+19,Female,171,154/67,84,0,0,0,1,1,4.340709641,Unhealthy,1,1,3,0.754265693,146277,39.46726668,571,3,6,India,Asia,Northern Hemisphere,1
+41,Male,339,156/94,43,0,1,1,1,0,5.244901334,Unhealthy,1,1,6,3.435894886,66443,38.28334907,224,6,6,Germany,Europe,Northern Hemisphere,0
+41,Female,182,159/99,80,1,1,1,0,1,19.35289057,Healthy,0,0,10,7.529965075,127788,32.39521026,775,2,5,United Kingdom,Europe,Northern Hemisphere,1
+36,Female,320,91/90,49,0,1,0,1,0,13.68161093,Unhealthy,0,0,7,10.77562481,285997,35.17026758,764,0,7,Brazil,South America,Southern Hemisphere,1
+70,Male,289,112/94,44,1,1,1,0,0,11.53097095,Healthy,1,0,8,0.513623593,94392,35.88631319,566,3,5,Japan,Asia,Northern Hemisphere,0
+72,Male,289,99/60,78,0,0,1,0,1,8.716291955,Unhealthy,0,0,3,2.733059343,265479,24.96430397,193,3,4,France,Europe,Northern Hemisphere,0
+40,Male,290,117/83,98,0,0,1,1,1,9.900774448,Unhealthy,0,1,6,1.101300425,54287,24.56334166,771,3,4,Nigeria,Africa,Northern Hemisphere,0
+79,Male,396,122/90,93,0,1,1,0,0,5.165402621,Healthy,0,0,10,2.507428425,225276,32.30983989,82,1,10,Germany,Europe,Northern Hemisphere,0
+63,Male,340,131/86,50,1,0,1,0,1,11.13548896,Unhealthy,1,1,5,7.251037117,85420,38.13506635,149,3,4,Germany,Europe,Northern Hemisphere,0
+50,Male,267,168/104,74,1,0,1,1,1,18.81042598,Average,0,0,8,5.383560125,27842,25.26937564,91,3,10,India,Asia,Northern Hemisphere,1
+19,Female,373,139/83,82,1,1,0,1,0,13.84601528,Average,1,0,1,4.425785305,288260,31.04651068,653,7,9,Nigeria,Africa,Northern Hemisphere,0
+68,Female,210,167/69,57,1,1,1,1,1,5.865571627,Average,1,1,9,0.075203503,167506,21.9788513,557,6,5,South Africa,Africa,Southern Hemisphere,0
+72,Male,252,98/73,61,1,0,1,0,1,15.65841787,Healthy,0,0,3,10.37958079,256050,18.86516543,564,1,4,Australia,Australia,Southern Hemisphere,0
+36,Male,259,132/72,97,1,0,1,0,1,8.921037734,Average,0,1,7,11.45155581,33339,18.33738994,314,7,10,Spain,Europe,Southern Hemisphere,0
+58,Male,135,180/70,94,1,1,1,0,1,16.77078301,Average,0,0,9,4.390618232,260639,27.60732492,464,2,5,United States,North America,Northern Hemisphere,1
+27,Male,399,96/96,96,0,1,1,0,1,17.2693326,Average,1,1,9,11.68177408,132478,25.17561857,49,7,4,Spain,Europe,Southern Hemisphere,1
+20,Male,224,149/103,87,1,1,1,1,0,5.445211335,Average,1,0,7,2.468160211,225278,32.81661588,56,1,7,Italy,Europe,Southern Hemisphere,1
+18,Male,235,176/98,60,1,0,1,1,0,6.298781504,Healthy,1,0,3,0.708044592,138803,32.3542111,571,0,8,Argentina,South America,Southern Hemisphere,1
+25,Female,235,122/110,69,1,0,0,0,0,14.98769264,Unhealthy,1,0,4,3.801245776,36045,25.84616533,477,5,10,Nigeria,Africa,Northern Hemisphere,1
+82,Female,157,148/89,108,0,1,1,0,0,17.31760939,Unhealthy,1,0,7,10.66029534,172007,27.96116746,545,4,4,United Kingdom,Europe,Northern Hemisphere,1
+18,Female,237,159/77,85,0,1,0,1,1,15.99963699,Average,1,0,2,2.872118104,173659,18.05947124,252,6,7,South Africa,Africa,Southern Hemisphere,1
+32,Male,395,156/61,109,0,1,1,1,0,5.972981857,Average,0,1,4,11.44117146,71013,35.34824956,552,5,7,Thailand,Asia,Northern Hemisphere,1
+44,Male,383,123/103,49,0,1,1,0,0,0.750951452,Unhealthy,0,0,1,0.278359908,78815,28.62022156,547,7,9,Thailand,Asia,Northern Hemisphere,1
+40,Male,312,103/106,99,1,0,1,1,1,1.485716839,Healthy,1,0,1,7.104860009,47958,25.90502746,152,2,9,Argentina,South America,Southern Hemisphere,1
+88,Male,149,157/74,76,0,1,1,1,1,0.437159445,Average,1,1,4,1.34141585,77545,32.21473786,182,3,5,Argentina,South America,Southern Hemisphere,1
+46,Male,307,138/110,76,1,0,1,1,0,15.76304426,Average,1,1,10,2.650198512,138915,18.48036552,524,0,9,Brazil,South America,Southern Hemisphere,1
+54,Male,385,108/61,65,1,1,1,0,1,11.20065363,Average,0,1,7,5.345711118,135052,23.81936557,461,4,4,South Korea,Asia,Northern Hemisphere,1
+33,Male,287,173/108,104,1,0,1,1,1,10.99990689,Average,0,1,2,9.25956505,218972,32.56754019,734,4,8,United States,North America,Northern Hemisphere,1
+57,Male,293,175/104,106,0,0,1,0,1,16.57870146,Healthy,1,1,10,10.6005322,39738,36.66454172,736,0,10,Colombia,South America,Northern Hemisphere,1
+68,Female,257,108/68,54,0,0,1,1,1,9.419138817,Unhealthy,1,0,5,8.582334801,56460,35.58042793,567,2,9,United States,North America,Northern Hemisphere,1
+59,Male,132,111/92,67,0,1,1,1,0,1.766033511,Unhealthy,1,0,7,2.02423806,85373,24.5317663,115,3,10,South Korea,Asia,Northern Hemisphere,1
+89,Male,316,151/110,68,1,1,1,0,1,15.86296961,Healthy,0,0,4,6.835233632,77085,29.28644359,533,5,6,Japan,Asia,Northern Hemisphere,1
+51,Female,289,93/64,61,1,0,1,1,0,0.177415092,Healthy,1,0,3,5.461521831,135122,27.25932584,548,3,8,South Africa,Africa,Southern Hemisphere,1
+18,Male,202,130/90,53,1,1,1,0,1,16.53649941,Healthy,1,0,4,9.010998493,46238,33.22636551,194,1,6,Japan,Asia,Northern Hemisphere,1
+67,Male,198,128/64,106,0,1,1,1,1,0.161802883,Unhealthy,0,0,2,2.610704158,232797,28.50604726,253,1,4,Nigeria,Africa,Northern Hemisphere,1
+64,Male,206,105/76,81,1,1,1,0,1,8.190572618,Average,1,1,9,9.890951869,183493,30.02160957,284,2,9,New Zealand,Australia,Southern Hemisphere,1
+87,Male,311,97/61,64,0,0,1,0,1,19.47475853,Unhealthy,1,1,7,5.687783358,241234,29.52602797,784,6,7,Brazil,South America,Southern Hemisphere,1
+49,Male,166,105/103,107,0,1,1,0,0,9.972762311,Average,0,1,1,5.888968235,228336,31.68862815,466,3,9,Thailand,Asia,Northern Hemisphere,1
+71,Female,120,137/66,70,1,1,1,0,1,4.44558765,Unhealthy,0,1,6,2.187631868,81293,26.35905423,627,1,8,China,Asia,Northern Hemisphere,1
+58,Female,310,100/78,44,1,0,1,1,1,10.51731736,Average,0,1,6,10.71494571,175169,36.56769574,637,2,4,South Korea,Asia,Northern Hemisphere,1
+88,Male,194,146/76,68,1,0,1,1,1,18.78573543,Average,0,1,6,5.617765638,96002,36.94051858,670,7,8,China,Asia,Northern Hemisphere,1
+38,Male,354,114/99,95,1,0,1,1,0,12.54021715,Average,1,0,1,6.173076831,258068,32.73579697,631,3,10,Spain,Europe,Southern Hemisphere,1
+37,Male,394,133/90,70,0,0,1,0,1,1.165281879,Average,1,1,3,3.657330316,164116,28.85113397,505,4,4,United States,North America,Northern Hemisphere,1
+32,Male,232,141/88,97,0,0,1,0,0,2.69284588,Healthy,0,1,6,4.091351972,106244,23.28434271,506,2,4,Japan,Asia,Northern Hemisphere,1
+25,Male,393,127/96,67,1,1,1,1,1,2.214179914,Healthy,0,1,7,3.948625771,146516,35.89887686,161,5,7,France,Europe,Northern Hemisphere,1
+45,Male,348,147/109,46,1,1,1,0,0,19.47391004,Healthy,1,1,3,4.668817201,201090,25.72366504,200,0,9,Italy,Europe,Southern Hemisphere,1
+25,Female,166,173/99,45,1,0,0,1,1,1.997820531,Unhealthy,0,0,6,3.139419858,164054,31.77672139,555,3,8,Japan,Asia,Northern Hemisphere,1
+90,Male,183,144/78,50,0,1,1,1,0,7.167956397,Healthy,1,1,6,1.826816067,43319,21.46629991,230,3,8,United Kingdom,Europe,Northern Hemisphere,1
+36,Male,148,171/65,66,1,0,1,1,1,15.99596781,Average,0,1,8,11.44295006,111607,19.31506379,628,1,10,India,Asia,Northern Hemisphere,1
+88,Male,226,151/85,88,1,1,1,1,1,8.359281083,Healthy,0,0,8,3.749066012,125258,21.10161012,541,3,8,Germany,Europe,Northern Hemisphere,1
+26,Female,399,101/95,66,1,0,0,0,0,1.242456151,Average,0,1,1,10.34959763,277582,21.59734565,235,6,4,Argentina,South America,Southern Hemisphere,1
+63,Male,130,154/70,46,0,1,1,1,0,16.8622204,Unhealthy,1,1,3,10.02579897,239905,34.04383629,702,5,8,India,Asia,Northern Hemisphere,1
+31,Male,333,176/87,96,1,0,1,1,0,7.91354306,Unhealthy,1,1,8,10.65421939,103660,23.22376037,664,6,4,South Africa,Africa,Southern Hemisphere,1
+84,Female,326,160/95,98,0,1,1,0,1,12.24015879,Unhealthy,1,0,2,5.688071248,130524,29.68343969,696,3,9,Colombia,South America,Northern Hemisphere,1
+74,Male,385,156/74,60,1,0,1,1,1,4.302582479,Healthy,1,1,7,5.721038395,135350,19.67167732,621,1,4,Brazil,South America,Southern Hemisphere,1
+18,Male,396,173/99,54,1,1,1,0,1,17.86720294,Healthy,1,1,3,8.607261843,248816,20.08920935,577,1,5,New Zealand,Australia,Southern Hemisphere,1
+35,Male,241,91/96,63,1,1,1,0,1,13.2753707,Average,0,1,10,9.814227124,230467,25.70876797,524,4,4,France,Europe,Northern Hemisphere,1
+66,Male,327,122/84,46,0,0,1,0,1,0.463240603,Unhealthy,1,1,5,4.108566572,28116,24.71810683,280,2,6,France,Europe,Northern Hemisphere,1
+27,Male,217,166/66,90,1,1,1,1,1,11.95630743,Unhealthy,0,1,7,9.252384035,231093,19.08924105,460,3,5,Colombia,South America,Northern Hemisphere,1
+36,Female,188,150/83,49,1,1,0,1,0,19.88898108,Average,0,0,3,10.62732537,253327,31.35016393,185,6,10,Colombia,South America,Northern Hemisphere,1
+76,Male,303,163/81,56,1,1,1,0,1,6.774546978,Unhealthy,1,1,8,8.315186755,173670,22.296822,237,7,10,India,Asia,Northern Hemisphere,1
+25,Male,154,105/110,57,1,0,1,0,1,16.27429301,Healthy,0,0,8,11.18604126,188317,21.33555447,231,6,8,Japan,Asia,Northern Hemisphere,1
+18,Male,222,112/80,86,1,1,1,1,1,0.480080544,Unhealthy,0,1,9,9.579441194,202068,24.84848254,449,2,7,Brazil,South America,Southern Hemisphere,1
+90,Female,399,100/72,58,0,1,1,0,0,8.981542954,Average,1,0,10,3.81106603,83754,38.96131689,734,6,5,Spain,Europe,Southern Hemisphere,1
+45,Male,127,165/105,62,0,1,1,1,1,15.96710393,Average,1,1,6,5.832590044,55899,32.46753053,391,0,6,New Zealand,Australia,Southern Hemisphere,1
+65,Male,207,128/62,62,1,1,1,0,1,18.9067197,Unhealthy,1,1,9,10.40058502,88714,38.65510054,711,2,7,United States,North America,Northern Hemisphere,1
+63,Male,152,103/79,90,0,0,1,0,1,12.1882733,Average,0,0,9,3.46612884,170423,28.45916402,70,0,4,United States,North America,Northern Hemisphere,1
+83,Male,252,134/63,78,0,0,1,1,1,11.6432646,Average,1,0,10,5.396664785,199585,29.79990441,794,7,9,India,Asia,Northern Hemisphere,1
+80,Female,367,146/84,77,1,0,1,1,1,1.791390876,Healthy,0,0,9,0.436905077,24344,35.59992094,120,7,10,Germany,Europe,Northern Hemisphere,1
+66,Male,214,133/87,89,1,0,1,0,1,1.071596904,Unhealthy,0,1,2,0.857794231,268039,34.78957,543,5,7,Japan,Asia,Northern Hemisphere,1
+85,Male,285,125/64,80,1,1,1,1,0,14.79018118,Average,0,0,7,2.171368862,79788,30.68049417,800,5,10,United Kingdom,Europe,Northern Hemisphere,1
+69,Female,214,173/87,46,1,1,1,0,1,19.85305552,Average,0,0,2,8.956064107,265251,19.02495971,220,0,7,Nigeria,Africa,Northern Hemisphere,1
+36,Female,210,148/90,87,1,1,0,1,0,7.644256363,Unhealthy,0,0,3,8.666765705,82723,24.29319678,586,1,8,China,Asia,Northern Hemisphere,1
+81,Female,292,90/110,106,0,1,1,0,1,19.90773738,Unhealthy,0,0,5,10.55775303,240797,31.70824186,755,7,7,Italy,Europe,Southern Hemisphere,1
+36,Female,387,135/79,96,1,1,0,0,1,19.51083224,Unhealthy,1,1,5,10.79036729,195479,32.62334123,243,2,7,Germany,Europe,Northern Hemisphere,1
+69,Male,290,160/92,51,0,0,1,1,1,3.383928899,Unhealthy,1,1,7,9.921606844,85306,24.95345588,580,2,10,Australia,Australia,Southern Hemisphere,1
+65,Female,337,169/65,62,1,1,1,0,0,8.886543967,Healthy,1,0,5,3.00911208,81103,24.29829662,497,2,6,Argentina,South America,Southern Hemisphere,1
+90,Male,190,121/103,92,1,1,1,1,0,12.55516886,Unhealthy,1,0,8,5.159852674,277394,29.78129111,752,5,8,New Zealand,Australia,Southern Hemisphere,1
+90,Female,256,176/77,50,0,1,1,0,1,14.76910136,Average,0,1,9,10.07393341,266519,18.39588097,84,3,6,Germany,Europe,Northern Hemisphere,1
+71,Male,308,115/109,69,1,0,1,0,1,10.20614529,Average,1,0,3,3.38502644,256549,21.40189503,184,5,5,Thailand,Asia,Northern Hemisphere,1
+81,Female,150,142/64,97,0,0,1,1,1,7.676779642,Unhealthy,0,0,7,2.455982154,147723,26.41017421,182,7,4,Spain,Europe,Southern Hemisphere,1
+73,Male,374,114/79,45,1,1,1,0,0,12.87900713,Unhealthy,0,1,2,2.662336626,209026,21.87550861,752,6,10,United Kingdom,Europe,Northern Hemisphere,1
+80,Male,268,171/69,61,0,1,1,0,0,19.43616269,Unhealthy,0,0,5,2.692088399,194107,18.09861,279,5,9,Italy,Europe,Southern Hemisphere,1
+54,Male,299,144/62,87,1,0,1,0,1,16.88312283,Healthy,0,1,4,6.331895781,245350,22.84945993,656,6,8,Nigeria,Africa,Northern Hemisphere,1
+27,Female,298,102/106,103,1,1,0,1,0,18.0570324,Unhealthy,1,1,5,7.335437538,142891,38.4918626,86,4,10,Canada,North America,Northern Hemisphere,1
+64,Female,120,109/107,63,1,1,1,0,0,3.938769557,Healthy,1,1,6,7.282438084,218796,29.08356882,274,4,5,Brazil,South America,Southern Hemisphere,1
+80,Female,133,101/70,80,1,1,1,0,1,3.107742658,Average,0,1,7,1.699707343,256459,25.66312544,524,5,10,Thailand,Asia,Northern Hemisphere,1
+33,Male,179,97/98,90,1,0,1,1,1,9.119363727,Healthy,0,1,8,3.831865246,61355,34.95694823,378,5,8,Vietnam,Asia,Northern Hemisphere,1
+58,Male,278,169/60,84,1,1,1,0,0,13.2238686,Average,1,0,6,5.760769501,49274,34.72267303,213,5,5,Nigeria,Africa,Northern Hemisphere,1
+70,Female,298,98/68,61,1,0,1,1,1,15.87152501,Unhealthy,0,0,3,0.605509039,134999,26.2491272,618,7,4,South Africa,Africa,Southern Hemisphere,1
+70,Male,262,116/85,76,0,1,1,0,0,2.536361527,Healthy,0,1,7,1.023774207,263291,39.16215784,688,0,7,South Africa,Africa,Southern Hemisphere,1
+23,Female,208,99/89,78,1,0,0,0,1,13.66646106,Unhealthy,1,0,6,0.187820871,136993,30.54396876,789,0,4,Canada,North America,Northern Hemisphere,1
+30,Female,167,175/76,98,1,0,0,1,1,5.894344325,Healthy,1,0,3,1.07431409,134131,25.28932574,678,5,9,Thailand,Asia,Northern Hemisphere,1
+39,Female,249,162/110,69,1,1,0,0,1,13.5628286,Unhealthy,0,1,1,5.47398485,298957,29.84050082,267,3,9,Canada,North America,Northern Hemisphere,1
+34,Male,327,107/89,57,0,0,1,0,0,2.654601388,Average,0,0,9,10.41242124,167889,26.58528955,451,3,8,Argentina,South America,Southern Hemisphere,1
+37,Male,133,156/82,102,1,1,1,0,1,8.985919912,Unhealthy,1,1,7,9.025706941,134456,35.47533656,645,6,7,Brazil,South America,Southern Hemisphere,1
+56,Male,292,163/98,85,0,1,1,1,1,11.88924764,Unhealthy,1,0,10,5.808015341,129904,26.7470044,37,3,6,United Kingdom,Europe,Northern Hemisphere,1
+54,Male,267,100/106,47,1,0,1,0,1,13.48945354,Average,0,1,9,5.974694386,274976,32.6425109,789,4,8,Nigeria,Africa,Northern Hemisphere,1
+22,Male,370,97/99,72,1,1,1,1,1,4.81417856,Unhealthy,1,0,2,2.709914703,24640,25.0934375,600,7,5,United States,North America,Northern Hemisphere,1
+57,Female,298,154/97,96,1,0,1,0,0,15.75660665,Average,1,1,2,10.56869659,244196,18.67080394,474,3,5,Spain,Europe,Southern Hemisphere,1
+58,Female,372,152/72,95,0,1,1,0,1,11.66989292,Average,1,1,9,7.762438652,272411,30.24087787,209,4,8,Argentina,South America,Southern Hemisphere,1
+46,Male,362,177/63,87,1,0,1,1,0,4.699088277,Unhealthy,0,1,1,2.823925937,180080,19.93933734,471,7,5,Spain,Europe,Southern Hemisphere,1
+20,Male,170,150/70,64,1,1,1,1,0,3.222368403,Unhealthy,0,0,2,2.970027386,171058,29.00449892,797,7,10,Brazil,South America,Southern Hemisphere,1
+85,Male,187,114/89,69,1,1,1,0,1,15.80813577,Unhealthy,1,0,4,2.639638519,86795,34.59019017,67,4,9,South Africa,Africa,Southern Hemisphere,1
+79,Male,354,160/70,51,1,1,1,0,0,12.36785614,Unhealthy,0,1,6,10.4619883,80402,22.5971079,424,1,7,Australia,Australia,Southern Hemisphere,1
+33,Female,231,150/94,63,1,1,0,0,0,6.946404242,Healthy,0,1,6,9.500461354,179139,38.92100789,664,0,9,Brazil,South America,Southern Hemisphere,1
+20,Male,275,172/60,105,0,0,1,1,0,2.333284248,Unhealthy,0,0,6,4.55523586,82547,30.28259969,292,4,5,Vietnam,Asia,Northern Hemisphere,1
+42,Male,379,115/96,63,0,0,1,1,1,16.93130291,Average,0,1,7,10.09242422,172266,22.46509056,542,7,4,United States,North America,Northern Hemisphere,1
+75,Male,347,167/101,58,1,1,1,0,1,0.271807758,Healthy,0,1,7,10.46663559,163312,31.47077468,501,2,8,France,Europe,Northern Hemisphere,1
+85,Female,177,145/96,68,0,1,1,1,0,8.548278743,Unhealthy,1,0,3,9.736462779,230051,24.55701021,133,0,5,New Zealand,Australia,Southern Hemisphere,1
+72,Male,361,170/68,82,1,0,1,1,1,1.662649349,Unhealthy,1,1,1,2.451616432,236949,36.35549084,655,0,5,Japan,Asia,Northern Hemisphere,1
+67,Female,389,141/65,109,1,1,1,1,0,2.959223089,Unhealthy,0,0,6,4.896551832,132545,33.54522799,786,7,8,France,Europe,Northern Hemisphere,1
+29,Male,160,132/105,65,0,1,1,0,1,10.14142895,Healthy,0,0,5,8.237705845,267469,27.24064606,665,0,9,South Africa,Africa,Southern Hemisphere,1
+35,Male,172,94/74,89,0,0,1,1,1,9.629681933,Average,0,0,5,0.662589816,22678,35.03560888,519,7,10,Brazil,South America,Southern Hemisphere,1
+68,Male,120,129/66,67,1,0,1,1,1,18.40002827,Average,1,0,6,0.731481509,145213,31.44471361,363,4,6,Argentina,South America,Southern Hemisphere,1
+66,Female,138,142/70,73,1,0,1,1,1,17.42027449,Unhealthy,0,0,8,0.19327477,160116,24.42661912,253,1,6,South Korea,Asia,Northern Hemisphere,1
+45,Male,271,102/91,73,0,1,1,1,1,9.70184958,Average,0,0,4,1.075043803,43703,18.76947271,215,7,9,Colombia,South America,Northern Hemisphere,1
+89,Male,215,142/100,71,0,1,1,1,1,16.39761368,Unhealthy,1,1,8,0.227666134,192803,39.47547482,112,4,10,France,Europe,Northern Hemisphere,1
+53,Female,343,160/69,54,1,1,1,1,1,0.654592794,Healthy,1,1,8,9.893018503,148441,37.82916802,155,5,8,Brazil,South America,Southern Hemisphere,1
+74,Male,235,90/100,105,1,1,1,1,1,9.921839661,Unhealthy,1,0,6,0.18226531,79877,19.36531526,298,3,10,France,Europe,Northern Hemisphere,1
+77,Male,147,99/63,91,1,0,1,0,0,6.464574256,Healthy,1,0,7,10.37114829,243075,37.43545129,584,4,10,Argentina,South America,Southern Hemisphere,1
+48,Female,134,172/98,86,1,0,1,1,1,9.517256212,Average,0,1,9,4.669830623,59584,35.54149544,559,1,8,South Korea,Asia,Northern Hemisphere,1
+52,Female,287,139/85,73,1,0,1,1,0,16.88157652,Average,0,1,5,9.658149515,135279,32.8238412,240,6,6,Vietnam,Asia,Northern Hemisphere,1
+35,Male,245,119/102,59,1,1,1,1,0,1.676843806,Healthy,0,1,3,10.26799787,172951,38.81489649,771,4,5,South Africa,Africa,Southern Hemisphere,1
+23,Female,221,132/81,43,0,0,0,0,0,18.63607827,Healthy,1,0,4,11.49239163,72962,23.05860472,610,6,4,South Korea,Asia,Northern Hemisphere,1
+55,Male,174,133/103,68,1,1,1,1,0,12.57853989,Average,0,1,4,10.47654852,256823,39.59088449,501,2,10,New Zealand,Australia,Southern Hemisphere,1
+88,Male,379,166/72,47,0,1,1,1,1,3.105873826,Average,0,1,1,5.384264508,161307,39.91486484,401,4,9,Argentina,South America,Southern Hemisphere,1
+85,Female,120,103/89,69,1,0,1,1,1,11.09917156,Unhealthy,0,0,6,7.814744908,20402,34.23128266,733,1,6,Germany,Europe,Northern Hemisphere,1
+59,Male,181,136/98,95,1,1,1,0,1,15.12381528,Average,0,0,8,8.748103077,244183,33.47196545,141,1,7,Japan,Asia,Northern Hemisphere,1
+56,Male,329,171/96,71,0,1,1,0,1,13.73778517,Average,1,1,5,1.204169448,48097,33.86291912,288,7,9,Canada,North America,Northern Hemisphere,1
+90,Male,153,90/81,45,0,0,1,1,0,14.3006832,Healthy,1,1,1,11.96329695,138811,30.49564364,291,4,8,Spain,Europe,Southern Hemisphere,1
+38,Female,321,95/90,102,1,0,0,0,0,16.96472976,Average,0,1,7,8.16234434,195444,20.11776612,240,6,8,Argentina,South America,Southern Hemisphere,1
+49,Male,158,130/103,50,0,1,1,0,1,19.77778358,Average,0,1,3,3.5907362,119627,29.40579899,71,7,5,South Africa,Africa,Southern Hemisphere,1
+70,Male,244,161/100,62,0,1,1,0,1,13.24049789,Healthy,0,1,5,8.777937381,279835,18.22071176,795,0,4,United States,North America,Northern Hemisphere,1
+74,Male,220,105/60,42,1,1,1,1,1,6.248631997,Unhealthy,0,0,1,9.559394107,69407,25.7196219,755,3,5,Argentina,South America,Southern Hemisphere,1
+59,Male,255,162/68,78,1,0,1,0,1,8.14105032,Average,0,0,10,4.375343065,147060,26.83761466,353,5,9,Colombia,South America,Northern Hemisphere,1
+78,Male,207,145/70,58,0,1,1,0,1,0.912658188,Healthy,0,1,9,7.368463413,185610,33.77284006,633,0,4,Nigeria,Africa,Northern Hemisphere,1
+79,Male,157,143/93,81,0,0,1,1,1,9.46940773,Unhealthy,1,1,2,4.088619692,126465,38.12090198,196,1,10,Nigeria,Africa,Northern Hemisphere,1
+28,Male,231,175/85,54,1,1,1,1,1,13.07808048,Average,0,0,6,1.016895304,171132,33.94379812,705,2,10,Italy,Europe,Southern Hemisphere,1
+38,Male,177,104/63,68,0,0,1,0,1,17.43710829,Healthy,1,0,3,11.32840885,131648,32.37889674,349,7,7,Nigeria,Africa,Northern Hemisphere,1
+52,Female,335,165/63,43,0,0,1,0,1,16.56956856,Average,1,0,7,7.490769837,183202,24.1210454,605,2,5,Vietnam,Asia,Northern Hemisphere,1
+43,Male,300,142/86,101,0,1,1,1,1,13.67610762,Unhealthy,0,0,5,2.863321431,46752,23.26012027,474,6,6,Vietnam,Asia,Northern Hemisphere,1
+59,Female,179,99/109,54,0,0,1,1,0,7.626348721,Healthy,0,0,5,10.25351765,263917,20.88733199,503,4,4,Spain,Europe,Southern Hemisphere,1
+38,Male,293,176/94,108,0,0,1,0,0,3.880782366,Healthy,0,0,9,8.762094501,269375,35.00770305,325,5,10,Vietnam,Asia,Northern Hemisphere,1
+61,Male,154,96/87,59,1,0,1,0,1,8.323602788,Healthy,1,1,9,4.038651808,214363,39.79703075,341,1,5,New Zealand,Australia,Southern Hemisphere,1
+45,Female,180,165/61,84,1,1,1,1,1,3.069227511,Average,0,1,6,9.99000414,243894,36.15773401,572,6,8,Colombia,South America,Northern Hemisphere,1
+38,Male,239,142/76,67,0,0,1,1,0,19.99789097,Average,0,0,6,4.477229219,127868,27.79039784,91,1,4,Germany,Europe,Northern Hemisphere,1
+21,Female,370,121/61,78,1,0,0,1,1,9.019619101,Unhealthy,1,0,4,4.196833328,143189,26.99479742,52,7,9,South Korea,Asia,Northern Hemisphere,1
+88,Male,365,150/83,51,0,0,1,0,0,11.78934484,Average,1,0,10,6.476105512,52053,35.69093184,761,2,7,Spain,Europe,Southern Hemisphere,1
+78,Female,176,169/74,92,1,0,1,1,0,1.395750619,Average,0,1,5,2.104072357,173863,21.4925174,66,2,4,Argentina,South America,Southern Hemisphere,1
+85,Female,182,94/86,101,0,0,1,0,0,10.22114912,Average,0,1,2,2.436698568,234033,28.24692092,378,5,6,India,Asia,Northern Hemisphere,1
+29,Male,166,134/78,92,1,0,1,0,1,7.300585594,Healthy,1,1,7,7.727434223,81824,18.80403451,325,6,7,Argentina,South America,Southern Hemisphere,1
+70,Female,196,134/62,74,0,0,1,1,1,4.917295408,Average,0,0,10,4.629164668,137913,19.39008826,210,6,10,China,Asia,Northern Hemisphere,1
+90,Male,400,179/83,79,1,1,1,0,1,6.79896368,Average,1,1,1,0.157097251,186999,31.35228224,202,0,5,India,Asia,Northern Hemisphere,1
+33,Male,183,108/76,86,0,1,1,0,1,8.094844141,Average,0,0,4,9.661419277,292147,22.74061582,167,2,6,Canada,North America,Northern Hemisphere,1
+18,Male,174,106/68,53,0,0,1,0,0,5.049523599,Healthy,0,0,6,6.998715162,207143,31.82214919,94,2,10,Argentina,South America,Southern Hemisphere,1
+69,Male,393,117/73,70,1,1,1,1,1,17.4745936,Healthy,0,0,6,5.374556375,237176,20.79274015,692,6,4,Australia,Australia,Southern Hemisphere,1
+79,Male,222,176/60,56,1,1,1,0,1,14.10582126,Unhealthy,0,0,8,8.094060198,299528,32.79085364,773,7,6,Australia,Australia,Southern Hemisphere,1
+68,Female,314,159/72,67,1,1,1,1,1,5.460138674,Healthy,0,0,3,7.248017482,74596,28.482752,529,5,8,Thailand,Asia,Northern Hemisphere,1
+38,Female,243,145/89,95,1,1,0,1,1,12.45827934,Unhealthy,0,1,5,9.758144403,63155,28.00001323,275,5,7,Australia,Australia,Southern Hemisphere,1
+68,Female,365,100/79,89,1,1,1,1,0,12.19071445,Unhealthy,0,0,4,3.810903058,187132,32.61264476,287,6,9,South Africa,Africa,Southern Hemisphere,1
+24,Female,335,158/64,102,0,1,0,1,0,15.87388884,Average,1,0,3,5.537638037,135440,36.41419263,610,6,9,Nigeria,Africa,Northern Hemisphere,1
+45,Female,121,132/86,101,0,1,1,0,1,7.364976954,Unhealthy,0,1,8,4.20969308,182828,35.815081,197,5,4,Germany,Europe,Northern Hemisphere,1
+54,Male,371,175/97,92,1,1,1,0,1,7.887396113,Unhealthy,1,1,4,6.517850333,139890,35.16223522,128,4,10,Canada,North America,Northern Hemisphere,1
+78,Male,152,124/87,99,1,1,1,0,1,6.667204435,Healthy,1,1,6,0.389116036,168813,20.09596776,281,4,6,Japan,Asia,Northern Hemisphere,1
+26,Male,380,152/90,76,0,0,1,0,0,12.35175227,Healthy,1,0,7,9.476543016,207176,29.95784902,707,5,6,France,Europe,Northern Hemisphere,1
+21,Female,301,128/100,81,1,1,0,0,0,4.313795688,Healthy,0,0,1,1.763041637,98855,32.63226899,252,6,8,Italy,Europe,Southern Hemisphere,1
+38,Female,145,101/65,42,0,1,0,0,0,0.806122828,Average,0,1,1,1.649546604,114794,19.51873905,756,0,8,China,Asia,Northern Hemisphere,1
+64,Male,394,104/99,69,1,0,1,0,0,15.27426035,Unhealthy,1,0,5,9.932995847,171681,35.67134838,68,6,4,Canada,North America,Northern Hemisphere,1
+61,Male,194,137/92,99,0,0,1,1,1,1.23847196,Unhealthy,1,1,3,8.026197965,145852,34.40420764,95,0,5,Argentina,South America,Southern Hemisphere,1
+23,Female,361,139/67,84,1,1,0,1,1,14.67261328,Unhealthy,1,1,2,5.738705578,24444,35.63370073,772,7,9,United States,North America,Northern Hemisphere,1
+63,Male,351,134/88,94,1,0,1,1,1,12.59036309,Healthy,0,0,2,3.202487766,92293,27.46101639,95,1,8,Japan,Asia,Northern Hemisphere,1
+77,Male,312,96/82,48,1,0,1,0,0,0.102948222,Healthy,1,0,9,10.3980866,92713,32.38138978,539,2,9,Brazil,South America,Southern Hemisphere,1
+64,Male,342,90/93,49,1,1,1,1,0,15.48895411,Unhealthy,0,1,8,0.530539594,247759,33.91378832,309,1,8,China,Asia,Northern Hemisphere,1
+88,Male,329,128/63,93,1,1,1,0,1,19.23956564,Healthy,1,0,8,3.799639274,254428,28.98915563,635,3,9,Canada,North America,Northern Hemisphere,1
+81,Male,199,109/103,65,1,1,1,1,0,0.533728583,Healthy,0,1,5,11.58735533,214514,20.80845693,178,2,8,China,Asia,Northern Hemisphere,1
+49,Male,273,96/75,103,0,1,1,0,1,9.179417033,Average,1,0,3,7.816403189,65305,22.79361219,562,0,8,South Africa,Africa,Southern Hemisphere,1
+50,Female,197,118/102,56,1,1,1,1,1,8.628420065,Average,1,0,2,11.71966525,63297,20.53287627,142,2,9,Italy,Europe,Southern Hemisphere,1
+34,Male,245,146/86,107,1,0,1,0,1,10.57249486,Average,0,1,7,1.064012032,40067,35.28855338,292,0,6,South Africa,Africa,Southern Hemisphere,1
+79,Male,321,178/99,104,1,1,1,0,0,17.94479954,Healthy,1,1,5,0.722408442,245746,33.45636747,726,6,4,Germany,Europe,Northern Hemisphere,0
+59,Male,270,117/87,94,0,0,1,0,1,1.046922384,Healthy,0,1,8,7.153601086,172096,37.95641909,144,6,7,South Africa,Africa,Southern Hemisphere,0
+35,Male,315,178/99,54,0,0,1,1,1,5.060533104,Unhealthy,0,1,4,8.41311665,178801,34.6123645,420,5,8,United States,North America,Northern Hemisphere,0
+79,Female,198,116/64,87,0,0,1,1,1,8.082136014,Unhealthy,0,0,2,5.509220544,137711,26.25850069,216,4,4,Colombia,South America,Northern Hemisphere,0
+86,Male,254,113/89,85,0,0,1,1,0,3.978245621,Unhealthy,0,0,5,6.722664606,137435,18.9082793,239,1,7,South Africa,Africa,Southern Hemisphere,0
+85,Male,228,139/74,99,1,1,1,0,1,11.15475158,Healthy,0,0,7,3.109881174,171071,19.60384436,357,4,6,France,Europe,Northern Hemisphere,0
+87,Male,343,138/72,78,1,0,1,1,0,16.48152171,Healthy,0,0,9,0.350347519,139447,21.31398053,458,0,7,Thailand,Asia,Northern Hemisphere,0
+18,Female,352,164/93,110,1,1,0,1,1,6.681680322,Average,0,0,3,8.243832628,298476,32.56930209,738,4,7,United States,North America,Northern Hemisphere,0
+48,Male,142,139/93,50,1,0,1,1,1,12.44976806,Average,0,1,9,3.067833627,169055,28.30268423,379,1,6,Nigeria,Africa,Northern Hemisphere,0
+49,Male,267,160/85,107,1,0,1,1,0,13.37150541,Average,0,1,5,1.474470347,199895,37.2243401,160,0,8,Vietnam,Asia,Northern Hemisphere,0
+40,Male,216,106/64,52,0,1,1,1,0,10.21848614,Healthy,1,1,5,3.211657013,135392,25.04977863,234,5,6,Australia,Australia,Southern Hemisphere,0
+87,Male,301,177/102,81,1,0,1,0,1,14.97175806,Unhealthy,1,0,2,8.622329229,292806,26.21581048,663,1,5,South Korea,Asia,Northern Hemisphere,1
+78,Female,276,140/61,43,1,1,1,1,0,7.958337043,Healthy,0,0,3,1.39650953,177051,22.14498425,383,1,9,Nigeria,Africa,Northern Hemisphere,0
+83,Male,204,176/68,88,0,0,1,0,1,13.03866078,Unhealthy,0,1,1,10.68083319,35148,34.23676729,692,7,8,Brazil,South America,Southern Hemisphere,0
+83,Male,150,115/91,100,1,1,1,0,0,12.37192163,Average,0,0,3,1.032824491,23859,19.95960765,242,7,7,Spain,Europe,Southern Hemisphere,0
+66,Female,302,180/78,101,1,0,1,1,1,11.7016163,Unhealthy,1,1,8,11.67326847,268729,18.24095079,517,5,10,Argentina,South America,Southern Hemisphere,0
+69,Male,191,137/85,48,0,0,1,1,1,0.775574186,Average,0,1,1,2.563822587,288881,32.11890803,93,3,6,United States,North America,Northern Hemisphere,0
+81,Female,145,118/83,99,0,0,1,0,1,5.719407116,Healthy,0,0,1,8.911463275,61595,18.22719881,651,3,10,China,Asia,Northern Hemisphere,0
+32,Female,259,143/104,71,1,0,0,1,0,10.17495827,Healthy,0,0,2,5.325572628,184965,25.10280232,568,3,7,Spain,Europe,Southern Hemisphere,1
+31,Male,270,155/76,107,1,1,1,0,1,1.703808784,Healthy,1,1,1,9.624798837,294920,35.31669162,799,2,9,Thailand,Asia,Northern Hemisphere,1
+66,Female,334,164/76,100,1,0,1,0,1,19.60462562,Unhealthy,1,0,5,3.074793457,264823,32.97588462,764,2,10,Italy,Europe,Southern Hemisphere,0
+37,Male,313,130/87,87,1,0,1,1,0,1.722192586,Healthy,0,0,4,0.967144988,107007,22.99514171,777,0,10,Germany,Europe,Northern Hemisphere,0
+59,Female,383,152/89,84,1,0,1,1,0,1.676412716,Average,0,1,9,1.843231178,115723,19.42336962,103,0,10,Canada,North America,Northern Hemisphere,1
+54,Female,318,95/68,51,1,1,1,1,0,2.289761267,Healthy,0,1,7,2.860594039,202033,31.56745493,364,6,9,Italy,Europe,Southern Hemisphere,0
+65,Male,397,174/79,92,1,0,1,0,1,12.97046185,Average,0,1,1,9.340974208,283382,20.7775183,440,5,9,China,Asia,Northern Hemisphere,0
+41,Male,332,95/109,76,1,1,1,0,0,5.832695893,Unhealthy,1,1,7,8.222972727,121218,30.88000832,181,0,6,Canada,North America,Northern Hemisphere,1
+85,Male,367,135/68,52,1,0,1,1,1,16.34982257,Healthy,1,1,2,8.762493568,63466,23.05030992,137,4,7,Australia,Australia,Southern Hemisphere,0
+90,Male,182,162/89,93,1,0,1,1,1,2.768757671,Average,1,0,4,2.775689577,234354,35.26185389,415,5,4,South Korea,Asia,Northern Hemisphere,1
+59,Male,125,137/70,56,1,1,1,0,1,7.82333682,Average,0,0,9,0.512937373,57891,34.33564907,799,5,9,Spain,Europe,Southern Hemisphere,1
+46,Female,249,145/95,56,1,0,1,1,1,17.04499873,Healthy,1,1,1,9.417733814,156000,22.13145373,119,6,5,China,Asia,Northern Hemisphere,1
+29,Female,164,152/73,110,0,0,0,0,0,16.02124879,Healthy,0,1,6,0.747013077,189190,21.69377496,163,3,4,Canada,North America,Northern Hemisphere,0
+35,Male,322,112/107,86,1,0,1,1,1,0.030894318,Healthy,1,0,7,11.22833857,248217,36.55886591,493,6,9,South Korea,Asia,Northern Hemisphere,0
+88,Female,325,164/91,59,1,1,1,1,1,4.822964114,Average,0,0,9,0.25124666,198182,39.97377966,544,7,9,France,Europe,Northern Hemisphere,0
+75,Male,209,180/110,94,1,1,1,0,1,8.134567848,Unhealthy,1,0,4,4.474038247,24440,27.61655662,612,4,6,China,Asia,Northern Hemisphere,0
+64,Female,200,90/78,42,1,1,1,1,1,2.124625583,Healthy,1,0,3,11.27898414,126301,36.25150616,688,7,10,South Africa,Africa,Southern Hemisphere,0
+23,Male,182,124/67,50,0,0,1,1,1,13.63083853,Healthy,0,0,7,5.811854643,269263,25.05077294,549,2,9,India,Asia,Northern Hemisphere,1
+90,Male,176,123/76,77,1,1,1,0,1,10.74377332,Healthy,1,0,1,11.5146651,235507,26.4917717,666,3,8,United States,North America,Northern Hemisphere,0
+87,Male,295,102/61,66,0,0,1,0,0,13.64831415,Unhealthy,1,0,4,8.248869073,138538,39.47145193,76,6,7,China,Asia,Northern Hemisphere,0
+59,Male,299,113/69,106,0,1,1,0,1,1.618512359,Healthy,1,0,9,9.225945855,46827,23.34852219,253,2,4,Argentina,South America,Southern Hemisphere,0
+25,Male,247,176/94,57,0,1,1,0,1,7.702533777,Healthy,0,0,7,1.501246955,164766,39.31965084,433,0,6,France,Europe,Northern Hemisphere,1
+65,Male,320,147/85,110,1,0,1,1,1,17.91976669,Average,1,1,8,10.25006263,167949,28.22933167,128,1,8,Italy,Europe,Southern Hemisphere,0
+68,Female,345,107/91,107,0,0,1,1,0,14.22875768,Unhealthy,1,0,2,0.870909641,222138,26.26138231,485,3,4,South Korea,Asia,Northern Hemisphere,0
+29,Male,341,173/78,46,0,1,1,0,0,5.769847255,Average,1,0,10,2.298601609,271019,36.6491786,455,3,4,Germany,Europe,Northern Hemisphere,0
+28,Male,133,118/62,99,1,1,1,1,0,0.908608284,Healthy,0,1,6,8.635204449,53256,18.15417164,540,4,8,New Zealand,Australia,Southern Hemisphere,0
+31,Male,217,164/83,64,0,0,1,0,0,9.436514436,Healthy,0,0,8,10.0012662,174835,24.7090398,149,1,6,United Kingdom,Europe,Northern Hemisphere,0
+78,Male,296,143/81,50,1,0,1,1,1,4.268281309,Unhealthy,0,1,10,11.22117309,229002,32.09013688,622,6,10,Australia,Australia,Southern Hemisphere,0
+28,Female,133,158/68,78,0,1,0,0,0,18.33115003,Healthy,0,0,7,5.709129274,198309,25.23108389,540,6,5,Australia,Australia,Southern Hemisphere,1
+44,Male,251,180/108,63,1,1,1,0,1,0.351684607,Healthy,0,0,5,3.624598235,176408,32.10431025,798,0,7,Spain,Europe,Southern Hemisphere,1
+21,Male,347,108/72,91,1,1,1,1,1,4.088953234,Average,1,0,3,0.385331159,271312,39.76581546,288,0,9,France,Europe,Northern Hemisphere,1
+20,Male,385,170/61,62,1,0,1,1,0,9.794100595,Unhealthy,1,1,7,6.087540567,88366,28.39999652,308,3,5,South Korea,Asia,Northern Hemisphere,0
+84,Female,276,162/95,44,1,0,1,0,1,5.8889803,Healthy,0,0,1,10.79330814,111936,20.9447325,570,1,6,Vietnam,Asia,Northern Hemisphere,0
+36,Female,318,143/102,75,1,1,0,0,1,16.59281972,Healthy,1,0,5,1.680546745,112266,19.18513802,480,4,9,South Africa,Africa,Southern Hemisphere,0
+47,Male,121,106/104,103,0,1,1,1,1,8.228188512,Healthy,1,0,3,11.91670626,29736,27.22660604,323,7,5,United Kingdom,Europe,Northern Hemisphere,0
+37,Male,135,180/103,110,1,1,1,1,0,2.533922223,Healthy,0,1,5,11.74610324,86126,27.22028148,413,3,6,South Africa,Africa,Southern Hemisphere,0
+19,Male,272,148/74,84,0,1,1,1,1,9.856503601,Healthy,1,1,8,3.499285081,93720,20.26827689,565,3,10,Nigeria,Africa,Northern Hemisphere,1
+57,Male,155,90/83,44,0,1,1,0,1,12.98747445,Healthy,1,1,7,10.16409645,206601,31.52193092,162,1,5,Spain,Europe,Southern Hemisphere,0
+51,Male,135,133/107,93,1,0,1,0,1,15.66757066,Healthy,1,1,5,7.384646556,165596,29.79127921,788,4,4,Argentina,South America,Southern Hemisphere,1
+35,Male,182,94/73,53,1,1,1,1,0,0.268164796,Healthy,1,1,2,1.6757311,243611,28.91566795,377,4,7,Italy,Europe,Southern Hemisphere,0
+77,Male,298,108/93,84,1,1,1,1,1,0.81310966,Average,1,0,7,1.960486498,93538,33.05982126,418,0,9,Germany,Europe,Northern Hemisphere,1
+73,Male,151,104/101,66,1,1,1,1,1,0.968703882,Average,1,1,1,10.62324931,166775,31.47855639,301,3,8,Nigeria,Africa,Northern Hemisphere,0
+34,Female,337,143/99,47,0,1,0,1,0,6.493911774,Average,1,0,5,11.57136491,255504,27.04458255,42,2,10,United Kingdom,Europe,Northern Hemisphere,0
+22,Male,254,172/105,90,1,1,1,0,1,11.97304574,Healthy,1,0,8,3.251237661,166643,34.39219069,231,2,6,Brazil,South America,Southern Hemisphere,0
+77,Male,182,108/103,108,1,0,1,1,0,15.28998425,Healthy,0,0,4,0.202012433,234941,26.21547904,779,0,4,Colombia,South America,Northern Hemisphere,0
+61,Male,138,115/86,95,1,1,1,0,1,14.38341393,Average,1,1,4,10.41726624,66095,33.35010862,689,7,4,Germany,Europe,Northern Hemisphere,1
+60,Female,324,101/69,74,1,0,1,0,1,8.345365665,Unhealthy,0,0,8,7.387659172,297518,24.72102262,644,1,10,Germany,Europe,Northern Hemisphere,1
+20,Female,122,156/86,52,1,0,0,1,1,8.492335191,Average,1,1,7,11.64355795,298860,35.07277712,503,5,5,Colombia,South America,Northern Hemisphere,0
+77,Male,336,111/70,91,0,1,1,0,0,19.18234831,Average,1,0,2,6.887265754,180720,32.30696453,675,3,10,Canada,North America,Northern Hemisphere,0
+80,Female,358,127/103,110,1,1,1,1,1,9.423942154,Average,1,1,7,8.710600587,97907,20.03763262,266,7,10,Colombia,South America,Northern Hemisphere,0
+49,Male,233,110/61,84,1,0,1,0,1,19.03724958,Healthy,0,1,4,10.15818069,73446,27.08450272,580,3,5,Spain,Europe,Southern Hemisphere,0
+38,Female,334,169/84,52,1,0,0,0,0,2.080053061,Unhealthy,1,1,2,4.095070304,167232,24.05178811,657,7,9,United States,North America,Northern Hemisphere,0
+42,Female,203,129/101,101,0,0,1,1,1,10.52502108,Average,1,1,2,4.017677172,134402,18.96709218,368,5,9,United States,North America,Northern Hemisphere,0
+84,Male,251,117/87,90,0,1,1,1,1,6.849218738,Unhealthy,0,1,3,4.847568104,180243,36.39711705,108,1,8,Canada,North America,Northern Hemisphere,1
+48,Male,190,179/69,98,1,1,1,1,1,1.675556393,Unhealthy,1,0,9,8.484754609,66503,29.43462597,768,7,7,United States,North America,Northern Hemisphere,1
+35,Male,277,90/63,109,0,1,1,1,1,0.519201886,Healthy,1,1,8,3.179133223,222851,28.03734754,639,0,6,Germany,Europe,Northern Hemisphere,1
+79,Male,326,156/79,80,1,1,1,0,1,2.196684964,Healthy,1,0,7,11.85349822,263452,29.3806511,370,4,8,Argentina,South America,Southern Hemisphere,1
+48,Male,348,95/85,64,1,1,1,1,1,3.394024925,Healthy,1,1,6,2.350864074,24496,29.81960124,728,6,7,Japan,Asia,Northern Hemisphere,0
+68,Male,235,121/76,49,0,1,1,0,1,15.05407817,Average,0,1,6,0.317260192,120031,22.70151644,100,1,8,New Zealand,Australia,Southern Hemisphere,0
+63,Male,239,118/77,94,1,0,1,0,1,16.55808775,Unhealthy,0,1,4,1.482305336,213155,22.36896564,133,4,4,Brazil,South America,Southern Hemisphere,0
+52,Male,363,117/105,53,1,1,1,0,1,1.833854195,Average,1,0,5,2.642328609,64949,21.19667564,543,2,6,Japan,Asia,Northern Hemisphere,1
+52,Male,147,107/76,55,0,0,1,0,1,2.461911415,Unhealthy,1,0,5,2.209311395,29465,19.01037926,268,3,5,Thailand,Asia,Northern Hemisphere,0
+67,Female,125,121/82,101,1,0,1,1,1,15.34110939,Healthy,1,1,4,10.14633622,185306,33.75473622,407,2,10,Germany,Europe,Northern Hemisphere,0
+25,Female,185,139/101,102,1,1,0,1,0,15.48118811,Average,1,1,1,3.102778703,265597,34.89390291,204,2,10,South Africa,Africa,Southern Hemisphere,0
+26,Female,293,163/77,93,0,1,0,0,0,4.704650691,Unhealthy,0,1,7,4.205488602,224903,30.6105422,284,6,6,South Korea,Asia,Northern Hemisphere,0
+22,Female,164,124/77,103,1,1,0,1,0,17.26736731,Unhealthy,0,1,6,4.092530046,156032,39.40289214,316,6,7,Vietnam,Asia,Northern Hemisphere,0
+26,Male,373,129/73,59,1,0,1,1,1,0.440544829,Unhealthy,1,1,1,1.073357562,159280,30.35286205,729,7,10,India,Asia,Northern Hemisphere,0
+62,Male,387,132/93,61,1,0,1,0,1,14.28580414,Healthy,1,0,5,10.15800296,231785,24.43957689,385,0,4,Argentina,South America,Southern Hemisphere,1
+47,Female,124,92/63,60,0,1,1,1,0,10.41945615,Unhealthy,0,0,4,5.577282158,195110,33.11304863,713,4,4,Nigeria,Africa,Northern Hemisphere,0
+61,Male,178,142/79,89,0,0,1,1,1,2.76714165,Average,0,1,2,1.058865543,142613,27.18464926,433,1,9,China,Asia,Northern Hemisphere,0
+36,Male,377,143/74,62,1,0,1,1,1,19.15625696,Unhealthy,0,1,3,5.339879816,118869,28.17086171,178,5,7,China,Asia,Northern Hemisphere,1
+58,Male,155,114/109,87,1,1,1,1,0,15.41913228,Healthy,1,0,7,5.389695285,227239,24.19525528,204,4,10,Canada,North America,Northern Hemisphere,0
+57,Male,308,144/103,94,1,1,1,0,0,9.162004925,Average,0,1,3,6.654633982,238481,38.41045814,147,3,6,Canada,North America,Northern Hemisphere,0
+41,Male,373,107/107,58,0,0,1,1,0,6.716094902,Unhealthy,1,1,4,5.710574609,95781,24.776062,390,7,4,Germany,Europe,Northern Hemisphere,0
+87,Male,192,174/96,91,0,1,1,0,0,8.419966675,Average,1,0,6,1.178492805,69312,27.89387485,175,2,10,Japan,Asia,Northern Hemisphere,0
+49,Female,231,155/100,55,1,1,1,0,1,3.216056347,Unhealthy,1,1,9,3.9844885,159068,27.93595119,258,7,5,India,Asia,Northern Hemisphere,0
+81,Male,140,168/79,58,1,1,1,1,1,17.86097705,Healthy,1,0,6,11.02815596,198501,29.3294954,108,4,9,Italy,Europe,Southern Hemisphere,0
+71,Male,309,177/98,54,1,0,1,1,0,4.711603554,Healthy,1,0,6,5.983811092,139129,19.10123398,523,6,9,France,Europe,Northern Hemisphere,0
+32,Male,266,179/109,62,1,0,1,1,0,10.73521675,Average,0,1,4,0.385038566,215726,39.93476767,182,2,5,China,Asia,Northern Hemisphere,1
+46,Male,303,180/100,76,1,1,1,1,1,0.721658159,Healthy,1,0,6,9.305323452,122081,20.05183802,236,4,6,South Korea,Asia,Northern Hemisphere,1
+22,Male,155,154/69,110,0,1,1,0,1,18.37831569,Average,1,1,7,8.138824666,79602,38.98729355,491,4,6,Spain,Europe,Southern Hemisphere,0
+39,Male,251,118/109,71,0,0,1,0,0,0.533181606,Average,1,1,7,0.29741358,266466,38.35287701,300,5,4,United Kingdom,Europe,Northern Hemisphere,1
+85,Female,251,174/70,45,0,0,1,0,1,8.043427521,Healthy,0,0,7,3.375961293,142092,28.84265255,681,2,6,South Africa,Africa,Southern Hemisphere,0
+54,Female,214,143/69,59,1,0,1,0,1,12.88423043,Unhealthy,0,1,6,2.321562833,229490,29.92706741,791,1,5,South Africa,Africa,Southern Hemisphere,0
+86,Male,239,146/73,44,1,1,1,0,0,6.823682647,Average,1,1,1,6.337794674,211362,38.30578138,201,4,10,Nigeria,Africa,Northern Hemisphere,0
+18,Female,188,161/70,42,0,0,0,1,1,3.248857867,Healthy,0,0,1,3.860961615,92546,32.99273901,328,2,5,Argentina,South America,Southern Hemisphere,0
+48,Male,161,113/81,96,1,0,1,1,1,9.68969536,Healthy,0,0,5,2.096436066,151115,21.05925689,220,3,8,France,Europe,Northern Hemisphere,1
+65,Male,130,124/63,42,1,0,1,1,1,4.134446541,Average,0,1,8,5.111954019,154191,19.71588631,172,3,7,China,Asia,Northern Hemisphere,0
+58,Male,270,175/84,53,1,0,1,0,1,11.04317662,Healthy,1,1,7,10.69302891,75139,35.00419292,375,3,4,Germany,Europe,Northern Hemisphere,1
+42,Male,364,102/75,40,0,1,1,0,0,9.460692495,Healthy,0,1,2,9.783773303,79462,33.34932712,197,2,10,Germany,Europe,Northern Hemisphere,0
+28,Female,393,149/107,82,1,1,0,0,1,5.735598311,Average,1,0,2,1.450181968,156192,28.5758349,622,3,10,Spain,Europe,Southern Hemisphere,1
+61,Male,166,127/65,68,1,0,1,0,1,8.88848933,Unhealthy,1,1,5,0.766859457,247143,29.86385667,663,2,8,South Korea,Asia,Northern Hemisphere,1
+67,Male,169,112/76,62,0,1,1,0,1,14.93185058,Unhealthy,0,1,8,6.022532606,87531,36.68262115,394,0,8,South Korea,Asia,Northern Hemisphere,1
+54,Male,269,159/78,104,0,0,1,0,0,14.34059242,Average,0,1,3,9.944133584,162372,31.10305427,485,1,7,Thailand,Asia,Northern Hemisphere,0
+47,Male,241,155/70,54,0,0,1,0,0,10.96666469,Average,0,1,4,6.40024909,281959,33.36370938,595,6,6,New Zealand,Australia,Southern Hemisphere,0
+29,Female,235,116/105,88,1,1,0,0,0,0.319783132,Healthy,0,1,5,8.013630367,244835,31.6507114,575,6,8,United States,North America,Northern Hemisphere,0
+71,Female,345,121/87,91,0,1,1,0,0,16.73039412,Average,1,1,2,11.74909842,217832,26.70152461,343,3,4,China,Asia,Northern Hemisphere,1
+27,Female,129,101/106,51,1,1,0,1,0,16.21969511,Healthy,1,1,5,8.98287607,83249,30.1297313,469,0,8,Japan,Asia,Northern Hemisphere,0
+84,Male,370,170/107,102,0,1,1,1,1,16.64406173,Average,1,0,3,3.547099298,170200,20.07612903,619,5,4,Germany,Europe,Northern Hemisphere,1
+66,Male,127,98/96,79,0,0,1,1,1,13.4849263,Unhealthy,1,1,3,8.572563542,253564,39.82912204,401,0,5,Brazil,South America,Southern Hemisphere,0
+88,Male,371,124/66,57,1,1,1,0,0,19.19051883,Average,0,1,3,3.064861731,129015,31.75959625,246,0,6,Japan,Asia,Northern Hemisphere,1
+49,Male,137,124/80,97,0,0,1,0,1,16.05314816,Average,1,1,9,9.869895363,70731,30.51195324,229,6,4,New Zealand,Australia,Southern Hemisphere,0
+80,Male,245,146/62,81,0,1,1,0,1,16.58485607,Unhealthy,1,0,9,7.505259447,114294,35.95587081,431,2,6,United Kingdom,Europe,Northern Hemisphere,1
+46,Male,196,99/89,68,1,0,1,0,1,13.35265892,Average,0,1,2,11.46688147,36876,39.28501416,74,0,6,Thailand,Asia,Northern Hemisphere,0
+57,Male,238,133/106,68,1,0,1,1,0,9.406183666,Unhealthy,0,0,5,2.59039185,46947,22.22122942,126,7,8,South Africa,Africa,Southern Hemisphere,1
+25,Female,335,170/105,87,1,0,0,0,1,6.199305155,Healthy,1,0,4,10.79635911,294305,24.31312286,770,3,8,South Africa,Africa,Southern Hemisphere,0
+79,Male,284,147/81,40,0,1,1,0,0,15.10484152,Unhealthy,1,1,3,4.066655275,167640,22.77961139,595,2,6,Argentina,South America,Southern Hemisphere,1
+69,Male,142,175/68,68,1,1,1,0,1,6.386463728,Healthy,1,0,9,7.815401021,243417,19.70620314,376,7,4,Germany,Europe,Northern Hemisphere,1
+34,Male,382,94/66,109,1,1,1,0,1,4.196988335,Healthy,0,1,8,9.289411457,233099,23.56231357,92,0,6,United Kingdom,Europe,Northern Hemisphere,0
+26,Male,247,90/60,68,1,1,1,0,1,2.742601399,Healthy,0,1,8,9.983628512,95660,18.33088972,494,0,5,Nigeria,Africa,Northern Hemisphere,1
+37,Male,182,121/63,49,1,1,1,0,1,4.27401937,Average,1,0,1,9.946014736,142292,26.97126723,136,2,9,Colombia,South America,Northern Hemisphere,0
+20,Male,294,116/80,94,1,1,1,1,1,7.221270341,Unhealthy,1,1,3,7.212603985,164179,39.72793472,510,5,7,Colombia,South America,Northern Hemisphere,1
+19,Male,267,159/91,64,1,0,1,1,0,9.054823449,Healthy,0,1,7,8.000144809,241418,24.2533634,106,5,8,Colombia,South America,Northern Hemisphere,0
+45,Female,223,167/82,91,1,0,1,0,1,11.5558044,Healthy,0,1,2,6.30036657,179818,28.25996551,124,7,4,New Zealand,Australia,Southern Hemisphere,1
+46,Male,354,124/73,107,1,0,1,0,1,18.26096593,Healthy,1,1,10,0.11726852,248448,21.77421578,604,0,7,South Korea,Asia,Northern Hemisphere,0
+53,Female,124,160/92,81,1,0,1,0,0,2.134084471,Healthy,0,1,10,11.93828409,205656,23.97709143,154,4,9,United Kingdom,Europe,Northern Hemisphere,0
+18,Male,147,178/104,46,1,1,1,1,0,19.20704788,Healthy,0,0,8,8.13978657,82164,23.26800919,146,2,10,Italy,Europe,Southern Hemisphere,1
+32,Male,128,104/103,94,1,1,1,0,0,18.16780821,Average,0,0,1,6.126957407,291787,31.70030851,278,1,4,Brazil,South America,Southern Hemisphere,0
+38,Female,289,140/99,93,1,1,0,1,0,12.871694,Unhealthy,1,0,8,10.47977711,118650,23.28671342,389,1,5,Argentina,South America,Southern Hemisphere,0
+65,Male,292,152/98,75,1,0,1,0,1,6.193688884,Average,1,1,6,4.313209376,244141,22.83688158,795,6,4,Germany,Europe,Northern Hemisphere,1
+90,Male,359,126/97,76,1,0,1,1,0,17.99642494,Average,0,1,4,10.7409166,51668,22.10468646,205,6,6,New Zealand,Australia,Southern Hemisphere,0
+50,Female,163,120/62,53,0,1,1,1,1,10.16158667,Healthy,0,1,7,1.107884087,121954,35.3902653,591,0,9,Spain,Europe,Southern Hemisphere,1
+49,Male,141,179/95,67,1,0,1,0,0,16.86760436,Healthy,1,1,3,9.321690274,195612,34.32173881,594,2,10,South Africa,Africa,Southern Hemisphere,0
+88,Male,288,173/63,47,1,0,1,0,0,5.470047902,Unhealthy,0,1,9,3.240387195,22708,19.46077998,163,0,6,Brazil,South America,Southern Hemisphere,1
+44,Male,320,169/93,71,1,0,1,1,1,12.32115594,Unhealthy,0,1,1,10.86840356,50177,27.0068671,357,5,5,New Zealand,Australia,Southern Hemisphere,1
+87,Male,343,164/67,102,1,0,1,0,0,18.42914118,Healthy,0,0,3,3.462212365,81379,22.04264104,325,5,7,United States,North America,Northern Hemisphere,1
+68,Male,220,155/70,41,0,1,1,0,0,19.33647719,Unhealthy,0,0,2,0.503727501,211626,35.18534066,314,0,4,Vietnam,Asia,Northern Hemisphere,1
+68,Male,302,97/63,109,0,1,1,1,0,3.035048466,Average,0,1,7,0.438814366,88322,31.77981437,88,5,9,Thailand,Asia,Northern Hemisphere,0
+40,Male,261,90/66,46,1,1,1,0,1,11.26628549,Unhealthy,0,1,10,6.694421561,189248,22.92715586,484,1,5,Germany,Europe,Northern Hemisphere,1
+66,Male,243,114/104,78,0,1,1,0,1,7.249184072,Average,0,1,1,3.138152076,65010,23.1300468,353,5,4,India,Asia,Northern Hemisphere,0
+26,Male,255,156/93,89,1,0,1,0,0,19.74702324,Healthy,1,1,5,10.0769238,227310,39.59084327,657,7,7,Spain,Europe,Southern Hemisphere,0
+38,Male,337,176/78,67,0,1,1,0,1,18.19842678,Unhealthy,0,0,6,11.73511051,56904,32.10930933,251,6,9,Spain,Europe,Southern Hemisphere,0
+24,Male,235,145/74,87,1,0,1,1,1,14.16412057,Average,0,0,1,2.411189439,177980,33.43604752,210,2,9,Vietnam,Asia,Northern Hemisphere,1
+70,Male,231,157/76,103,0,0,1,0,1,13.5795541,Healthy,0,1,5,4.438563286,94057,29.38679332,410,7,6,France,Europe,Northern Hemisphere,1
+40,Female,240,94/102,47,0,1,0,0,1,7.954419078,Healthy,0,0,10,1.43555395,83880,34.02551851,205,7,4,Germany,Europe,Northern Hemisphere,0
+29,Male,257,122/107,46,1,0,1,1,1,3.336732978,Average,1,1,4,10.49959093,267460,20.80201011,70,7,8,South Korea,Asia,Northern Hemisphere,0
+66,Female,287,92/106,51,1,1,1,0,0,17.80719302,Healthy,1,1,7,4.531109679,138053,29.34694434,674,5,6,Vietnam,Asia,Northern Hemisphere,0
+36,Female,318,174/110,57,1,0,0,0,0,8.708416038,Unhealthy,1,0,6,9.652375533,75619,21.15518083,127,7,10,South Africa,Africa,Southern Hemisphere,0
+18,Female,207,178/63,108,1,0,0,0,0,15.40465916,Healthy,1,0,5,4.083577256,36330,30.53440052,215,0,8,Vietnam,Asia,Northern Hemisphere,0
+89,Male,247,180/94,72,1,0,1,0,1,3.470240038,Unhealthy,0,1,10,0.714879806,191545,37.23226925,60,6,9,United Kingdom,Europe,Northern Hemisphere,0
+75,Male,269,132/63,97,1,0,1,0,1,18.03915836,Average,0,0,9,10.41322235,178430,22.03945188,263,7,5,Spain,Europe,Southern Hemisphere,1
+32,Female,219,148/99,103,1,0,0,1,1,17.12099911,Healthy,0,1,6,3.200273971,91392,20.01235582,184,4,7,Brazil,South America,Southern Hemisphere,1
+36,Female,131,168/94,88,1,1,0,1,0,10.09078456,Average,1,0,10,2.756151851,297079,19.70866408,695,3,7,France,Europe,Northern Hemisphere,0
+89,Male,273,145/84,70,1,1,1,1,1,18.15202981,Average,0,0,10,5.245982312,118801,29.44569878,357,1,8,New Zealand,Australia,Southern Hemisphere,1
+38,Female,164,152/88,81,1,0,0,1,0,10.25107774,Average,1,1,3,11.91737806,191940,24.12578081,239,6,9,Spain,Europe,Southern Hemisphere,1
+37,Male,217,92/110,70,1,0,1,1,1,3.898843969,Average,1,0,9,0.86560103,269365,22.63058959,695,3,6,South Africa,Africa,Southern Hemisphere,0
+22,Male,167,177/85,53,1,1,1,0,0,18.84776279,Average,0,0,7,3.158197676,212208,25.39941045,55,1,10,Australia,Australia,Southern Hemisphere,0
+57,Female,172,128/105,69,0,0,1,1,0,2.350266622,Unhealthy,0,0,1,11.70045285,24458,23.12677261,209,4,4,United Kingdom,Europe,Northern Hemisphere,1
+54,Male,329,158/107,72,1,0,1,1,1,6.016666492,Unhealthy,1,1,9,7.669782243,161782,37.48645131,691,7,8,United Kingdom,Europe,Northern Hemisphere,0
+90,Female,217,138/89,51,1,1,1,1,1,13.76809327,Healthy,1,1,10,0.688416808,240443,21.84715798,725,2,6,Italy,Europe,Southern Hemisphere,1
+23,Male,372,126/67,53,1,1,1,0,1,13.00607872,Healthy,0,0,10,8.063123632,57731,27.17563989,294,2,5,Canada,North America,Northern Hemisphere,0
+87,Male,256,124/85,48,1,1,1,0,0,0.333887045,Healthy,0,0,5,5.63812943,249404,32.98279386,349,7,4,Nigeria,Africa,Northern Hemisphere,0
+78,Male,257,180/75,55,1,0,1,1,1,3.375761739,Unhealthy,1,0,10,5.729701083,92496,36.6701339,409,4,4,South Africa,Africa,Southern Hemisphere,0
+60,Male,120,176/71,57,0,0,1,1,1,12.51234052,Average,1,0,6,4.876606557,277459,22.74784587,622,2,6,Italy,Europe,Southern Hemisphere,0
+27,Female,159,120/109,76,1,0,0,0,0,13.34544537,Healthy,1,0,9,1.273537152,94012,27.59241757,738,2,6,New Zealand,Australia,Southern Hemisphere,0
+74,Male,272,155/68,96,1,1,1,0,1,13.20505738,Average,0,1,4,4.534621146,241550,22.70118508,207,1,10,India,Asia,Northern Hemisphere,0
+23,Male,338,142/91,85,1,0,1,1,1,16.53428799,Unhealthy,1,1,6,9.245502265,286040,32.1816312,183,7,7,Colombia,South America,Northern Hemisphere,0
+45,Female,389,130/109,72,1,0,1,1,0,3.867274769,Unhealthy,1,0,4,4.251145985,153567,29.59659745,438,3,4,Thailand,Asia,Northern Hemisphere,1
+36,Male,234,141/63,62,0,0,1,1,1,18.73070095,Healthy,1,0,2,5.406548031,298364,39.41462456,265,1,9,United Kingdom,Europe,Northern Hemisphere,0
+27,Male,240,137/79,95,1,1,1,1,1,12.29410423,Healthy,1,1,3,2.244195479,171557,21.93251173,346,0,5,Brazil,South America,Southern Hemisphere,0
+48,Male,351,124/63,59,1,1,1,0,0,3.615988816,Unhealthy,0,1,8,4.433421217,247004,24.30370697,114,0,6,Spain,Europe,Southern Hemisphere,1
+31,Male,133,128/81,109,1,1,1,0,0,18.0888638,Average,0,1,9,8.129050424,224276,26.64666304,758,1,7,Japan,Asia,Northern Hemisphere,1
+87,Male,378,96/100,93,0,0,1,1,1,11.86104104,Healthy,1,1,5,1.917471093,173741,35.0870424,446,5,5,South Korea,Asia,Northern Hemisphere,1
+73,Male,390,165/63,50,1,1,1,0,1,18.79784059,Healthy,1,0,10,11.76911488,177717,36.39417704,211,3,4,Vietnam,Asia,Northern Hemisphere,1
+44,Male,268,99/93,108,1,1,1,1,1,5.422390869,Healthy,0,0,6,5.967226469,98833,21.99964423,461,0,8,South Africa,Africa,Southern Hemisphere,0
+90,Male,327,154/85,96,1,0,1,0,0,4.438679839,Average,1,1,3,5.308709157,114687,39.94828683,161,6,6,New Zealand,Australia,Southern Hemisphere,1
+61,Female,278,143/65,40,1,0,1,0,1,19.43018645,Unhealthy,1,0,5,4.209830763,209399,37.43872924,358,6,10,Colombia,South America,Northern Hemisphere,0
+29,Male,325,142/89,97,0,0,1,0,1,7.627166329,Average,1,1,2,9.255561296,103498,33.43008572,394,0,7,Australia,Australia,Southern Hemisphere,0
+40,Male,292,174/69,81,1,0,1,1,1,2.230082686,Unhealthy,1,0,8,1.769217502,54366,22.84781209,665,7,6,United Kingdom,Europe,Northern Hemisphere,0
+29,Female,359,148/72,106,0,0,0,1,1,8.722725616,Unhealthy,1,1,2,11.78211557,266078,18.7708254,771,2,4,Japan,Asia,Northern Hemisphere,1
+60,Male,171,119/73,54,1,0,1,0,0,6.484855345,Unhealthy,1,1,3,9.683201121,144816,31.15901053,62,7,5,India,Asia,Northern Hemisphere,0
+35,Male,352,99/102,51,1,1,1,1,0,9.072811501,Healthy,1,1,5,0.544470461,97980,36.98303173,517,7,6,United States,North America,Northern Hemisphere,0
+82,Male,202,168/63,92,0,1,1,1,0,18.55548137,Unhealthy,0,0,5,7.017197509,153686,19.61498507,208,2,8,Germany,Europe,Northern Hemisphere,0
+64,Male,245,107/95,55,0,1,1,1,1,10.96494913,Healthy,1,1,3,11.66203392,77584,36.59220975,506,7,9,United States,North America,Northern Hemisphere,1
+81,Male,309,108/78,77,1,0,1,0,0,15.27070382,Average,0,0,1,0.653018412,157497,20.30004777,170,0,5,South Korea,Asia,Northern Hemisphere,0
+38,Male,400,118/70,106,1,0,1,0,1,1.093605126,Healthy,1,1,1,11.50913187,112176,35.62621201,358,6,7,Japan,Asia,Northern Hemisphere,0
+81,Male,351,171/85,94,1,1,1,0,1,10.43424657,Unhealthy,1,1,10,11.40258784,189560,33.33446663,111,0,5,Colombia,South America,Northern Hemisphere,0
+57,Male,276,156/78,89,1,0,1,0,1,11.23877911,Healthy,0,0,2,3.88779847,180652,26.99228941,283,5,4,Germany,Europe,Northern Hemisphere,0
+81,Female,260,142/79,45,1,1,1,1,1,3.281074749,Unhealthy,1,1,3,4.959148431,27388,29.22206287,406,7,4,Brazil,South America,Southern Hemisphere,0
+47,Female,271,167/80,79,0,1,1,1,0,10.27729477,Healthy,1,0,7,1.008818379,249708,32.13891106,139,3,5,South Korea,Asia,Northern Hemisphere,1
+38,Male,149,167/62,99,1,0,1,0,0,3.161395408,Unhealthy,1,1,4,7.577925744,157726,38.01373383,403,1,5,Australia,Australia,Southern Hemisphere,0
+33,Female,211,112/106,60,0,0,0,0,0,9.028440193,Healthy,0,1,3,1.739059503,128874,21.05741677,411,6,10,United Kingdom,Europe,Northern Hemisphere,0
+62,Male,297,109/105,87,0,0,1,1,0,3.581581343,Healthy,1,1,4,6.604519972,273351,31.4779425,761,0,8,Italy,Europe,Southern Hemisphere,0
+84,Male,247,154/99,74,0,1,1,0,1,2.568521614,Average,1,0,7,2.590129597,156322,23.95756808,450,0,8,United Kingdom,Europe,Northern Hemisphere,1
+20,Male,373,115/91,47,1,1,1,1,1,0.789520339,Unhealthy,0,0,9,4.336367901,46747,18.83346216,685,6,6,United Kingdom,Europe,Northern Hemisphere,1
+19,Male,142,151/106,76,1,0,1,1,1,8.769376068,Healthy,1,0,2,5.985405506,236374,23.5290929,675,7,7,Vietnam,Asia,Northern Hemisphere,0
+42,Female,320,176/61,103,1,0,1,0,1,13.09949274,Healthy,0,0,9,7.308564702,172328,27.87514864,725,0,5,Nigeria,Africa,Northern Hemisphere,1
+72,Female,236,133/107,58,0,1,1,0,0,3.914077473,Average,0,1,9,7.94834807,25020,35.04715891,566,0,5,Australia,Australia,Southern Hemisphere,1
+52,Male,286,103/104,70,1,0,1,0,1,7.100008186,Average,1,1,9,9.114248706,285209,23.64352985,339,7,5,Colombia,South America,Northern Hemisphere,0
+32,Male,254,95/83,93,0,1,1,0,1,0.466782516,Unhealthy,1,1,7,6.118972053,246499,32.7634297,235,4,9,India,Asia,Northern Hemisphere,0
+68,Male,132,102/68,81,1,0,1,1,1,0.691857354,Unhealthy,0,1,8,8.903895041,266146,26.37039146,533,4,9,Australia,Australia,Southern Hemisphere,0
+81,Female,216,155/96,76,0,1,1,0,0,17.39977425,Unhealthy,1,1,5,8.464567953,257645,23.84218888,429,5,4,Nigeria,Africa,Northern Hemisphere,0
+28,Female,195,121/92,46,0,1,0,0,1,1.041219736,Average,1,1,10,4.306521775,157848,19.3576523,285,3,10,Spain,Europe,Southern Hemisphere,0
+37,Male,177,125/67,105,1,0,1,0,1,16.13192277,Unhealthy,0,0,9,0.695943255,109203,36.05866489,568,5,9,Thailand,Asia,Northern Hemisphere,1
+40,Male,207,146/90,78,1,0,1,0,1,5.957420464,Healthy,1,0,7,7.344375763,138028,26.02438921,744,0,10,Vietnam,Asia,Northern Hemisphere,0
+85,Male,143,151/94,71,0,0,1,1,0,18.19989614,Average,0,0,7,3.731899767,63674,29.66564892,723,4,7,Brazil,South America,Southern Hemisphere,1
+18,Male,340,156/63,105,0,1,1,1,1,2.337385968,Unhealthy,0,1,4,11.53866637,38949,39.1337209,775,4,4,Brazil,South America,Southern Hemisphere,1
+42,Female,159,92/74,73,1,0,1,1,0,16.52467314,Average,0,1,7,7.066230888,122036,27.43629786,243,4,5,Thailand,Asia,Northern Hemisphere,0
+87,Male,203,145/99,72,0,1,1,1,0,5.998206209,Unhealthy,0,0,10,10.03968551,196478,21.64968522,174,3,7,Nigeria,Africa,Northern Hemisphere,0
+59,Male,283,148/60,95,0,0,1,0,1,1.591414473,Unhealthy,1,0,9,4.207267851,294304,27.1413672,206,7,7,Nigeria,Africa,Northern Hemisphere,0
+36,Male,181,119/82,74,1,0,1,0,0,14.70752963,Average,0,1,1,9.002555006,197636,33.36497415,515,4,10,Argentina,South America,Southern Hemisphere,0
+87,Female,391,171/79,103,0,1,1,1,1,5.432660948,Unhealthy,0,1,6,9.497570591,228950,23.97294056,780,5,9,Vietnam,Asia,Northern Hemisphere,1
+44,Male,313,145/73,46,0,0,1,1,0,11.43163348,Healthy,0,0,5,3.889789345,150084,36.01892305,164,3,10,France,Europe,Northern Hemisphere,1
+28,Female,200,107/64,97,1,0,0,1,1,5.897908314,Unhealthy,1,1,8,11.15205502,197623,26.27307004,325,7,6,Germany,Europe,Northern Hemisphere,0
+21,Male,202,137/63,80,0,1,1,1,0,16.54403992,Healthy,1,0,2,3.255831885,172718,39.83483962,607,1,7,Japan,Asia,Northern Hemisphere,0
+77,Male,321,179/97,73,1,1,1,1,0,14.62184058,Healthy,1,0,8,0.481914231,294445,36.49680246,321,4,7,Canada,North America,Northern Hemisphere,0
+48,Female,288,142/107,85,1,0,1,1,1,8.364895134,Average,1,1,2,9.372460258,203153,25.4755315,229,7,4,Vietnam,Asia,Northern Hemisphere,0
+73,Female,141,110/70,40,1,1,1,0,1,18.66176686,Average,0,0,2,4.747372207,69272,38.2633265,325,3,9,United States,North America,Northern Hemisphere,0
+85,Male,226,114/61,42,1,1,1,0,1,6.394302115,Unhealthy,1,1,1,10.81661758,21973,26.76434115,114,4,6,Colombia,South America,Northern Hemisphere,0
+71,Female,330,127/85,85,1,0,1,1,1,13.57436515,Unhealthy,0,0,3,0.132862157,59437,32.38768671,777,1,6,France,Europe,Northern Hemisphere,0
+80,Female,209,111/101,109,1,1,1,1,1,16.02305008,Average,0,0,6,2.796948152,110780,19.45028111,48,2,9,Nigeria,Africa,Northern Hemisphere,0
+29,Female,162,127/106,62,1,0,0,0,1,3.148321451,Unhealthy,1,1,10,9.264429058,49138,38.30446725,337,1,10,Argentina,South America,Southern Hemisphere,1
+78,Female,198,173/110,88,1,0,1,1,1,1.460012053,Unhealthy,0,0,5,8.736364333,293645,39.27784428,153,4,9,Italy,Europe,Southern Hemisphere,0
+32,Male,303,166/92,55,1,1,1,1,1,19.96086589,Unhealthy,1,1,5,8.467201865,240885,33.84365631,104,6,8,Thailand,Asia,Northern Hemisphere,0
+71,Male,137,165/63,46,1,1,1,1,1,10.29209125,Healthy,0,1,9,0.393991049,63617,18.68683542,434,1,4,United Kingdom,Europe,Northern Hemisphere,1
+55,Male,145,162/72,61,1,0,1,0,0,2.546761584,Healthy,0,0,1,4.909841091,261705,38.8063196,500,4,8,New Zealand,Australia,Southern Hemisphere,0
+50,Male,376,121/69,110,0,0,1,1,1,12.36405655,Average,1,1,1,3.75974736,280197,23.80913142,313,5,7,Italy,Europe,Southern Hemisphere,0
+44,Male,271,151/83,52,0,1,1,1,0,8.268241702,Healthy,1,1,2,0.09846582,299423,19.83663676,594,4,4,Nigeria,Africa,Northern Hemisphere,0
+66,Male,383,157/110,57,1,0,1,1,0,9.592629874,Unhealthy,0,1,6,3.553378492,60732,26.8979847,453,1,8,United Kingdom,Europe,Northern Hemisphere,0
+67,Male,254,175/90,107,1,0,1,0,0,2.67869348,Unhealthy,1,0,9,4.308289668,71014,34.62206891,48,6,10,United States,North America,Northern Hemisphere,0
+66,Male,299,163/104,45,0,1,1,1,1,2.146194344,Unhealthy,0,1,4,5.728347231,176121,22.45985901,448,7,4,Canada,North America,Northern Hemisphere,0
+23,Female,227,134/79,99,0,1,0,1,1,11.77743239,Unhealthy,1,0,2,9.388070235,236037,27.45817679,399,4,9,India,Asia,Northern Hemisphere,0
+37,Male,229,149/92,81,1,0,1,0,0,10.16008395,Healthy,1,1,3,2.50543253,266928,35.00836351,700,1,9,New Zealand,Australia,Southern Hemisphere,0
+38,Male,376,124/108,46,0,1,1,1,0,2.596463362,Average,0,0,5,4.246841859,246133,33.5621539,690,7,5,France,Europe,Northern Hemisphere,0
+65,Male,283,131/69,43,0,0,1,0,1,14.42104173,Average,0,0,6,2.724087204,87179,33.62374602,236,5,6,Germany,Europe,Northern Hemisphere,0
+29,Male,338,136/84,81,1,0,1,1,0,19.4662263,Average,1,0,7,11.79617761,65758,37.90705925,746,2,7,France,Europe,Northern Hemisphere,1
+72,Male,167,177/75,50,1,0,1,1,0,13.13007712,Average,0,1,9,4.383395016,102030,31.25970968,203,3,8,Vietnam,Asia,Northern Hemisphere,0
+74,Female,219,152/85,85,1,0,1,1,0,11.84093583,Average,0,1,3,4.28829539,259543,26.59179275,404,3,10,China,Asia,Northern Hemisphere,1
+86,Male,189,161/95,83,1,0,1,1,0,8.366627124,Average,1,1,10,8.932084667,298665,18.28006187,502,1,9,United Kingdom,Europe,Northern Hemisphere,0
+33,Female,130,109/76,64,1,0,0,0,0,7.817803969,Healthy,1,0,3,2.454618242,152593,30.57412378,366,2,6,India,Asia,Northern Hemisphere,0
+74,Female,131,94/66,95,1,1,1,1,1,10.33172844,Unhealthy,1,0,10,10.96924558,278649,23.50397711,102,7,6,Australia,Australia,Southern Hemisphere,1
+85,Female,370,122/101,40,0,1,1,0,1,14.63134071,Healthy,1,0,5,9.505505231,208895,39.28148337,60,3,6,Brazil,South America,Southern Hemisphere,0
+28,Female,210,94/108,69,1,1,0,0,0,7.143148128,Unhealthy,0,1,2,11.58591738,143774,29.96260551,648,5,10,Australia,Australia,Southern Hemisphere,0
+86,Female,177,116/100,40,1,1,1,0,1,17.36693842,Average,0,1,7,6.920392419,225278,18.7630257,708,6,8,South Africa,Africa,Southern Hemisphere,0
+88,Female,190,145/78,54,1,1,1,1,0,6.019232584,Unhealthy,1,0,5,0.396104523,51751,38.90030381,403,4,5,Australia,Australia,Southern Hemisphere,0
+57,Male,303,98/94,99,1,0,1,0,0,18.8071695,Average,0,0,2,3.291064858,40359,24.33008135,400,2,4,Germany,Europe,Northern Hemisphere,1
+67,Male,226,175/73,64,1,1,1,0,1,2.710961156,Average,1,0,10,10.12906043,290579,35.80236865,583,3,6,Australia,Australia,Southern Hemisphere,1
+24,Female,206,121/104,45,1,1,0,0,1,9.1963559,Healthy,0,0,9,11.82426075,224434,26.87867129,579,6,5,Italy,Europe,Southern Hemisphere,0
+25,Male,336,170/95,46,0,0,1,0,0,11.01525363,Healthy,0,1,8,11.8548329,108492,33.92798389,143,5,10,Italy,Europe,Southern Hemisphere,1
+41,Male,149,96/80,70,0,0,1,1,1,19.12508061,Unhealthy,0,0,2,8.257525744,151383,29.95586243,40,3,10,Australia,Australia,Southern Hemisphere,0
+52,Male,362,180/101,100,0,0,1,0,0,1.412142787,Average,1,1,8,11.09011465,158503,35.0185439,338,0,9,South Africa,Africa,Southern Hemisphere,1
+36,Female,167,166/91,42,0,1,0,0,1,1.604500898,Unhealthy,1,0,3,0.82394592,94984,26.04535539,350,4,9,Spain,Europe,Southern Hemisphere,1
+54,Male,212,170/79,102,1,0,1,0,0,9.748726711,Unhealthy,1,0,10,1.073536857,156267,27.00719064,661,2,5,Nigeria,Africa,Northern Hemisphere,0
+32,Female,144,100/78,71,1,0,0,1,0,7.09649406,Healthy,0,1,4,7.672822395,203868,32.07096163,305,1,10,Germany,Europe,Northern Hemisphere,0
+67,Male,292,96/90,65,1,1,1,0,1,12.01716103,Average,1,0,7,10.70781032,140704,24.37847644,572,0,6,Germany,Europe,Northern Hemisphere,0
+22,Female,278,162/82,45,1,0,0,0,1,8.219312923,Healthy,0,1,1,11.98548408,26154,19.60025575,641,3,9,Italy,Europe,Southern Hemisphere,1
+46,Male,264,163/106,65,0,0,1,1,1,1.581086058,Average,1,1,1,10.75424932,253142,36.29365907,617,0,4,Brazil,South America,Southern Hemisphere,0
+54,Male,253,114/91,109,1,0,1,1,0,7.714450237,Average,0,1,7,6.734760265,115429,18.60329411,562,6,6,United Kingdom,Europe,Northern Hemisphere,0
+29,Female,162,165/88,74,1,1,0,0,1,13.48042543,Average,0,1,3,6.491170642,163258,24.12478494,408,5,8,Vietnam,Asia,Northern Hemisphere,1
+75,Male,135,153/88,54,0,0,1,0,0,15.43233146,Healthy,0,0,8,4.340246238,261312,35.16799123,433,6,5,China,Asia,Northern Hemisphere,0
+80,Male,235,102/102,50,0,0,1,0,1,0.818228487,Unhealthy,1,0,6,3.226822267,98978,32.86126289,241,6,10,United Kingdom,Europe,Northern Hemisphere,1
+61,Female,228,102/94,96,1,1,1,0,1,3.347094363,Average,1,1,1,7.954456339,103984,23.15874177,497,2,9,Germany,Europe,Northern Hemisphere,0
+77,Male,254,179/100,60,1,1,1,0,1,11.13395741,Healthy,1,0,10,2.586706202,299416,32.87986375,280,1,6,Japan,Asia,Northern Hemisphere,0
+41,Female,254,180/87,92,1,1,1,1,1,0.833281071,Average,0,1,3,10.35216723,174233,33.28432074,221,1,8,Vietnam,Asia,Northern Hemisphere,0
+63,Male,352,93/85,80,1,1,1,0,1,7.631841631,Unhealthy,0,0,2,3.685243566,100533,26.14782024,171,4,10,Canada,North America,Northern Hemisphere,0
+51,Male,134,178/60,90,1,0,1,1,1,16.90424979,Healthy,0,0,10,7.128959915,137851,23.07699101,663,4,10,China,Asia,Northern Hemisphere,0
+89,Female,205,159/107,90,1,1,1,1,1,10.42187036,Unhealthy,0,1,2,8.129989011,160573,21.30707912,208,0,7,Canada,North America,Northern Hemisphere,0
+49,Male,377,98/91,82,1,1,1,0,1,18.4333825,Healthy,0,0,4,6.453934423,289248,29.58673877,632,5,4,Argentina,South America,Southern Hemisphere,0
+85,Male,239,126/93,51,1,1,1,0,1,6.197247791,Healthy,0,1,7,9.175674352,36250,20.92486288,110,7,6,Italy,Europe,Southern Hemisphere,1
+49,Female,273,162/70,75,0,1,1,0,0,17.09350215,Healthy,1,1,5,5.083031175,238467,18.3265497,718,0,7,Australia,Australia,Southern Hemisphere,0
+29,Male,340,165/78,56,0,0,1,0,1,9.378648594,Average,0,0,3,6.086167249,168296,35.59207584,67,6,7,France,Europe,Northern Hemisphere,0
+33,Female,317,109/104,50,1,1,0,1,1,2.985776094,Average,1,0,6,10.30650912,190690,22.82916829,191,5,8,India,Asia,Northern Hemisphere,0
+85,Male,326,149/66,54,0,1,1,1,1,17.47661296,Unhealthy,0,1,8,7.144778013,36515,39.38669955,411,4,4,Spain,Europe,Southern Hemisphere,0
+39,Male,273,141/87,54,1,0,1,0,1,18.02982378,Unhealthy,0,1,1,6.200903845,67446,33.7016875,370,6,6,Spain,Europe,Southern Hemisphere,1
+22,Male,399,113/100,81,0,0,1,1,1,15.36289076,Average,1,1,10,4.61190925,32181,39.16628098,488,1,8,United States,North America,Northern Hemisphere,0
+27,Male,249,148/68,77,1,1,1,0,1,15.18154044,Unhealthy,1,1,9,2.349378877,283342,24.07391627,44,0,6,United States,North America,Northern Hemisphere,1
+31,Male,385,158/76,67,1,1,1,0,1,3.152288112,Average,0,0,4,4.862496339,189853,32.47405672,272,0,5,India,Asia,Northern Hemisphere,1
+61,Female,277,130/65,78,1,1,1,1,1,0.036148383,Average,1,0,2,7.617049477,265235,39.64728683,391,7,4,South Africa,Africa,Southern Hemisphere,0
+18,Male,333,117/77,67,0,1,1,0,1,7.630358038,Unhealthy,0,0,4,2.896172226,197053,28.29052351,754,7,5,United States,North America,Northern Hemisphere,1
+89,Male,166,109/106,48,0,0,1,0,1,7.770853127,Unhealthy,0,1,6,9.376387777,218192,18.60448984,345,7,8,Argentina,South America,Southern Hemisphere,0
+59,Male,293,155/96,42,0,1,1,0,1,15.41062089,Unhealthy,1,1,7,2.313257843,50287,24.56425511,177,5,8,Brazil,South America,Southern Hemisphere,1
+25,Female,264,175/85,70,1,0,0,0,1,4.632410291,Healthy,1,0,10,0.207580729,68203,38.85204831,123,2,4,Argentina,South America,Southern Hemisphere,0
+67,Female,171,122/89,50,1,1,1,0,0,16.14883291,Healthy,0,0,6,3.731658609,177559,32.06505598,516,3,6,Thailand,Asia,Northern Hemisphere,0
+48,Male,230,126/107,61,1,1,1,1,0,16.04613969,Healthy,1,1,3,6.699660602,73935,19.73234385,381,1,7,France,Europe,Northern Hemisphere,0
+72,Female,178,173/94,46,1,1,1,0,0,8.977910216,Unhealthy,0,1,4,1.269959137,293617,36.09859015,609,6,6,Brazil,South America,Southern Hemisphere,1
+25,Female,275,126/62,66,0,0,0,0,1,4.067126045,Healthy,1,0,5,9.55824222,66586,35.88351619,466,6,8,Argentina,South America,Southern Hemisphere,0
+24,Male,228,179/89,80,1,1,1,0,1,11.61201066,Healthy,0,0,8,10.93564343,294976,22.60610812,532,1,8,Japan,Asia,Northern Hemisphere,1
+46,Male,133,116/77,44,0,1,1,1,0,1.88518526,Unhealthy,1,1,1,3.787271602,239301,28.99938768,166,6,6,United Kingdom,Europe,Northern Hemisphere,1
+89,Male,247,98/103,48,1,1,1,1,0,17.5511205,Unhealthy,0,0,6,6.555354341,192776,33.8143423,423,4,8,Brazil,South America,Southern Hemisphere,0
+53,Male,253,167/88,58,1,1,1,0,1,12.93117258,Unhealthy,0,1,9,5.158758588,268558,36.48436166,601,2,10,United Kingdom,Europe,Northern Hemisphere,0
+49,Female,367,125/74,67,0,0,1,0,1,5.897324257,Healthy,0,1,5,1.840376644,169103,22.99954401,132,6,5,Italy,Europe,Southern Hemisphere,0
+83,Female,258,106/82,64,1,1,1,1,1,16.00292966,Average,1,0,7,2.462923985,267910,20.93486472,380,4,6,Brazil,South America,Southern Hemisphere,0
+68,Female,380,178/96,48,0,0,1,0,1,9.696812752,Unhealthy,1,1,1,7.129540462,179567,22.60042202,82,6,9,United Kingdom,Europe,Northern Hemisphere,1
+83,Male,395,162/103,75,1,0,1,1,0,0.014237061,Average,1,1,7,3.237572172,67257,23.54352685,211,4,9,Colombia,South America,Northern Hemisphere,1
+51,Male,255,111/81,80,0,0,1,1,1,19.76701949,Average,1,1,2,8.481173323,38631,21.65585972,651,5,6,South Africa,Africa,Southern Hemisphere,1
+58,Male,194,109/74,88,0,1,1,1,1,7.233451272,Unhealthy,0,0,8,2.333325814,184571,24.23767357,266,1,6,China,Asia,Northern Hemisphere,0
+64,Male,205,130/83,84,1,0,1,1,0,19.00849647,Average,0,1,8,8.996042795,90499,30.01827091,305,3,9,United States,North America,Northern Hemisphere,0
+78,Male,386,129/103,45,1,1,1,0,0,1.599299498,Unhealthy,0,0,1,6.856548848,285332,21.89089054,533,3,5,China,Asia,Northern Hemisphere,0
+63,Male,282,142/72,57,1,0,1,1,0,13.3470976,Average,0,1,3,10.94451889,48885,29.78756089,742,0,9,South Africa,Africa,Southern Hemisphere,1
+85,Male,294,175/83,84,1,0,1,0,0,11.59845809,Healthy,0,0,8,11.10916065,32220,28.52646928,797,3,6,India,Asia,Northern Hemisphere,0
+71,Male,145,151/91,100,1,1,1,1,0,4.947157715,Healthy,1,0,5,1.452838861,108861,27.28481641,754,0,9,United States,North America,Northern Hemisphere,0
+72,Male,393,165/88,52,0,1,1,0,1,1.761324427,Unhealthy,1,1,7,5.52165035,44819,36.91654424,389,7,8,Brazil,South America,Southern Hemisphere,0
+46,Female,395,98/84,104,1,1,1,1,0,11.07394469,Average,0,0,4,9.808350293,148844,18.12057168,742,6,7,France,Europe,Northern Hemisphere,0
+88,Male,222,157/81,78,1,1,1,0,0,17.16774693,Unhealthy,0,0,8,4.686134201,236198,25.03813963,430,2,10,Australia,Australia,Southern Hemisphere,1
+44,Male,376,154/99,59,1,0,1,1,0,11.72445658,Healthy,1,0,6,1.38056881,287568,25.83086049,219,6,5,Australia,Australia,Southern Hemisphere,1
+58,Female,241,158/110,56,0,0,1,0,1,6.903528625,Average,0,0,6,9.284606371,21365,25.76613961,244,2,5,South Africa,Africa,Southern Hemisphere,0
+28,Male,316,100/85,85,0,1,1,0,0,12.65818405,Average,0,1,7,1.000769344,87947,36.27972561,511,2,6,South Africa,Africa,Southern Hemisphere,0
+26,Male,125,96/97,43,0,1,1,0,0,11.22421622,Average,1,0,1,4.830385563,228791,26.57229963,361,2,8,France,Europe,Northern Hemisphere,0
+72,Male,302,155/97,72,0,1,1,0,0,2.544075449,Healthy,0,0,10,3.577517332,81763,27.56046427,163,7,9,Nigeria,Africa,Northern Hemisphere,0
+67,Female,205,174/104,78,1,0,1,1,1,1.23850922,Healthy,0,0,7,6.73861845,227000,31.26756731,277,0,5,Canada,North America,Northern Hemisphere,0
+82,Male,125,150/75,77,1,1,1,1,1,10.51510946,Healthy,0,0,10,4.278678816,226445,25.70883417,270,1,7,Brazil,South America,Southern Hemisphere,0
+28,Male,306,151/75,56,1,0,1,1,0,17.68098584,Healthy,1,1,5,2.148213991,224180,24.55896889,729,2,5,Argentina,South America,Southern Hemisphere,0
+37,Male,371,173/77,99,0,0,1,1,1,9.886713422,Unhealthy,0,0,3,9.373687232,292731,33.39477943,157,1,8,Italy,Europe,Southern Hemisphere,0
+68,Male,326,95/79,67,1,1,1,1,1,13.93403808,Healthy,0,1,9,7.014630699,69651,31.82338942,246,6,10,Canada,North America,Northern Hemisphere,1
+87,Male,248,124/69,92,0,0,1,1,1,18.83041124,Average,0,1,8,9.382206226,206231,18.36592983,252,0,7,Vietnam,Asia,Northern Hemisphere,0
+78,Male,249,146/105,61,1,0,1,0,1,4.931317834,Unhealthy,1,1,4,4.933925662,291221,34.70838998,121,5,6,France,Europe,Northern Hemisphere,0
+48,Male,121,104/60,41,1,0,1,1,0,1.287407969,Average,0,0,6,5.197711888,135329,20.93702091,139,5,5,France,Europe,Northern Hemisphere,0
+63,Male,314,93/71,86,1,0,1,1,1,11.00661929,Unhealthy,1,0,2,9.363591596,52725,23.16419007,521,7,8,Italy,Europe,Southern Hemisphere,0
+46,Male,181,147/99,57,1,1,1,0,0,19.99701207,Average,0,0,1,2.142237809,250643,22.71212592,687,1,8,Japan,Asia,Northern Hemisphere,1
+20,Male,237,157/109,99,1,1,1,1,1,1.829873548,Healthy,0,0,4,6.078793427,100628,18.83141463,144,2,7,Australia,Australia,Southern Hemisphere,0
+27,Male,145,133/76,105,0,0,1,1,0,8.91420934,Healthy,0,1,10,7.317106672,276681,21.58270474,256,2,8,Nigeria,Africa,Northern Hemisphere,1
+90,Male,377,151/60,94,1,1,1,0,1,6.872926437,Healthy,1,0,9,9.866244373,179873,38.47885788,309,1,7,China,Asia,Northern Hemisphere,0
+19,Male,356,139/72,94,1,0,1,1,0,14.12551216,Healthy,0,1,6,7.447565258,25936,36.31395306,143,0,7,Italy,Europe,Southern Hemisphere,0
+89,Male,250,95/108,95,1,1,1,1,0,16.60723807,Average,1,1,1,10.02493665,145096,29.7109722,753,7,10,United Kingdom,Europe,Northern Hemisphere,0
+73,Female,216,156/82,47,1,0,1,1,1,4.071922456,Healthy,0,1,1,2.528101245,82198,27.71695706,383,7,5,France,Europe,Northern Hemisphere,1
+25,Female,295,175/90,83,0,1,0,0,1,11.21601786,Average,1,0,4,5.43785423,67731,31.63635122,776,0,10,China,Asia,Northern Hemisphere,0
+35,Female,122,130/84,79,0,0,0,1,0,6.561349392,Unhealthy,0,1,6,7.150990083,131847,33.37775035,609,5,9,Spain,Europe,Southern Hemisphere,0
+37,Female,279,165/95,81,1,1,0,1,0,13.23727302,Unhealthy,1,1,9,5.270894913,95591,28.79889966,583,6,7,France,Europe,Northern Hemisphere,0
+27,Male,162,119/80,108,1,1,1,1,1,6.418133197,Healthy,1,0,2,11.35391893,39754,23.89703425,494,4,7,Argentina,South America,Southern Hemisphere,0
+40,Male,169,134/76,89,1,1,1,0,1,12.7654635,Average,0,1,7,3.100409617,286927,29.34457463,424,3,6,India,Asia,Northern Hemisphere,0
+24,Male,287,179/67,58,0,0,1,0,1,8.560733183,Healthy,1,0,5,2.670121429,114938,19.90609202,671,6,5,Spain,Europe,Southern Hemisphere,0
+48,Male,355,122/65,96,0,0,1,1,1,14.86574621,Average,1,0,8,1.572788464,38452,18.68147926,794,4,5,South Africa,Africa,Southern Hemisphere,1
+69,Male,314,109/69,61,1,1,1,1,0,15.62816654,Healthy,1,0,3,0.375415043,55581,22.16215912,220,5,6,South Africa,Africa,Southern Hemisphere,0
+38,Male,251,111/64,108,1,1,1,0,0,3.578066959,Unhealthy,0,1,6,7.31654302,133018,19.66716282,314,7,10,Spain,Europe,Southern Hemisphere,1
+81,Female,128,132/98,106,0,0,1,1,1,3.862442726,Average,1,0,10,3.717220023,73883,29.50926058,319,5,9,China,Asia,Northern Hemisphere,1
+75,Male,383,172/72,92,1,0,1,0,0,14.8166071,Average,0,0,6,0.652411653,277432,37.58466695,726,0,9,South Korea,Asia,Northern Hemisphere,1
+67,Male,176,106/75,80,1,0,1,1,1,11.27031986,Average,1,0,4,0.48801484,270730,37.83022554,484,2,4,South Africa,Africa,Southern Hemisphere,0
+20,Male,228,140/82,44,0,1,1,0,1,1.946176073,Healthy,1,0,6,2.282060503,229988,34.57070088,183,6,6,Brazil,South America,Southern Hemisphere,0
+86,Male,350,151/90,71,0,0,1,0,0,14.11621473,Healthy,0,1,10,9.844306717,173603,32.97546354,367,0,5,France,Europe,Northern Hemisphere,0
+69,Male,254,171/78,83,0,0,1,0,1,16.12233932,Average,1,1,7,3.285105505,268430,29.4593206,276,5,8,South Africa,Africa,Southern Hemisphere,1
+32,Male,129,163/76,87,1,1,1,0,0,10.37992298,Healthy,1,0,10,7.586227993,293127,20.6160849,731,4,9,Argentina,South America,Southern Hemisphere,1
+47,Male,158,110/96,45,0,0,1,0,1,1.243453202,Healthy,0,0,2,1.464916867,242601,28.54966203,700,7,4,Vietnam,Asia,Northern Hemisphere,1
+51,Male,127,112/79,91,1,0,1,0,0,3.310610817,Average,0,0,7,3.864077107,259602,36.8879482,641,0,6,Nigeria,Africa,Northern Hemisphere,0
+26,Male,353,143/62,103,0,1,1,1,1,18.10861685,Unhealthy,0,1,3,11.06719291,292668,36.39064706,680,6,5,France,Europe,Northern Hemisphere,0
+68,Male,372,155/77,93,0,0,1,1,0,19.90123555,Unhealthy,0,1,5,2.523067981,259344,22.21699992,60,1,7,Colombia,South America,Northern Hemisphere,0
+41,Female,379,139/106,104,1,0,1,1,1,2.78503044,Average,1,1,8,8.275866447,112899,22.88500719,674,1,6,South Korea,Asia,Northern Hemisphere,0
+81,Female,242,101/72,84,1,1,1,0,0,7.649690284,Healthy,1,0,10,2.769696184,132378,24.78028565,675,4,5,France,Europe,Northern Hemisphere,0
+25,Male,364,152/70,86,1,0,1,1,0,10.11296642,Healthy,1,0,6,6.073712448,21002,28.60698807,672,2,9,Italy,Europe,Southern Hemisphere,1
+70,Female,150,132/72,101,1,1,1,0,1,7.530437914,Average,0,1,6,6.058718656,100838,32.42978329,83,3,6,Canada,North America,Northern Hemisphere,0
+26,Male,129,129/107,82,0,0,1,1,1,12.4387033,Healthy,1,1,4,3.822888078,93881,19.20729949,591,4,6,Colombia,South America,Northern Hemisphere,1
+48,Female,168,117/64,91,1,0,1,0,0,0.394104116,Average,0,1,3,0.443446939,181631,30.966986,138,3,4,Thailand,Asia,Northern Hemisphere,0
+47,Male,358,136/88,88,0,0,1,0,1,13.29081048,Unhealthy,1,1,8,4.91420435,233416,20.83795414,750,7,7,China,Asia,Northern Hemisphere,0
+70,Male,152,96/94,52,1,1,1,0,1,11.66764894,Average,0,0,3,11.38973434,66793,30.5590401,51,3,6,United States,North America,Northern Hemisphere,0
+71,Female,315,154/109,85,1,1,1,1,1,12.03055191,Healthy,1,1,8,11.29860854,118115,19.42958889,330,4,10,France,Europe,Northern Hemisphere,0
+55,Male,349,119/70,91,1,1,1,1,1,8.965123946,Average,0,1,5,7.884360141,144632,18.23099157,679,1,5,France,Europe,Northern Hemisphere,1
+50,Female,315,161/71,46,0,1,1,0,0,13.67639749,Average,1,0,4,0.939243063,228889,20.21041363,439,1,8,South Africa,Africa,Southern Hemisphere,0
+20,Male,301,125/61,85,0,0,1,1,1,12.7366749,Healthy,1,1,10,3.993316226,97483,35.38726663,370,0,10,South Korea,Asia,Northern Hemisphere,0
+20,Male,380,97/83,82,1,0,1,1,1,18.78414474,Average,0,0,1,8.294819391,288833,32.38362868,647,6,6,Argentina,South America,Southern Hemisphere,1
+40,Male,358,100/65,70,0,1,1,1,1,5.262561477,Average,0,1,6,1.102775614,174553,39.55179207,710,1,10,South Africa,Africa,Southern Hemisphere,1
+26,Female,174,110/76,106,0,0,0,1,1,7.229998595,Unhealthy,1,1,7,7.932246527,112800,37.33026831,198,0,10,New Zealand,Australia,Southern Hemisphere,0
+49,Male,399,157/109,98,0,0,1,0,0,0.98098956,Average,0,1,7,10.58329975,26431,38.08691199,661,6,10,United States,North America,Northern Hemisphere,0
+59,Male,278,167/103,60,0,1,1,1,1,7.20893403,Average,0,1,6,8.627399583,24594,23.62521652,611,0,10,Australia,Australia,Southern Hemisphere,0
+28,Male,339,114/110,65,1,0,1,1,1,5.122342244,Healthy,0,1,5,5.715127712,58327,22.93439756,205,7,4,Nigeria,Africa,Northern Hemisphere,0
+57,Male,264,132/76,83,1,1,1,1,1,14.37935442,Unhealthy,0,0,3,5.716499153,112985,37.40537567,371,1,8,Germany,Europe,Northern Hemisphere,0
+77,Female,244,117/102,104,1,0,1,1,1,10.6864785,Unhealthy,0,0,3,5.307469416,82415,29.41495494,762,6,7,South Africa,Africa,Southern Hemisphere,0
+35,Male,290,126/86,84,1,0,1,1,0,9.071085334,Unhealthy,0,1,1,0.641170922,242273,23.21240145,536,3,7,South Korea,Asia,Northern Hemisphere,0
+55,Male,391,126/74,52,1,0,1,0,0,4.741942125,Average,0,1,3,10.29652969,40355,39.22399227,321,6,8,South Korea,Asia,Northern Hemisphere,0
+44,Female,139,92/90,97,1,1,1,0,1,1.831047058,Unhealthy,0,0,7,2.457533577,195282,22.90873872,542,5,6,China,Asia,Northern Hemisphere,0
+69,Male,276,169/75,80,0,0,1,1,0,15.75813926,Healthy,1,1,8,4.065511662,151137,39.234616,371,4,4,Germany,Europe,Northern Hemisphere,0
+90,Female,354,119/79,58,1,0,1,0,1,18.94833262,Healthy,1,1,9,9.503486815,27063,28.13376032,767,5,5,Spain,Europe,Southern Hemisphere,0
+30,Male,205,149/83,87,1,0,1,1,0,5.717217186,Average,0,1,1,1.298302767,32474,18.18534503,70,2,5,China,Asia,Northern Hemisphere,0
+50,Female,392,140/71,93,1,0,1,1,0,1.417031996,Healthy,0,1,2,0.928181726,178833,18.10665245,75,6,7,Spain,Europe,Southern Hemisphere,0
+52,Male,267,165/103,54,1,0,1,0,1,16.01902378,Unhealthy,1,0,1,2.427877367,233846,28.29021473,336,2,7,Thailand,Asia,Northern Hemisphere,0
+78,Female,364,148/63,83,1,1,1,0,0,17.59013237,Healthy,0,1,9,9.554301568,171968,33.6613425,532,1,7,Argentina,South America,Southern Hemisphere,0
+58,Female,171,160/103,51,1,1,1,1,0,5.988856307,Unhealthy,1,0,3,7.645537242,273865,31.0235135,581,7,9,China,Asia,Northern Hemisphere,1
+45,Female,254,121/94,70,1,0,1,1,1,10.58211571,Healthy,1,1,8,2.517693656,62113,27.60622875,77,4,7,Australia,Australia,Southern Hemisphere,0
+49,Male,193,171/96,77,1,0,1,1,0,18.62202732,Healthy,1,1,10,9.745693038,269163,39.43204373,571,3,6,Spain,Europe,Southern Hemisphere,0
+90,Female,256,154/88,100,1,1,1,0,1,12.24290373,Healthy,0,0,5,8.371863079,172559,31.44639777,711,4,9,Vietnam,Asia,Northern Hemisphere,0
+27,Male,122,114/65,96,0,0,1,1,1,10.12595861,Healthy,1,1,6,7.61399017,243092,32.54122246,53,5,8,New Zealand,Australia,Southern Hemisphere,0
+38,Male,296,159/72,41,0,0,1,1,1,5.325094228,Unhealthy,1,1,6,11.28281246,49433,27.67867645,591,5,6,United Kingdom,Europe,Northern Hemisphere,0
+52,Male,368,125/110,84,1,0,1,1,1,6.624173019,Unhealthy,0,0,2,7.518974477,191065,24.1927416,94,0,10,Germany,Europe,Northern Hemisphere,1
+78,Female,336,136/103,91,1,0,1,0,0,13.12212898,Average,0,0,8,4.196708492,172989,35.41414032,385,0,7,France,Europe,Northern Hemisphere,0
+49,Male,151,131/96,57,1,1,1,0,1,14.87241492,Unhealthy,0,1,8,10.90201375,172460,27.95522351,99,7,6,China,Asia,Northern Hemisphere,1
+59,Male,385,165/101,41,0,0,1,0,1,14.49357119,Average,1,1,10,2.798903854,143427,20.2804709,468,3,9,South Africa,Africa,Southern Hemisphere,0
+59,Male,288,160/91,93,0,1,1,0,1,12.00423349,Average,0,1,7,5.067218517,53694,32.11228834,513,3,7,Thailand,Asia,Northern Hemisphere,1
+82,Male,338,179/104,42,1,0,1,0,1,3.751545788,Average,0,0,2,4.70716551,74918,20.89733865,384,0,8,South Korea,Asia,Northern Hemisphere,0
+66,Female,250,163/109,42,1,0,1,0,0,19.55041046,Average,0,1,2,5.771521318,260963,31.8569636,202,6,4,France,Europe,Northern Hemisphere,0
+45,Male,177,122/99,41,1,0,1,1,0,6.921568006,Unhealthy,0,0,7,6.899351238,134990,25.05704948,563,5,9,Australia,Australia,Southern Hemisphere,0
+42,Female,276,92/87,83,1,1,1,1,1,16.72291021,Healthy,0,0,2,4.606836761,275470,39.26791995,301,0,4,Colombia,South America,Northern Hemisphere,1
+78,Male,144,116/78,95,1,1,1,0,1,3.179578611,Healthy,1,0,9,8.338027853,155145,38.30093857,135,0,6,India,Asia,Northern Hemisphere,0
+83,Male,122,119/95,109,1,1,1,1,1,10.94032233,Unhealthy,0,0,3,0.741815848,156108,28.77838038,523,3,5,United Kingdom,Europe,Northern Hemisphere,0
+28,Female,167,112/65,110,0,1,0,1,1,14.12209742,Healthy,0,1,3,7.555752656,286213,37.87140294,449,6,10,Germany,Europe,Northern Hemisphere,0
+20,Male,190,173/78,92,1,0,1,1,0,19.32609985,Healthy,1,1,8,4.847726129,295837,33.46532594,102,2,10,South Africa,Africa,Southern Hemisphere,0
+37,Female,276,129/86,44,0,0,0,1,0,13.85016092,Healthy,0,0,10,9.196161359,255894,35.67415463,692,7,8,Nigeria,Africa,Northern Hemisphere,0
+76,Female,384,101/93,63,1,0,1,0,0,6.455343032,Average,0,1,10,11.69965359,235097,25.18644788,694,3,4,United States,North America,Northern Hemisphere,1
+59,Male,252,179/101,69,0,1,1,0,1,16.1622628,Healthy,0,0,2,0.431444776,210349,33.19934434,180,4,5,Spain,Europe,Southern Hemisphere,0
+21,Male,376,101/71,92,0,0,1,1,1,15.38324468,Average,0,0,6,7.663009788,37953,27.90456656,202,2,10,India,Asia,Northern Hemisphere,1
+42,Female,354,121/101,90,1,1,1,0,0,3.29260597,Healthy,1,0,2,0.71017266,287567,31.74085272,542,2,10,France,Europe,Northern Hemisphere,1
+29,Female,159,149/83,55,0,0,0,0,1,16.73720113,Unhealthy,1,0,4,0.424217025,30987,19.51851197,272,1,9,United Kingdom,Europe,Northern Hemisphere,0
+43,Male,284,93/90,77,1,1,1,0,1,2.995176128,Average,0,1,10,6.421101775,293932,18.3930094,735,3,10,Brazil,South America,Southern Hemisphere,0
+38,Male,354,128/68,62,1,1,1,0,1,12.06055828,Healthy,0,0,2,5.947226031,277488,33.18051766,616,3,7,United States,North America,Northern Hemisphere,0
+21,Female,390,130/101,78,0,0,0,1,1,4.080344275,Unhealthy,0,1,7,10.55197226,233265,24.76013147,94,1,9,Brazil,South America,Southern Hemisphere,0
+59,Male,290,160/108,41,0,1,1,1,0,8.634800522,Average,0,0,6,11.98771638,236702,19.06273929,429,0,7,Argentina,South America,Southern Hemisphere,0
+46,Male,252,130/84,51,1,0,1,1,1,0.941647389,Healthy,1,1,6,9.429402992,205251,22.38672554,694,5,7,Argentina,South America,Southern Hemisphere,0
+87,Female,344,176/70,68,1,0,1,0,1,14.83178714,Unhealthy,0,1,1,6.700335415,145833,32.83266573,78,2,9,Spain,Europe,Southern Hemisphere,1
+64,Male,382,158/98,90,1,1,1,1,0,9.582975358,Healthy,0,1,5,3.831530664,230344,24.20939781,654,2,6,Spain,Europe,Southern Hemisphere,1
+35,Male,338,119/104,46,0,0,1,1,0,13.56625234,Healthy,1,0,2,1.202896958,72541,26.10966506,82,5,8,Nigeria,Africa,Northern Hemisphere,1
+31,Male,275,94/109,42,0,1,1,0,1,5.455272145,Unhealthy,1,0,3,3.379045561,190344,33.73526102,154,2,10,South Africa,Africa,Southern Hemisphere,0
+74,Male,153,171/89,109,0,1,1,0,0,16.10669171,Average,1,0,4,0.431150793,199590,34.20566712,669,6,10,New Zealand,Australia,Southern Hemisphere,1
+22,Male,171,141/98,77,1,1,1,0,0,0.379244217,Healthy,0,1,1,3.341969928,83941,20.83136187,459,1,4,Colombia,South America,Northern Hemisphere,0
+29,Male,272,151/88,47,1,1,1,1,1,4.579041621,Unhealthy,0,0,6,9.684307652,252497,27.23747662,532,6,4,India,Asia,Northern Hemisphere,1
+88,Male,224,163/89,101,1,1,1,0,1,10.35983202,Unhealthy,1,0,7,6.013898141,229498,29.43596636,757,0,9,Australia,Australia,Southern Hemisphere,1
+37,Female,287,136/67,54,1,1,0,1,1,15.61994361,Healthy,0,0,3,2.555707878,83397,24.73649204,429,6,7,United States,North America,Northern Hemisphere,0
+89,Male,311,93/109,71,0,1,1,1,0,16.14175984,Average,1,0,3,1.266643432,267709,30.90841471,750,7,8,Italy,Europe,Southern Hemisphere,0
+53,Male,374,121/103,87,1,0,1,1,1,15.66953781,Healthy,1,1,5,11.28794185,234283,29.18574523,397,2,6,Vietnam,Asia,Northern Hemisphere,1
+31,Female,331,91/83,68,1,1,0,0,0,14.27300203,Average,1,1,5,9.725134996,87338,28.43733054,266,0,8,France,Europe,Northern Hemisphere,0
+34,Female,323,117/79,99,1,1,0,0,1,16.80466683,Unhealthy,1,0,2,2.627466109,178556,37.94300717,366,3,7,Thailand,Asia,Northern Hemisphere,0
+66,Male,218,136/63,86,1,1,1,0,1,19.6898932,Unhealthy,0,0,10,11.97236877,173614,33.39735817,607,5,10,South Africa,Africa,Southern Hemisphere,0
+56,Male,284,135/81,74,1,0,1,0,1,4.708785785,Healthy,1,0,4,0.648348004,83711,28.85253925,797,0,6,United States,North America,Northern Hemisphere,0
+51,Male,381,134/105,79,1,1,1,1,1,6.382504011,Healthy,0,1,5,5.869418216,145823,37.5810106,713,0,7,China,Asia,Northern Hemisphere,0
+24,Male,270,177/90,93,0,1,1,1,1,11.58844792,Unhealthy,1,0,4,5.569206754,78074,28.04862589,428,3,5,Thailand,Asia,Northern Hemisphere,0
+71,Female,348,144/93,88,0,0,1,0,1,14.83404761,Healthy,0,0,1,4.045729729,195105,39.21440763,745,2,4,United Kingdom,Europe,Northern Hemisphere,1
+66,Male,360,103/99,74,0,0,1,1,1,4.504725656,Unhealthy,1,1,8,9.040881658,103642,28.91481594,87,5,5,Australia,Australia,Southern Hemisphere,0
+72,Male,209,95/103,41,1,0,1,0,1,12.33932044,Average,1,0,1,8.062767089,26809,38.391899,568,0,10,Thailand,Asia,Northern Hemisphere,1
+25,Male,177,146/77,90,1,1,1,0,0,4.297222662,Unhealthy,0,1,6,5.792386412,296623,37.86454799,367,7,9,South Korea,Asia,Northern Hemisphere,0
+25,Male,134,176/83,64,1,1,1,0,0,10.07342815,Healthy,0,0,9,4.337561608,212228,31.56726915,123,3,4,New Zealand,Australia,Southern Hemisphere,0
+63,Male,299,155/88,77,1,1,1,1,1,7.643414882,Unhealthy,1,0,8,1.834887464,133592,23.55955424,765,6,9,Thailand,Asia,Northern Hemisphere,0
+37,Male,293,163/103,84,0,0,1,0,1,0.438691361,Healthy,0,0,8,9.379810123,96566,22.64852345,781,4,7,Argentina,South America,Southern Hemisphere,1
+34,Male,140,100/84,75,1,1,1,0,0,1.423350868,Healthy,0,0,9,1.762833445,151729,28.73345934,696,0,9,Argentina,South America,Southern Hemisphere,0
+23,Female,287,166/101,57,0,1,0,0,0,3.021782915,Unhealthy,0,0,7,0.855674178,211745,31.09622461,769,1,5,France,Europe,Northern Hemisphere,1
+89,Male,292,178/107,100,1,0,1,1,0,9.35668401,Unhealthy,0,1,5,6.518057421,278101,23.3630435,378,0,6,New Zealand,Australia,Southern Hemisphere,0
+22,Male,261,148/91,54,1,1,1,0,0,1.970059019,Unhealthy,0,1,2,9.026953979,33770,21.18590297,510,7,6,Thailand,Asia,Northern Hemisphere,0
+63,Male,358,102/79,90,1,0,1,1,1,9.320198581,Average,0,0,6,10.124852,164318,24.44345967,733,1,5,United Kingdom,Europe,Northern Hemisphere,0
+73,Female,384,142/66,46,0,0,1,1,0,0.429594413,Unhealthy,0,1,2,3.622699527,240827,27.79048232,102,1,8,Brazil,South America,Southern Hemisphere,1
+68,Male,236,147/90,108,1,1,1,1,1,2.567267571,Average,1,1,7,4.698528007,285399,28.87365982,570,7,5,Japan,Asia,Northern Hemisphere,0
+70,Male,265,105/86,60,1,0,1,0,1,11.70306626,Healthy,0,1,9,11.94420777,25423,27.25990989,533,5,7,United States,North America,Northern Hemisphere,0
+34,Female,367,178/69,95,1,0,0,1,1,1.562129247,Unhealthy,0,1,10,1.789834742,93006,25.93934963,228,7,5,India,Asia,Northern Hemisphere,0
+61,Male,166,122/92,86,1,1,1,0,1,1.323959015,Average,0,1,4,6.730005424,198830,25.75705519,700,4,5,Spain,Europe,Southern Hemisphere,0
+57,Male,325,160/87,77,0,0,1,1,0,11.55927292,Unhealthy,0,0,1,11.79175325,79614,37.12176858,367,0,9,Italy,Europe,Southern Hemisphere,0
+24,Female,311,174/62,60,1,0,0,0,1,6.958930456,Average,1,1,9,2.090489473,98568,25.89530803,61,6,4,India,Asia,Northern Hemisphere,0
+34,Male,184,119/68,63,1,1,1,0,1,3.715121257,Unhealthy,1,0,7,4.11062298,82045,19.9159306,314,7,9,Italy,Europe,Southern Hemisphere,0
+53,Male,334,168/93,46,0,0,1,0,1,19.01583551,Average,0,0,3,7.130810228,242768,28.60283175,587,7,4,Canada,North America,Northern Hemisphere,0
+67,Female,335,103/98,82,0,0,1,0,1,17.51945149,Unhealthy,1,0,8,8.257778491,168422,27.04994888,434,2,7,China,Asia,Northern Hemisphere,1
+39,Male,276,91/75,67,1,1,1,1,0,15.6767264,Average,0,0,8,6.403580346,246218,24.94644417,547,5,5,Germany,Europe,Northern Hemisphere,0
+36,Male,319,116/86,83,1,1,1,0,1,12.55987473,Healthy,1,1,8,5.700250443,46340,28.61752488,234,4,7,Canada,North America,Northern Hemisphere,1
+74,Male,243,129/62,103,0,1,1,1,0,8.470291327,Healthy,0,1,9,4.668246958,40256,28.38238156,747,3,7,Japan,Asia,Northern Hemisphere,0
+29,Female,159,91/98,56,0,0,0,1,1,16.57962608,Healthy,0,1,1,0.89581126,169111,19.78539178,230,0,9,India,Asia,Northern Hemisphere,1
+26,Male,311,171/80,60,0,0,1,1,1,10.85202155,Healthy,0,0,2,0.882999221,42801,35.58546782,601,2,6,Spain,Europe,Southern Hemisphere,1
+40,Male,250,140/70,42,0,1,1,1,0,7.108774549,Healthy,0,1,4,6.03495514,296209,20.36112326,696,1,5,Colombia,South America,Northern Hemisphere,0
+90,Male,349,172/62,100,1,1,1,0,1,1.314890624,Unhealthy,0,0,10,8.764737235,152380,37.93049557,598,2,10,South Africa,Africa,Southern Hemisphere,0
+47,Male,244,135/98,100,0,0,1,1,1,16.2575526,Average,1,1,10,0.975939782,60079,39.92719466,188,3,7,Nigeria,Africa,Northern Hemisphere,0
+67,Female,390,120/98,62,1,0,1,0,0,18.98306354,Unhealthy,0,1,2,6.75839111,26591,31.69883314,633,4,9,Germany,Europe,Northern Hemisphere,0
+59,Male,300,168/62,76,1,0,1,0,0,5.897658148,Average,0,1,2,3.05726459,27369,22.44414372,73,1,10,South Korea,Asia,Northern Hemisphere,1
+43,Male,360,102/102,57,0,1,1,1,0,7.053531668,Unhealthy,1,0,10,4.389312228,81381,20.60257934,169,3,8,New Zealand,Australia,Southern Hemisphere,0
+69,Male,332,147/84,44,1,1,1,0,1,18.91701051,Healthy,0,0,7,6.668489267,52825,22.11532077,711,3,6,Argentina,South America,Southern Hemisphere,0
+48,Female,137,166/108,40,1,0,1,1,1,11.59812883,Unhealthy,1,1,2,5.185205798,150629,21.93376301,785,1,8,Italy,Europe,Southern Hemisphere,0
+33,Female,255,123/103,56,0,0,0,0,1,16.92903333,Healthy,1,1,3,1.494016474,170890,31.59172379,682,6,5,Thailand,Asia,Northern Hemisphere,1
+19,Male,152,144/71,59,0,1,1,0,1,0.24230877,Healthy,0,1,8,4.745628155,104734,31.37387781,219,0,4,Thailand,Asia,Northern Hemisphere,0
+72,Male,147,155/60,86,1,0,1,1,0,4.519587132,Healthy,0,0,3,6.288092199,245719,33.21241557,501,3,5,Nigeria,Africa,Northern Hemisphere,1
+86,Male,395,115/61,49,1,0,1,0,0,6.057728515,Unhealthy,1,1,7,6.10820239,180423,30.38423575,489,2,9,South Korea,Asia,Northern Hemisphere,1
+60,Male,293,98/80,60,1,0,1,1,0,15.70817783,Average,0,0,10,7.220867231,261146,35.64091404,227,1,7,United Kingdom,Europe,Northern Hemisphere,0
+49,Male,272,115/68,57,0,0,1,0,0,7.679834163,Average,0,0,8,6.771250817,47533,34.17633317,524,1,10,New Zealand,Australia,Southern Hemisphere,0
+84,Female,277,115/83,71,1,1,1,1,1,6.668382861,Healthy,1,0,3,6.518315649,239766,35.07961624,645,6,6,Brazil,South America,Southern Hemisphere,0
+62,Male,174,172/66,102,1,0,1,0,1,18.28913132,Unhealthy,1,1,9,1.367129277,115838,35.94363921,370,4,8,United Kingdom,Europe,Northern Hemisphere,0
+54,Female,369,142/64,55,1,0,1,1,0,18.9640982,Unhealthy,1,1,8,6.944367612,179581,39.30769758,754,1,9,Thailand,Asia,Northern Hemisphere,1
+75,Male,366,102/81,95,1,0,1,0,0,6.684031894,Healthy,0,1,4,11.71164588,144288,21.45176279,431,5,10,Japan,Asia,Northern Hemisphere,0
+28,Female,175,149/107,73,1,1,0,0,0,14.19116261,Unhealthy,1,0,9,6.107431098,229718,29.03106007,541,2,8,South Africa,Africa,Southern Hemisphere,1
+70,Male,156,154/107,63,0,0,1,1,1,9.016431591,Unhealthy,0,0,1,0.308290652,241398,22.77429519,339,1,9,India,Asia,Northern Hemisphere,1
+65,Male,225,122/66,65,0,1,1,1,1,7.586908888,Healthy,1,0,8,7.262594068,179644,31.12215768,483,6,7,Australia,Australia,Southern Hemisphere,0
+49,Female,380,144/62,40,1,0,1,1,1,12.26862147,Average,1,1,9,5.44815522,84566,29.08921324,159,2,4,Colombia,South America,Northern Hemisphere,0
+52,Male,131,171/70,81,1,1,1,1,1,13.15228382,Unhealthy,1,1,6,0.033950113,111496,25.35191959,60,1,6,Nigeria,Africa,Northern Hemisphere,1
+30,Female,174,167/100,47,1,1,0,1,0,7.292826553,Average,1,1,7,11.6638426,42898,23.65912153,366,4,9,Brazil,South America,Southern Hemisphere,1
+37,Female,305,149/90,106,1,0,0,0,1,17.11616789,Average,1,1,2,11.14826054,242077,24.5206087,94,3,5,Italy,Europe,Southern Hemisphere,1
+84,Female,142,161/97,87,1,1,1,1,1,2.508739021,Healthy,1,0,10,9.434198873,236569,31.08469287,598,0,5,United Kingdom,Europe,Northern Hemisphere,0
+69,Female,149,122/109,91,1,0,1,0,1,5.404274918,Unhealthy,1,1,7,10.85230537,115820,31.07198736,387,3,9,New Zealand,Australia,Southern Hemisphere,0
+81,Male,124,108/81,66,1,0,1,1,0,3.651143349,Average,1,0,6,2.930070923,284891,18.78100923,470,6,9,New Zealand,Australia,Southern Hemisphere,1
+45,Male,321,110/64,89,1,0,1,1,1,1.722185177,Unhealthy,1,0,10,5.519379522,208953,34.80426411,571,4,4,Brazil,South America,Southern Hemisphere,0
+85,Male,212,139/106,104,1,1,1,1,1,2.472487568,Healthy,0,0,6,3.262559143,149156,36.21384326,294,3,10,Italy,Europe,Southern Hemisphere,0
+52,Male,194,154/90,108,0,0,1,0,1,6.740081297,Average,0,1,5,2.910637811,202730,35.84097952,386,5,7,United Kingdom,Europe,Northern Hemisphere,0
+40,Male,129,110/73,44,1,0,1,1,1,18.54623105,Unhealthy,0,1,3,5.665769066,153560,19.22867082,408,4,5,United Kingdom,Europe,Northern Hemisphere,1
+79,Male,316,91/101,44,0,0,1,0,1,18.90548787,Unhealthy,0,1,4,6.081397288,252342,20.33223487,32,7,4,Japan,Asia,Northern Hemisphere,1
+38,Male,152,149/91,50,1,0,1,1,0,12.67742923,Unhealthy,0,1,9,10.61264253,45419,18.93644097,557,4,6,Canada,North America,Northern Hemisphere,0
+29,Female,207,152/82,57,1,1,0,0,0,12.97003197,Unhealthy,0,1,8,11.12070917,273518,31.73636992,330,7,4,Thailand,Asia,Northern Hemisphere,0
+81,Male,201,141/87,58,1,1,1,0,1,18.00887514,Healthy,0,0,5,7.252739305,188003,30.87831648,331,7,6,Colombia,South America,Northern Hemisphere,0
+76,Male,136,108/100,43,0,0,1,1,1,5.589748493,Unhealthy,1,0,8,10.21430491,181051,35.86142304,66,3,9,South Korea,Asia,Northern Hemisphere,0
+32,Male,262,138/61,48,1,0,1,1,1,17.89850132,Average,1,1,2,3.526703571,165215,38.64629351,513,2,4,Spain,Europe,Southern Hemisphere,0
+86,Female,376,106/92,49,1,1,1,0,1,10.83189112,Average,0,1,8,6.417030484,203751,24.30970439,370,6,6,United Kingdom,Europe,Northern Hemisphere,0
+90,Male,241,90/93,97,1,1,1,1,1,1.068536584,Unhealthy,1,0,9,10.09694187,203184,24.46396119,791,0,10,Thailand,Asia,Northern Hemisphere,0
+88,Male,201,141/69,104,1,1,1,0,1,8.275278626,Average,1,0,4,4.591084307,220268,34.20940183,599,0,10,United Kingdom,Europe,Northern Hemisphere,1
+40,Male,127,180/70,109,1,1,1,1,0,4.186158649,Healthy,1,1,8,1.236275073,281961,28.36591324,471,2,9,France,Europe,Northern Hemisphere,1
+45,Female,266,107/68,88,1,0,1,0,1,18.48628339,Average,0,1,3,2.214496077,227656,33.13233791,326,4,4,India,Asia,Northern Hemisphere,1
+84,Male,138,97/61,72,1,1,1,0,1,6.435916257,Unhealthy,0,0,7,8.716980811,272098,34.09007724,231,7,10,Brazil,South America,Southern Hemisphere,0
+90,Male,214,128/67,103,1,1,1,1,0,12.1854632,Unhealthy,1,0,7,3.576534252,253533,24.00542551,437,5,4,Japan,Asia,Northern Hemisphere,1
+83,Male,254,163/91,60,0,1,1,1,0,17.31729368,Healthy,0,1,5,11.58267413,87296,27.40323667,62,6,7,South Korea,Asia,Northern Hemisphere,1
+31,Male,198,130/64,58,1,0,1,1,1,6.786601743,Healthy,0,1,10,0.979044595,131206,18.911062,718,6,4,France,Europe,Northern Hemisphere,0
+38,Female,364,162/101,56,1,1,0,0,0,16.21139194,Healthy,0,0,5,0.50887605,39672,36.93626728,83,3,4,United Kingdom,Europe,Northern Hemisphere,1
+42,Male,367,119/62,62,0,0,1,1,1,0.111537732,Average,1,1,1,3.636054923,45139,29.01826827,531,3,6,Spain,Europe,Southern Hemisphere,0
+63,Male,132,147/70,104,1,1,1,0,0,10.08113037,Average,0,0,9,9.70014151,169423,19.05777251,315,1,5,Argentina,South America,Southern Hemisphere,0
+90,Male,341,123/94,41,1,0,1,0,1,11.21395329,Unhealthy,1,1,2,7.084436202,152269,31.99444605,79,2,6,France,Europe,Northern Hemisphere,1
+85,Male,256,131/70,80,1,0,1,0,0,15.86658494,Unhealthy,1,0,4,3.330914004,270211,24.64314274,681,0,8,Italy,Europe,Southern Hemisphere,0
+29,Male,377,155/107,99,0,1,1,0,1,19.32857633,Average,0,0,6,7.709868138,101396,34.0243162,177,2,5,Japan,Asia,Northern Hemisphere,0
+43,Male,348,142/106,42,0,1,1,0,1,19.83871883,Unhealthy,0,0,5,3.248169118,215210,20.94381908,730,6,10,New Zealand,Australia,Southern Hemisphere,1
+89,Male,338,126/88,102,1,0,1,0,1,18.79171764,Healthy,0,0,5,9.689435499,21449,27.65530238,417,7,9,Colombia,South America,Northern Hemisphere,1
+80,Female,243,119/72,48,1,1,1,1,0,10.17152621,Unhealthy,1,0,6,6.915475558,168963,31.45057349,31,0,10,Japan,Asia,Northern Hemisphere,0
+64,Female,181,92/100,80,1,1,1,1,1,13.89079839,Healthy,1,0,2,1.384012885,237510,36.88117093,478,1,10,France,Europe,Northern Hemisphere,0
+75,Male,160,119/102,59,1,1,1,0,0,19.39552248,Average,1,1,9,0.108222328,62302,20.45607515,124,7,6,China,Asia,Northern Hemisphere,0
+60,Male,150,100/74,74,1,1,1,1,1,15.55333903,Healthy,0,0,6,4.733370241,285923,37.8221249,202,5,7,South Africa,Africa,Southern Hemisphere,0
+30,Male,189,94/95,79,1,0,1,0,1,11.8899913,Average,1,1,8,2.803008468,40967,20.90458424,265,2,7,Thailand,Asia,Northern Hemisphere,1
+35,Male,270,169/108,78,1,1,1,1,1,2.93739763,Unhealthy,0,0,2,4.997409883,288916,28.2578481,497,6,8,South Korea,Asia,Northern Hemisphere,0
+36,Male,148,131/99,77,1,0,1,0,1,18.4975871,Unhealthy,1,0,3,3.665552154,26147,21.23045947,382,3,4,South Africa,Africa,Southern Hemisphere,0
+22,Male,217,118/101,62,1,0,1,0,1,3.301578368,Healthy,1,0,6,4.066139602,203774,21.36578924,377,3,5,United Kingdom,Europe,Northern Hemisphere,1
+20,Female,130,149/94,98,1,0,0,0,0,17.35324473,Unhealthy,1,1,4,1.961503553,175229,21.13842754,98,2,8,Germany,Europe,Northern Hemisphere,1
+47,Male,145,171/93,85,1,0,1,0,1,8.723756716,Healthy,0,1,3,3.174676103,33522,23.00486967,349,3,5,United Kingdom,Europe,Northern Hemisphere,0
+42,Male,190,142/98,76,1,0,1,0,1,13.89844376,Unhealthy,1,1,5,5.354397854,74504,29.1415816,97,2,7,United States,North America,Northern Hemisphere,1
+33,Female,322,156/84,45,1,0,0,1,1,19.11286458,Average,0,0,2,0.341351473,31647,25.42580488,773,6,5,New Zealand,Australia,Southern Hemisphere,0
+70,Male,292,170/85,41,1,0,1,0,1,18.83161247,Average,0,0,4,7.267724276,83600,27.37579638,771,1,8,United Kingdom,Europe,Northern Hemisphere,0
+78,Male,388,134/89,53,1,1,1,0,0,1.830900085,Unhealthy,1,1,2,0.128028858,23525,20.33201918,48,7,7,New Zealand,Australia,Southern Hemisphere,0
+31,Male,310,152/78,44,1,1,1,0,1,11.8850322,Healthy,1,1,3,5.975572743,66393,36.49629678,319,5,8,United Kingdom,Europe,Northern Hemisphere,0
+50,Male,280,102/65,79,1,1,1,0,1,1.385516268,Healthy,1,1,7,3.749244,163070,38.60477611,331,3,8,Vietnam,Asia,Northern Hemisphere,0
+81,Female,288,150/60,83,1,1,1,0,1,17.98782916,Healthy,0,1,2,9.264080007,191708,27.14629145,315,2,8,France,Europe,Northern Hemisphere,0
+29,Male,360,105/72,41,1,0,1,0,1,13.45860249,Average,1,0,5,11.22217968,169701,21.40253873,752,0,5,China,Asia,Northern Hemisphere,1
+35,Female,326,138/94,105,1,1,0,1,0,2.868142606,Average,0,1,2,2.647932137,246431,38.94653275,597,3,6,Germany,Europe,Northern Hemisphere,1
+73,Female,297,141/77,48,1,0,1,0,0,10.44436514,Average,0,1,8,11.55636293,185246,32.20343051,380,4,10,Colombia,South America,Northern Hemisphere,1
+33,Male,320,149/65,40,0,1,1,0,1,11.88726256,Healthy,0,0,6,10.80930739,227073,33.60469137,189,2,6,Germany,Europe,Northern Hemisphere,0
+61,Male,348,138/86,96,0,0,1,1,0,11.76392398,Unhealthy,1,0,7,5.131798611,117647,22.19134144,344,7,8,Australia,Australia,Southern Hemisphere,1
+55,Male,292,150/89,90,0,1,1,1,1,10.6782582,Average,0,1,1,11.69464538,96683,35.84627417,429,0,9,United States,North America,Northern Hemisphere,1
+60,Female,137,127/82,40,1,1,1,0,1,19.06589882,Average,0,1,2,0.736755949,76340,32.01912936,345,7,8,Germany,Europe,Northern Hemisphere,0
+41,Female,152,105/92,95,1,0,1,0,1,14.72800167,Unhealthy,0,1,10,6.73742597,125316,26.85753579,530,2,5,Canada,North America,Northern Hemisphere,0
+69,Male,371,101/77,98,0,1,1,0,1,5.084559777,Average,0,0,6,8.455258668,202712,33.44256008,696,0,10,India,Asia,Northern Hemisphere,0
+52,Male,394,143/63,71,0,1,1,1,1,4.039570495,Average,0,0,1,6.278218537,211531,20.11630174,519,2,7,Spain,Europe,Southern Hemisphere,1
+30,Male,308,116/72,90,1,0,1,1,1,19.62640743,Average,0,1,10,0.373939774,50815,18.75258493,784,1,6,Argentina,South America,Southern Hemisphere,0
+61,Female,359,136/83,109,1,0,1,1,1,10.2332137,Unhealthy,1,1,8,9.353691498,64759,31.68153267,291,5,7,Italy,Europe,Southern Hemisphere,0
+83,Male,288,112/87,51,0,0,1,1,1,3.604015112,Healthy,1,0,4,10.13280756,249618,28.63678331,140,0,8,Colombia,South America,Northern Hemisphere,0
+71,Male,290,115/100,68,1,1,1,0,1,19.89357626,Healthy,1,1,7,5.23038117,168773,24.75738831,237,0,6,Brazil,South America,Southern Hemisphere,0
+48,Male,201,126/90,107,1,0,1,1,0,4.231762407,Average,0,0,1,1.039317212,115254,36.32896108,738,0,4,Canada,North America,Northern Hemisphere,0
+36,Male,294,138/68,82,1,0,1,0,0,6.417639252,Healthy,1,0,9,8.781604918,20478,38.34377537,530,6,10,New Zealand,Australia,Southern Hemisphere,0
+67,Male,291,115/79,53,0,1,1,0,1,15.91158143,Unhealthy,1,0,3,3.969494788,209070,26.74261093,690,4,9,Brazil,South America,Southern Hemisphere,0
+88,Male,175,109/70,46,1,1,1,0,1,11.35837156,Average,1,1,6,6.116835216,143980,18.71994401,547,7,4,Vietnam,Asia,Northern Hemisphere,0
+56,Female,317,135/79,65,1,0,1,0,1,1.553334414,Unhealthy,1,1,10,4.291587635,172944,35.36891246,231,7,4,Germany,Europe,Northern Hemisphere,1
+26,Male,228,145/74,53,0,1,1,0,1,8.633867922,Unhealthy,0,1,2,6.636447137,235501,31.58483219,261,3,5,Canada,North America,Northern Hemisphere,0
+74,Female,211,105/66,94,1,0,1,1,0,18.2311622,Healthy,1,0,10,8.420492302,137914,36.99992195,605,4,6,Colombia,South America,Northern Hemisphere,1
+21,Female,339,103/94,97,0,0,0,1,1,17.66207223,Healthy,0,1,1,10.28041565,45240,22.22348952,583,0,4,Italy,Europe,Southern Hemisphere,1
+58,Male,321,131/99,72,1,1,1,0,1,9.695898849,Unhealthy,1,1,9,6.20201954,72615,35.14411846,230,7,9,Canada,North America,Northern Hemisphere,0
+29,Female,141,125/110,46,1,0,0,1,1,9.984492319,Healthy,1,0,5,10.70584922,21422,21.02242621,778,4,5,United States,North America,Northern Hemisphere,1
+63,Male,172,130/63,58,1,1,1,1,0,1.404595345,Healthy,1,0,10,10.95551963,297660,31.18609249,227,1,10,Vietnam,Asia,Northern Hemisphere,1
+49,Male,244,116/89,68,0,1,1,0,1,13.38533436,Average,0,1,1,1.749869004,292038,27.27287557,182,5,4,South Africa,Africa,Southern Hemisphere,0
+55,Female,279,180/64,81,1,1,1,1,1,8.746352986,Average,0,0,10,9.420586077,123130,38.02341084,156,0,8,Thailand,Asia,Northern Hemisphere,0
+44,Female,363,164/78,64,1,0,1,0,1,6.800500613,Unhealthy,0,0,5,9.641835603,165405,21.93706615,84,6,8,Nigeria,Africa,Northern Hemisphere,0
+34,Male,172,97/102,71,0,1,1,0,1,15.84103414,Unhealthy,0,1,1,4.514944997,162784,28.29218164,486,0,4,France,Europe,Northern Hemisphere,1
+43,Male,395,150/78,88,0,0,1,1,0,12.61101839,Unhealthy,1,1,4,11.20903214,141796,20.61404692,719,0,4,United Kingdom,Europe,Northern Hemisphere,0
+70,Female,226,178/66,77,1,0,1,1,0,4.032954264,Healthy,1,0,9,8.801837261,31728,39.75088619,57,1,7,South Africa,Africa,Southern Hemisphere,0
+66,Male,137,130/106,80,1,1,1,1,1,11.98858772,Healthy,0,1,1,0.020509025,129823,34.61171049,51,7,4,Nigeria,Africa,Northern Hemisphere,1
+54,Male,373,150/87,50,1,1,1,1,1,3.699283305,Average,1,1,3,7.205525585,194407,29.75884737,135,4,5,Colombia,South America,Northern Hemisphere,0
+63,Female,382,143/63,98,1,1,1,1,1,0.560861587,Unhealthy,0,0,6,0.241065324,144163,26.88928769,490,1,5,India,Asia,Northern Hemisphere,1
+63,Male,394,93/68,104,1,0,1,1,1,11.01517792,Unhealthy,0,0,2,11.35248627,249115,29.28280959,693,6,9,Nigeria,Africa,Northern Hemisphere,0
+76,Female,378,178/94,48,1,1,1,1,0,11.54571511,Average,1,1,9,4.102807628,222427,28.42991497,549,3,4,United Kingdom,Europe,Northern Hemisphere,0
+45,Male,387,144/95,41,1,0,1,1,0,10.53439871,Average,0,0,7,1.012237834,121555,35.62992332,82,3,7,Italy,Europe,Southern Hemisphere,1
+79,Male,303,111/108,98,1,1,1,1,0,9.392868442,Unhealthy,0,0,2,5.70007564,124503,29.23588125,664,1,4,France,Europe,Northern Hemisphere,0
+69,Female,299,119/98,71,1,0,1,0,1,0.071818358,Healthy,1,1,5,0.801042403,206721,38.10418547,204,3,7,Canada,North America,Northern Hemisphere,1
+58,Female,393,145/88,92,1,1,1,0,0,2.344002245,Average,1,1,6,3.999998696,194434,24.62030868,680,4,8,Japan,Asia,Northern Hemisphere,0
+28,Male,250,135/93,94,1,1,1,0,1,12.6113557,Average,1,0,8,10.50012618,57483,19.11487173,376,5,8,Canada,North America,Northern Hemisphere,0
+68,Female,188,116/70,69,0,0,1,0,1,11.68945336,Unhealthy,1,0,1,0.923108897,60332,26.142883,410,2,9,Thailand,Asia,Northern Hemisphere,0
+50,Male,347,166/71,68,1,1,1,0,1,5.172609946,Healthy,1,0,5,1.794692175,145549,39.79144197,43,0,4,Italy,Europe,Southern Hemisphere,1
+35,Male,331,96/74,78,0,0,1,1,1,15.93709365,Healthy,0,1,7,7.134492541,108215,38.6178971,255,6,8,China,Asia,Northern Hemisphere,0
+55,Male,284,118/84,96,1,1,1,0,0,12.91092173,Unhealthy,1,1,5,7.870147494,289747,20.13029994,480,0,8,South Africa,Africa,Southern Hemisphere,1
+22,Male,392,107/66,47,0,0,1,0,1,1.013279584,Unhealthy,0,0,7,7.473694884,31803,37.69987891,583,0,6,United States,North America,Northern Hemisphere,0
+53,Male,242,147/83,107,1,0,1,0,1,6.522669577,Average,0,1,7,3.337101964,211797,36.9614185,789,6,10,Vietnam,Asia,Northern Hemisphere,1
+87,Female,127,171/62,90,1,0,1,1,0,4.970037317,Unhealthy,0,1,6,8.331510862,156593,26.48001628,530,7,10,Brazil,South America,Southern Hemisphere,1
+47,Female,382,128/107,67,1,0,1,0,0,7.385207026,Unhealthy,0,0,3,10.32429177,248348,27.51460413,263,7,8,Argentina,South America,Southern Hemisphere,0
+74,Male,285,166/76,93,0,0,1,0,0,6.808386263,Healthy,0,1,2,4.109096104,157722,37.8639412,195,4,8,New Zealand,Australia,Southern Hemisphere,1
+89,Male,273,153/85,83,1,1,1,0,1,6.408802444,Healthy,0,1,9,3.716048414,83963,35.88723849,564,2,6,United Kingdom,Europe,Northern Hemisphere,0
+67,Female,326,135/85,56,1,1,1,1,1,11.94309413,Healthy,1,0,4,4.837220318,20285,29.39551947,244,6,4,Thailand,Asia,Northern Hemisphere,0
+53,Male,194,156/95,82,0,0,1,0,1,9.322938736,Unhealthy,0,0,6,6.358494792,37398,22.56316057,221,6,10,Spain,Europe,Southern Hemisphere,0
+45,Male,289,119/83,81,1,1,1,1,0,4.411494834,Healthy,0,0,3,10.65998841,239237,22.96472896,726,3,4,Spain,Europe,Southern Hemisphere,0
+82,Male,306,125/107,40,1,0,1,0,0,19.1793603,Healthy,1,1,4,11.18521062,131600,18.68844254,182,4,10,Canada,North America,Northern Hemisphere,0
+81,Male,132,159/79,61,1,1,1,0,0,15.39139381,Average,1,1,9,11.89461507,190133,22.15264714,758,5,6,Colombia,South America,Northern Hemisphere,1
+86,Female,157,142/62,41,1,0,1,1,0,3.409071553,Unhealthy,0,0,7,1.544467545,86259,26.33197725,640,1,4,Colombia,South America,Northern Hemisphere,1
+65,Female,257,98/76,70,0,0,1,0,1,19.36701723,Unhealthy,1,1,3,1.350774046,129983,37.06271307,782,7,8,France,Europe,Northern Hemisphere,0
+79,Male,297,151/96,97,0,1,1,1,0,11.88707978,Average,0,0,2,11.70228609,263400,24.97094275,792,0,5,Colombia,South America,Northern Hemisphere,0
+50,Male,318,147/80,77,0,1,1,0,1,15.50597183,Average,1,1,3,7.45711303,91932,39.71720933,466,4,7,Germany,Europe,Northern Hemisphere,0
+62,Male,150,144/96,87,1,0,1,0,1,17.8924568,Unhealthy,1,0,1,10.75682339,188021,26.75561047,490,5,10,Australia,Australia,Southern Hemisphere,0
+29,Female,260,172/88,68,1,0,0,1,1,5.903091444,Average,0,0,2,9.240558929,297506,23.57550058,354,5,10,South Korea,Asia,Northern Hemisphere,0
+37,Male,231,102/100,58,1,1,1,1,1,15.73259366,Unhealthy,0,1,6,2.721560566,217840,20.92371732,798,0,8,Colombia,South America,Northern Hemisphere,0
+46,Male,376,97/92,110,1,1,1,0,0,4.545059683,Unhealthy,1,1,8,8.011780165,145870,31.23765022,164,5,6,Argentina,South America,Southern Hemisphere,0
+61,Female,204,129/107,47,0,0,1,1,1,12.88888562,Healthy,1,0,1,4.180455222,216557,30.06050712,351,2,4,France,Europe,Northern Hemisphere,0
+44,Male,204,111/85,90,1,0,1,0,0,18.66927652,Average,1,0,9,10.91949473,68255,20.46465477,549,2,6,United Kingdom,Europe,Northern Hemisphere,0
+63,Female,243,123/75,41,1,0,1,1,0,9.664287766,Unhealthy,1,0,5,6.408803798,288843,22.948553,541,2,8,Vietnam,Asia,Northern Hemisphere,1
+30,Female,128,93/82,84,1,1,0,0,1,10.12615231,Unhealthy,1,1,7,8.081993157,144024,36.00141656,348,0,4,China,Asia,Northern Hemisphere,0
+86,Male,203,144/99,82,1,0,1,0,1,9.165565328,Healthy,0,1,4,8.254736162,250679,22.70120337,45,5,10,Canada,North America,Northern Hemisphere,0
+25,Male,229,179/101,46,1,0,1,0,0,14.86223389,Unhealthy,0,0,2,3.296909728,259716,38.21684013,634,0,8,South Korea,Asia,Northern Hemisphere,1
+35,Male,397,165/74,60,0,0,1,1,1,7.518757697,Average,1,1,6,9.327459554,293784,21.46576497,710,5,4,South Korea,Asia,Northern Hemisphere,1
+87,Male,157,130/107,88,0,1,1,1,0,11.17511547,Average,0,1,1,9.382575989,160269,19.11077814,120,1,5,South Africa,Africa,Southern Hemisphere,0
+28,Female,330,131/74,90,1,1,0,1,0,5.619839458,Healthy,1,1,1,7.757726291,222878,34.71569628,180,3,6,Spain,Europe,Southern Hemisphere,1
+28,Male,262,174/69,80,1,0,1,0,0,17.62410204,Unhealthy,1,0,3,10.8201351,200756,32.93130755,480,7,6,United Kingdom,Europe,Northern Hemisphere,1
+43,Male,391,154/68,59,1,1,1,0,0,18.82658048,Unhealthy,0,1,3,6.986900095,96801,28.70674772,165,4,9,New Zealand,Australia,Southern Hemisphere,1
+57,Male,279,138/97,86,0,1,1,1,1,2.173303901,Average,1,0,1,1.617430127,86495,22.99768307,198,6,4,United Kingdom,Europe,Northern Hemisphere,1
+66,Male,325,157/89,81,1,0,1,0,0,5.241361808,Unhealthy,1,1,3,3.845862196,201547,24.37188187,563,7,6,Italy,Europe,Southern Hemisphere,0
+83,Male,392,166/95,60,1,1,1,1,0,13.26596365,Healthy,0,1,7,8.914598271,157680,28.41121989,555,0,10,Japan,Asia,Northern Hemisphere,1
+70,Female,256,161/65,99,1,0,1,1,0,11.68223637,Healthy,0,1,10,8.302185655,204254,28.81453361,456,3,4,Vietnam,Asia,Northern Hemisphere,0
+70,Male,161,140/106,52,1,1,1,0,0,4.915553752,Average,0,0,3,4.410728087,251786,26.44935069,314,0,7,Canada,North America,Northern Hemisphere,0
+52,Male,228,170/87,51,1,1,1,1,1,17.27118532,Healthy,0,1,2,4.515995924,175416,21.80075388,770,2,8,India,Asia,Northern Hemisphere,0
+83,Male,313,109/99,89,1,0,1,0,1,15.36592393,Healthy,0,1,3,11.81317993,99837,31.52636097,768,3,4,Argentina,South America,Southern Hemisphere,1
+77,Male,216,150/90,95,1,1,1,1,1,16.42971218,Average,1,1,9,11.72551151,279193,25.8512639,617,0,5,Thailand,Asia,Northern Hemisphere,1
+39,Male,140,158/98,104,1,1,1,1,0,15.26526232,Average,0,0,5,5.159969571,42513,23.45057531,661,5,8,South Korea,Asia,Northern Hemisphere,1
+50,Male,288,119/93,86,0,1,1,0,1,14.88044305,Average,0,1,6,6.839567008,277277,24.09317098,497,2,10,China,Asia,Northern Hemisphere,1
+29,Male,286,139/98,50,1,0,1,0,0,14.25449851,Unhealthy,0,1,8,10.2298279,48669,20.76354345,552,1,4,New Zealand,Australia,Southern Hemisphere,1
+70,Male,322,109/110,79,1,0,1,1,1,2.954495324,Average,1,1,8,1.847677326,287687,37.90474857,758,3,6,Argentina,South America,Southern Hemisphere,0
+61,Male,146,154/70,69,1,1,1,1,1,8.731033523,Unhealthy,0,1,6,10.49036234,292804,37.94949861,663,0,4,Thailand,Asia,Northern Hemisphere,0
+36,Male,296,115/76,68,1,1,1,1,0,17.90929383,Average,1,0,4,1.296012447,112758,34.5447134,317,6,8,Australia,Australia,Southern Hemisphere,0
+43,Male,283,166/96,106,1,0,1,1,1,9.547618377,Unhealthy,0,1,2,11.75068626,173290,23.01447173,751,1,10,Brazil,South America,Southern Hemisphere,0
+68,Female,222,169/65,59,1,1,1,1,1,9.072720669,Average,1,0,9,1.783234657,74090,35.91885529,406,5,9,Japan,Asia,Northern Hemisphere,0
+25,Female,157,98/62,80,1,0,0,1,1,5.45181895,Unhealthy,1,1,2,3.132122484,126903,32.93071368,146,1,6,United Kingdom,Europe,Northern Hemisphere,1
+83,Male,334,98/72,101,1,0,1,1,0,10.81566025,Average,0,0,6,2.721991983,148289,36.75741084,81,2,6,Japan,Asia,Northern Hemisphere,0
+73,Female,129,120/87,94,1,1,1,1,1,14.15466684,Healthy,1,1,4,9.804483065,20062,31.15077031,429,4,6,New Zealand,Australia,Southern Hemisphere,0
+22,Male,356,170/85,72,1,0,1,1,1,11.15481124,Unhealthy,0,0,10,0.295040867,22990,21.78553484,741,1,5,Brazil,South America,Southern Hemisphere,0
+78,Female,373,162/70,102,1,1,1,1,0,3.209944728,Healthy,0,0,8,6.61334932,28771,38.40859323,121,1,6,Thailand,Asia,Northern Hemisphere,0
+27,Male,259,167/104,41,1,1,1,1,0,7.49952865,Unhealthy,0,1,7,11.66787707,221768,25.34127502,586,2,9,Italy,Europe,Southern Hemisphere,0
+62,Female,302,180/83,65,1,1,1,1,1,3.710467956,Unhealthy,0,1,4,2.075488408,209539,24.2339314,737,3,5,Japan,Asia,Northern Hemisphere,0
+72,Male,315,138/105,103,0,1,1,1,0,13.33861367,Unhealthy,1,1,2,9.870168143,20526,18.93231683,161,1,7,South Korea,Asia,Northern Hemisphere,0
+75,Female,204,140/96,68,1,1,1,0,0,19.0364298,Healthy,1,0,1,1.148471043,161525,36.09415374,70,6,5,Canada,North America,Northern Hemisphere,0
+68,Male,268,162/78,62,0,1,1,1,1,19.37890155,Average,0,0,8,5.450249973,296674,33.18719236,485,7,5,Japan,Asia,Northern Hemisphere,1
+70,Male,223,120/72,71,0,0,1,0,1,16.50090363,Healthy,0,0,1,4.386812528,168164,25.75220582,690,2,5,Brazil,South America,Southern Hemisphere,0
+74,Female,271,162/101,90,1,0,1,0,0,15.90908814,Unhealthy,1,1,8,7.279608036,128668,39.56783026,649,2,5,Italy,Europe,Southern Hemisphere,0
+89,Male,250,109/80,59,0,0,1,0,0,2.040660129,Unhealthy,1,0,1,3.130540558,32801,20.81242446,782,1,5,Italy,Europe,Southern Hemisphere,0
+62,Female,336,142/89,81,0,1,1,0,1,19.66195867,Average,0,0,10,4.874905496,125152,29.76825545,85,5,5,Argentina,South America,Southern Hemisphere,0
+76,Male,279,158/101,88,1,0,1,1,0,6.268401831,Healthy,0,1,7,10.35158834,219287,24.43509339,698,6,5,Brazil,South America,Southern Hemisphere,1
+60,Female,250,172/74,89,1,1,1,0,1,3.183721282,Unhealthy,1,1,7,6.888048649,160018,30.35628575,98,4,4,Vietnam,Asia,Northern Hemisphere,1
+25,Male,240,148/83,79,0,0,1,1,1,15.11361369,Unhealthy,1,1,10,11.40688469,58145,29.21782168,662,6,8,Italy,Europe,Southern Hemisphere,0
+74,Female,350,146/103,103,1,0,1,1,0,2.488237036,Average,0,1,3,11.53175002,225871,27.81835477,777,3,4,Thailand,Asia,Northern Hemisphere,0
+74,Female,334,146/84,60,0,1,1,1,1,9.863021796,Average,0,0,8,7.381031362,131679,23.46453342,663,7,4,South Korea,Asia,Northern Hemisphere,0
+36,Female,351,134/82,82,1,1,0,0,1,8.589076724,Healthy,1,1,1,4.863554909,125240,38.26231782,733,5,8,United Kingdom,Europe,Northern Hemisphere,0
+28,Male,384,135/91,59,1,0,1,1,0,10.95184672,Average,1,0,3,6.240558617,26656,38.19524161,376,6,10,United Kingdom,Europe,Northern Hemisphere,1
+20,Female,131,160/78,53,1,0,0,1,0,3.754897258,Unhealthy,0,1,5,0.245806951,120223,26.1196065,45,3,9,Spain,Europe,Southern Hemisphere,0
+55,Male,176,159/63,51,1,1,1,0,0,3.896681552,Healthy,1,1,5,11.43473508,62790,22.34979039,105,5,7,South Africa,Africa,Southern Hemisphere,1
+80,Male,156,144/104,45,1,1,1,1,1,0.543821955,Unhealthy,1,1,8,10.33103759,269161,23.27055372,739,1,6,South Africa,Africa,Southern Hemisphere,1
+90,Male,235,157/95,61,1,1,1,0,1,1.150670911,Average,0,1,7,6.07412257,261929,35.17796043,578,0,7,Australia,Australia,Southern Hemisphere,0
+64,Male,298,171/75,84,1,0,1,1,1,19.45402293,Unhealthy,0,1,8,9.576940528,45359,30.00774144,469,0,5,Germany,Europe,Northern Hemisphere,0
+90,Male,298,158/109,87,0,1,1,1,0,16.37865891,Unhealthy,1,0,1,10.30606042,265934,28.83457445,675,2,5,Italy,Europe,Southern Hemisphere,0
+56,Female,153,98/104,100,0,0,1,0,1,5.275797403,Unhealthy,0,0,9,0.807524953,81999,34.67191027,216,3,10,Nigeria,Africa,Northern Hemisphere,0
+67,Male,290,138/78,60,1,0,1,1,0,14.01110235,Unhealthy,1,1,9,5.702402278,235739,36.52718779,791,2,4,South Africa,Africa,Southern Hemisphere,0
+21,Male,181,149/76,80,0,1,1,0,1,10.16098288,Healthy,0,0,5,3.8548258,225508,27.00037356,235,4,8,Germany,Europe,Northern Hemisphere,1
+75,Female,123,126/102,75,1,0,1,1,1,18.51227017,Healthy,1,1,1,9.270776714,69361,19.71571385,472,2,9,South Africa,Africa,Southern Hemisphere,0
+87,Male,374,150/96,41,1,0,1,0,1,11.57463189,Healthy,1,0,3,11.08048408,70346,33.37186285,760,4,7,Colombia,South America,Northern Hemisphere,1
+86,Male,295,131/67,49,1,0,1,0,1,7.524364766,Average,1,1,4,1.596757971,56236,27.87845248,524,5,6,Vietnam,Asia,Northern Hemisphere,1
+88,Male,295,136/107,51,0,0,1,1,0,7.890615959,Healthy,1,1,7,11.69881996,102328,29.18614573,719,6,6,New Zealand,Australia,Southern Hemisphere,0
+75,Female,297,107/66,97,1,1,1,0,0,16.73418227,Unhealthy,1,1,3,7.321724144,228185,27.38648135,754,2,8,France,Europe,Northern Hemisphere,1
+49,Male,205,111/81,106,0,0,1,0,1,0.761558532,Average,0,0,2,5.909648305,222080,29.52629166,425,2,10,China,Asia,Northern Hemisphere,0
+36,Male,276,175/69,55,1,1,1,0,1,3.939206867,Healthy,1,1,9,8.398520204,280046,21.78792675,720,0,8,Italy,Europe,Southern Hemisphere,0
+80,Female,192,147/64,90,1,0,1,1,0,1.787561636,Average,0,1,1,7.126070856,284933,39.50361842,710,6,6,United States,North America,Northern Hemisphere,0
+29,Female,362,140/60,63,1,0,0,1,0,2.238981934,Average,0,0,2,3.387447986,97936,25.16306121,439,3,8,Spain,Europe,Southern Hemisphere,0
+69,Male,190,116/61,42,1,0,1,0,1,17.93769806,Unhealthy,0,1,7,8.465097696,47124,23.59625804,361,6,8,United Kingdom,Europe,Northern Hemisphere,1
+28,Male,298,122/106,51,1,0,1,1,1,9.148000702,Unhealthy,0,1,3,8.828354737,107783,20.39456128,793,7,10,Vietnam,Asia,Northern Hemisphere,1
+89,Male,197,121/69,96,0,1,1,1,1,14.42261271,Healthy,1,0,1,7.153609059,277743,33.70426977,633,4,9,New Zealand,Australia,Southern Hemisphere,0
+72,Male,334,125/70,52,0,1,1,0,1,18.71317144,Unhealthy,1,0,9,6.644132556,173005,21.52268937,566,1,4,Germany,Europe,Northern Hemisphere,0
+57,Male,292,155/107,100,1,1,1,0,0,16.95550745,Average,0,1,8,5.746377393,180341,32.53213131,626,3,10,New Zealand,Australia,Southern Hemisphere,0
+51,Male,242,148/67,83,1,1,1,1,1,8.071940584,Average,1,0,8,4.153731586,54584,36.21103861,403,1,9,Vietnam,Asia,Northern Hemisphere,0
+54,Male,262,167/62,105,1,0,1,0,0,13.69596611,Unhealthy,1,1,7,10.61311333,63119,29.37750491,41,1,4,Japan,Asia,Northern Hemisphere,0
+33,Male,299,158/79,56,1,0,1,0,1,18.6201611,Average,1,0,7,4.149581385,36813,29.89912642,104,0,9,Nigeria,Africa,Northern Hemisphere,1
+27,Male,185,135/98,63,1,0,1,0,1,16.38560943,Average,1,1,1,7.475092086,34700,24.58403837,278,4,8,United Kingdom,Europe,Northern Hemisphere,0
+57,Male,338,140/90,106,1,1,1,0,1,15.69431736,Average,0,1,10,7.350838913,256513,24.69126712,348,4,4,South Korea,Asia,Northern Hemisphere,0
+73,Male,348,148/85,59,1,1,1,1,1,12.93472352,Unhealthy,0,1,4,6.654497043,32062,38.14610085,134,2,7,India,Asia,Northern Hemisphere,1
+63,Male,257,156/62,87,1,0,1,0,0,19.83076456,Average,0,0,6,2.459225687,58637,25.0881629,140,2,8,Australia,Australia,Southern Hemisphere,0
+75,Male,143,108/64,40,0,1,1,0,0,10.33011301,Average,1,0,3,4.487721568,56822,33.8144434,715,6,7,Vietnam,Asia,Northern Hemisphere,0
+90,Female,263,107/82,80,1,0,1,1,1,14.26132397,Average,1,0,7,2.212008204,68449,30.83262612,272,4,10,Japan,Asia,Northern Hemisphere,0
+83,Female,122,113/71,106,0,1,1,0,0,2.520317734,Average,1,1,10,5.719734658,284051,19.47671945,543,6,4,France,Europe,Northern Hemisphere,1
+51,Female,203,135/66,91,1,1,1,1,0,19.4267455,Unhealthy,0,0,6,7.676198501,243339,23.62930042,115,1,5,Germany,Europe,Northern Hemisphere,0
+18,Male,123,155/61,94,1,0,1,1,1,0.678386645,Unhealthy,0,1,10,0.434864666,164228,32.6401345,763,5,5,Germany,Europe,Northern Hemisphere,1
+53,Male,124,173/74,94,1,1,1,0,0,6.005466844,Average,0,1,5,5.421021396,122196,38.72691995,799,4,7,Australia,Australia,Southern Hemisphere,0
+36,Male,383,155/101,46,1,1,1,1,1,4.359336879,Unhealthy,1,0,10,1.111922038,70167,19.34512162,443,6,10,United Kingdom,Europe,Northern Hemisphere,1
+24,Female,329,174/102,110,1,0,0,1,0,13.86667268,Healthy,1,1,6,11.68171799,202079,36.87893606,270,0,7,Colombia,South America,Northern Hemisphere,1
+60,Male,168,109/66,75,1,0,1,0,1,5.595364917,Average,0,1,6,2.229572825,243111,25.1136748,112,7,7,South Korea,Asia,Northern Hemisphere,0
+52,Male,174,149/83,85,1,0,1,0,1,7.160103105,Unhealthy,1,0,1,0.611134728,179800,33.96544608,465,6,10,Colombia,South America,Northern Hemisphere,0
+73,Male,265,134/60,45,1,1,1,0,0,11.68144993,Unhealthy,0,0,4,4.832896602,46750,37.90022961,782,0,9,New Zealand,Australia,Southern Hemisphere,0
+19,Male,244,146/69,65,0,0,1,0,1,4.707246746,Healthy,0,1,10,3.333270502,75562,34.84481026,722,7,5,Colombia,South America,Northern Hemisphere,0
+41,Female,382,142/107,45,1,0,1,0,0,3.290427379,Unhealthy,1,0,7,0.680998687,234837,34.63536477,47,6,9,United States,North America,Northern Hemisphere,0
+57,Male,147,170/67,109,1,0,1,1,0,13.02692705,Unhealthy,1,1,1,5.909264706,25153,24.48686142,427,2,7,Canada,North America,Northern Hemisphere,1
+90,Male,380,100/100,72,0,1,1,0,1,4.593010286,Healthy,0,0,7,7.733716804,25327,35.8936341,783,5,5,France,Europe,Northern Hemisphere,0
+80,Male,162,159/63,109,1,1,1,1,0,13.20750166,Healthy,1,0,10,1.872724165,161378,27.38239073,171,4,9,France,Europe,Northern Hemisphere,0
+39,Male,317,96/95,99,1,0,1,1,0,10.74914206,Average,1,0,9,3.556317178,46298,35.74299339,646,1,4,Argentina,South America,Southern Hemisphere,1
+84,Female,343,157/100,85,0,0,1,1,1,9.126364754,Unhealthy,1,0,10,7.308763809,126306,37.62788692,510,2,10,Australia,Australia,Southern Hemisphere,1
+33,Male,182,169/93,69,1,1,1,0,1,13.69621622,Healthy,0,0,8,1.386630913,279073,38.77816916,578,2,6,Germany,Europe,Northern Hemisphere,1
+45,Male,286,178/95,104,1,1,1,1,1,9.860328907,Healthy,0,0,8,0.996576285,62738,38.4862931,177,4,9,Australia,Australia,Southern Hemisphere,1
+44,Female,300,93/89,109,1,0,1,1,0,2.005807312,Unhealthy,0,0,3,4.159311116,108288,29.0986554,602,2,4,Vietnam,Asia,Northern Hemisphere,0
+87,Male,236,175/70,56,1,1,1,1,0,18.70761288,Unhealthy,0,1,6,11.75010754,90039,36.09338584,616,7,9,Nigeria,Africa,Northern Hemisphere,0
+25,Female,192,95/83,106,1,0,0,0,1,8.173140118,Unhealthy,1,1,5,10.237116,136692,22.08238801,673,5,6,Spain,Europe,Southern Hemisphere,1
+53,Male,297,158/84,74,1,1,1,1,1,13.0438593,Unhealthy,0,0,8,11.62586677,106720,28.76828022,202,2,7,Vietnam,Asia,Northern Hemisphere,0
+54,Female,332,132/97,52,1,0,1,0,1,6.86540157,Healthy,1,1,4,1.294004532,194417,26.85760256,321,3,5,Spain,Europe,Southern Hemisphere,1
+55,Male,161,130/89,41,0,1,1,1,0,11.68794338,Average,1,1,1,10.53399537,293648,39.0774053,200,4,9,South Korea,Asia,Northern Hemisphere,0
+87,Male,359,151/82,79,1,1,1,1,0,10.09944031,Healthy,0,0,7,11.86789927,44364,26.30702302,408,4,10,Italy,Europe,Southern Hemisphere,1
+47,Female,348,113/95,51,0,0,1,1,1,17.91509732,Unhealthy,0,0,9,11.87798933,290173,18.10473413,734,7,9,India,Asia,Northern Hemisphere,0
+24,Male,315,94/93,72,1,0,1,1,1,9.943838783,Average,0,1,8,6.488258914,215965,26.50393525,781,7,9,Nigeria,Africa,Northern Hemisphere,0
+33,Male,268,112/95,90,0,0,1,1,1,11.61753174,Unhealthy,0,1,1,1.792087938,70688,38.32629608,501,2,6,New Zealand,Australia,Southern Hemisphere,0
+63,Female,302,134/95,105,1,0,1,0,0,13.4478201,Average,1,0,8,10.47654247,236277,32.27949558,381,7,7,New Zealand,Australia,Southern Hemisphere,0
+76,Female,146,160/95,46,1,1,1,0,1,9.553983075,Unhealthy,0,0,8,0.289627576,47279,39.42624581,118,6,4,Argentina,South America,Southern Hemisphere,1
+48,Male,303,131/109,79,1,0,1,1,0,11.17583764,Average,1,0,4,1.507836958,121769,35.73995279,337,7,5,Canada,North America,Northern Hemisphere,1
+72,Male,337,144/104,71,1,0,1,1,1,4.487159941,Average,1,0,3,8.475407937,175506,20.15834415,626,5,7,New Zealand,Australia,Southern Hemisphere,0
+55,Female,281,108/72,90,1,1,1,0,0,4.427676502,Average,1,0,2,9.422691281,222494,36.43334979,707,4,9,France,Europe,Northern Hemisphere,0
+30,Female,139,163/110,108,1,0,0,0,1,3.912788774,Average,0,0,3,11.22004806,203024,37.46246179,158,5,10,South Korea,Asia,Northern Hemisphere,1
+86,Male,226,123/106,57,1,0,1,0,1,3.169905448,Unhealthy,0,0,5,0.459741445,195080,23.7858428,413,3,9,Germany,Europe,Northern Hemisphere,0
+19,Female,127,152/82,84,0,0,0,1,1,4.344071477,Healthy,0,0,5,10.39114895,157785,20.46336768,163,1,7,Nigeria,Africa,Northern Hemisphere,0
+80,Male,387,170/91,59,0,1,1,0,0,3.544770388,Average,0,1,7,5.128904081,281707,37.54953718,521,0,4,Brazil,South America,Southern Hemisphere,1
+77,Female,348,153/89,109,0,1,1,0,1,9.119184705,Unhealthy,1,1,5,11.78401171,199313,37.85809191,758,2,8,Colombia,South America,Northern Hemisphere,0
+57,Female,342,177/66,89,1,0,1,0,0,3.406608868,Unhealthy,0,1,8,7.104389101,56428,23.33672743,353,0,9,Italy,Europe,Southern Hemisphere,1
+73,Male,222,98/71,42,0,0,1,0,1,0.243995832,Average,0,1,7,4.174019693,189891,39.95765888,121,0,8,Vietnam,Asia,Northern Hemisphere,1
+37,Male,277,132/92,86,1,0,1,0,1,15.5446253,Average,0,0,7,2.548093974,219881,32.65371487,704,2,8,Thailand,Asia,Northern Hemisphere,0
+77,Male,178,98/91,82,0,0,1,0,0,12.37314256,Healthy,1,0,2,11.05486021,289460,18.01360573,341,6,5,Argentina,South America,Southern Hemisphere,0
+40,Male,285,179/79,90,1,1,1,0,1,1.252498081,Unhealthy,0,0,10,2.11995892,226906,28.33689309,382,4,4,France,Europe,Northern Hemisphere,1
+20,Male,326,170/98,54,1,1,1,1,1,10.30428754,Unhealthy,1,0,5,5.127790141,113691,21.2265444,391,2,5,Germany,Europe,Northern Hemisphere,0
+23,Female,315,110/63,48,1,0,0,1,0,5.706357402,Healthy,0,0,4,6.436514182,61342,23.37520102,644,3,10,Thailand,Asia,Northern Hemisphere,0
+56,Male,213,167/70,109,1,0,1,0,1,2.082248275,Average,1,1,1,8.817646568,100761,21.95464154,63,0,7,New Zealand,Australia,Southern Hemisphere,0
+86,Female,197,178/102,58,1,0,1,0,1,0.56518735,Unhealthy,0,0,10,7.745245696,278470,36.34690593,789,4,8,South Korea,Asia,Northern Hemisphere,1
+66,Female,169,134/107,66,1,0,1,0,1,4.129371523,Unhealthy,1,1,1,7.243321896,238240,21.07241557,568,3,10,Argentina,South America,Southern Hemisphere,1
+53,Female,193,170/63,52,1,1,1,0,0,10.42333268,Average,1,0,6,7.386169655,31107,31.06652374,748,0,8,New Zealand,Australia,Southern Hemisphere,0
+71,Female,152,156/79,65,1,0,1,1,0,8.504526385,Healthy,1,0,3,4.845199147,217763,25.57852621,458,4,6,Brazil,South America,Southern Hemisphere,1
+83,Male,336,110/81,86,1,1,1,1,0,9.651214832,Average,1,1,8,10.00323419,163012,21.4202496,277,4,6,South Africa,Africa,Southern Hemisphere,1
+41,Male,199,135/66,75,0,0,1,1,0,10.53140762,Average,1,1,5,0.28689939,165990,18.90946395,174,2,7,Australia,Australia,Southern Hemisphere,0
+77,Male,175,127/94,110,0,1,1,1,0,3.791817864,Unhealthy,1,0,8,0.840921437,114390,18.28681073,356,2,4,Australia,Australia,Southern Hemisphere,0
+35,Female,315,176/70,83,0,1,0,0,1,8.557869145,Unhealthy,0,0,1,8.24096667,215330,30.16631338,617,4,5,Australia,Australia,Southern Hemisphere,0
+87,Male,125,179/83,82,1,0,1,0,0,18.07120003,Healthy,0,0,6,3.462230932,141291,19.37184133,411,6,7,China,Asia,Northern Hemisphere,1
+24,Male,191,165/81,56,1,1,1,0,0,0.785855203,Healthy,0,0,10,7.554054139,271099,30.18267182,64,0,5,Colombia,South America,Northern Hemisphere,1
+75,Male,304,100/71,44,1,1,1,1,0,16.54848582,Healthy,1,0,6,6.635831014,112623,30.33718837,209,1,10,China,Asia,Northern Hemisphere,0
+28,Male,292,100/110,59,1,1,1,0,0,15.09393756,Average,0,0,5,3.706018058,282095,24.36968671,536,2,8,New Zealand,Australia,Southern Hemisphere,0
+20,Male,182,133/71,42,0,0,1,0,0,2.167422113,Unhealthy,1,0,10,7.462959437,43076,28.27099952,559,2,7,South Africa,Africa,Southern Hemisphere,0
+36,Male,370,178/102,109,1,1,1,1,1,9.090740621,Unhealthy,1,0,9,1.579159998,66905,37.13934278,514,6,5,Spain,Europe,Southern Hemisphere,0
+20,Female,294,116/93,73,0,0,0,1,1,6.249871692,Unhealthy,0,1,1,0.769557995,189102,39.7142401,122,6,7,New Zealand,Australia,Southern Hemisphere,0
+46,Female,164,108/110,61,1,0,1,1,1,10.06818881,Average,0,1,5,11.35874773,146693,38.50788769,677,6,7,South Africa,Africa,Southern Hemisphere,1
+19,Male,283,171/86,105,0,0,1,1,0,5.665929971,Unhealthy,1,1,6,10.52413343,234845,33.02976151,607,5,5,Thailand,Asia,Northern Hemisphere,0
+30,Male,262,100/86,87,1,0,1,1,0,1.541348066,Unhealthy,0,1,3,0.729493104,244746,22.85444732,698,7,6,United Kingdom,Europe,Northern Hemisphere,0
+39,Male,133,110/102,107,1,1,1,0,1,19.91519363,Average,1,1,3,8.771523934,289632,34.50732317,486,5,7,Colombia,South America,Northern Hemisphere,0
+36,Male,283,154/74,103,0,1,1,0,1,18.99692733,Average,1,1,7,10.0373717,43771,26.25378398,283,7,5,Spain,Europe,Southern Hemisphere,0
+33,Female,156,173/60,86,0,0,0,0,0,12.93116463,Unhealthy,0,1,5,5.93882597,94160,31.32293757,463,6,8,New Zealand,Australia,Southern Hemisphere,1
+29,Male,211,154/100,78,0,1,1,1,0,1.458670365,Average,0,1,5,11.3040608,103052,27.68585094,328,6,8,Brazil,South America,Southern Hemisphere,1
+25,Female,146,133/90,95,1,1,0,1,0,3.969553093,Unhealthy,1,0,3,0.838832027,204630,27.80351425,779,0,5,France,Europe,Northern Hemisphere,1
+32,Male,273,117/100,77,0,1,1,1,1,12.49938076,Unhealthy,0,1,10,0.977210378,109739,38.31780808,43,5,7,France,Europe,Northern Hemisphere,0
+64,Female,278,152/99,96,1,1,1,0,1,15.6593115,Average,0,0,6,11.3916654,23566,39.02758249,100,1,8,United Kingdom,Europe,Northern Hemisphere,1
+20,Female,189,149/102,61,0,0,0,0,1,9.387461891,Average,1,1,4,4.944302806,29331,29.26904402,631,2,4,United States,North America,Northern Hemisphere,0
+46,Female,304,110/79,110,0,0,1,0,0,11.12475692,Average,1,1,6,10.09179189,136845,32.87361598,565,0,8,Germany,Europe,Northern Hemisphere,0
+56,Female,247,150/77,107,1,0,1,0,1,1.510391895,Unhealthy,0,0,6,7.824109633,241853,22.20452301,713,0,10,New Zealand,Australia,Southern Hemisphere,1
+47,Female,274,109/84,41,1,1,1,1,0,6.671244754,Unhealthy,1,1,4,2.508574544,59434,32.27058474,61,5,6,Brazil,South America,Southern Hemisphere,0
+46,Female,266,117/97,44,0,0,1,1,1,0.981805072,Unhealthy,1,1,7,3.367253035,181706,18.17441626,549,0,9,Spain,Europe,Southern Hemisphere,0
+37,Male,220,175/87,42,1,0,1,1,0,4.230490256,Unhealthy,1,0,6,6.354684929,88755,28.07933873,30,0,9,United States,North America,Northern Hemisphere,1
+20,Male,344,96/91,80,0,0,1,1,1,14.05659843,Healthy,1,1,5,10.10379257,279164,22.75829265,272,1,5,Argentina,South America,Southern Hemisphere,1
+66,Male,254,168/80,55,1,0,1,0,1,12.11259928,Average,1,0,2,2.143719161,51328,34.00873094,298,4,8,Germany,Europe,Northern Hemisphere,0
+20,Male,297,119/71,94,1,0,1,0,0,16.10640201,Average,1,0,2,4.743302917,214992,22.06055103,619,7,7,New Zealand,Australia,Southern Hemisphere,1
+81,Female,357,123/77,61,0,0,1,0,1,9.205681713,Average,1,0,6,0.974335982,207116,32.87764647,734,3,7,Canada,North America,Northern Hemisphere,0
+46,Female,297,91/98,41,0,1,1,0,0,17.9057611,Healthy,0,0,2,2.076655324,58152,28.84121467,167,1,7,Vietnam,Asia,Northern Hemisphere,0
+52,Male,227,107/86,85,0,1,1,0,0,16.40015989,Healthy,0,1,1,9.966360844,280289,36.27340225,445,7,4,South Africa,Africa,Southern Hemisphere,0
+63,Female,206,134/83,89,1,0,1,1,1,6.382486654,Average,0,0,8,9.441678547,24131,22.75267723,30,4,6,South Africa,Africa,Southern Hemisphere,0
+29,Male,185,113/77,80,0,1,1,0,0,10.48680446,Average,0,0,9,10.94447705,260919,38.66305353,649,0,7,United States,North America,Northern Hemisphere,0
+80,Female,385,107/80,44,1,1,1,0,1,2.349947118,Average,1,0,10,2.101420423,161780,24.90204524,420,3,6,Japan,Asia,Northern Hemisphere,1
+82,Female,261,142/86,92,1,0,1,1,0,4.187718244,Unhealthy,1,0,9,5.324142688,293847,22.16432083,645,3,4,Nigeria,Africa,Northern Hemisphere,0
+33,Male,192,111/71,52,0,0,1,0,1,14.68239157,Average,1,1,8,4.178002885,260233,18.28089686,303,1,9,South Africa,Africa,Southern Hemisphere,0
+61,Male,166,113/64,77,1,0,1,1,0,2.35279168,Average,1,0,5,6.478696393,171438,31.23966158,224,6,5,Brazil,South America,Southern Hemisphere,0
+43,Male,213,124/93,109,1,0,1,0,0,14.82250906,Unhealthy,1,1,6,0.83704144,209234,36.43496091,525,3,5,United States,North America,Northern Hemisphere,1
+52,Male,183,121/91,46,1,1,1,1,0,9.460636079,Unhealthy,0,1,5,8.169406944,177231,31.87297312,527,2,6,Nigeria,Africa,Northern Hemisphere,0
+21,Male,169,102/86,95,1,1,1,1,0,2.495874556,Healthy,0,1,3,9.51315939,118086,37.28998987,391,1,8,China,Asia,Northern Hemisphere,0
+50,Male,138,126/89,42,1,1,1,1,1,12.63893228,Average,1,0,1,9.019314683,124730,26.86437792,729,6,7,Nigeria,Africa,Northern Hemisphere,1
+62,Male,202,142/61,42,0,1,1,0,1,3.263934773,Unhealthy,1,0,4,3.001796659,288560,35.34132901,110,2,9,Brazil,South America,Southern Hemisphere,0
+61,Male,266,160/98,108,1,0,1,1,0,3.021199918,Healthy,1,1,9,11.79673495,152925,34.86810015,572,6,4,New Zealand,Australia,Southern Hemisphere,1
+63,Male,380,109/66,79,0,0,1,0,1,18.38079976,Healthy,0,0,8,11.61558153,150407,24.38208706,343,2,4,Vietnam,Asia,Northern Hemisphere,1
+32,Female,169,156/79,84,1,0,0,1,0,11.63944289,Unhealthy,0,1,9,5.730148949,67604,39.51266012,777,4,9,Nigeria,Africa,Northern Hemisphere,1
+64,Male,378,94/70,82,0,1,1,0,1,8.02664152,Unhealthy,0,0,3,4.467338976,204239,30.52624842,408,4,10,Italy,Europe,Southern Hemisphere,0
+60,Male,204,128/64,65,1,0,1,1,1,12.14106456,Unhealthy,1,0,10,11.50241299,100191,19.77540425,366,1,6,Spain,Europe,Southern Hemisphere,1
+36,Female,289,124/94,57,0,1,0,1,1,18.46087371,Healthy,1,0,1,10.39415008,59454,32.37033324,345,5,10,Canada,North America,Northern Hemisphere,1
+55,Female,324,156/72,97,1,0,1,0,0,14.06505545,Average,0,1,1,10.38652597,267599,35.2681185,702,7,7,Australia,Australia,Southern Hemisphere,1
+75,Female,236,91/78,41,1,0,1,0,1,15.02546843,Unhealthy,0,0,10,2.416192236,27460,36.7406898,209,7,9,Spain,Europe,Southern Hemisphere,0
+46,Female,190,148/95,79,1,1,1,1,1,9.564209145,Average,0,1,2,9.988669885,218234,38.12317395,165,5,4,New Zealand,Australia,Southern Hemisphere,0
+87,Male,232,128/65,83,0,0,1,0,1,0.373456624,Healthy,0,1,7,0.213274922,247404,38.16316795,445,6,5,France,Europe,Northern Hemisphere,1
+48,Male,187,157/108,102,1,0,1,1,0,11.84091769,Unhealthy,1,1,10,2.113531717,146525,35.84416168,698,1,6,South Korea,Asia,Northern Hemisphere,0
+29,Female,179,153/81,107,1,1,0,1,1,13.85306611,Healthy,1,1,2,5.908537742,169839,27.87325511,614,2,7,Brazil,South America,Southern Hemisphere,0
+21,Male,336,179/75,98,1,1,1,0,1,13.17725988,Unhealthy,1,0,2,10.92702331,60943,26.67215876,404,2,8,Vietnam,Asia,Northern Hemisphere,0
+31,Male,256,93/65,91,0,0,1,0,1,15.99949304,Unhealthy,0,1,2,2.173826414,297424,19.29448405,179,6,7,India,Asia,Northern Hemisphere,0
+53,Male,288,173/62,90,1,1,1,0,1,16.38009692,Healthy,0,1,2,11.90406257,264146,21.54327784,706,4,8,China,Asia,Northern Hemisphere,1
+90,Male,178,131/78,60,0,0,1,0,0,4.639232672,Unhealthy,0,0,9,7.432198078,204529,33.37216333,410,3,5,Spain,Europe,Southern Hemisphere,0
+29,Male,211,176/78,68,0,1,1,0,1,11.84304986,Healthy,1,1,8,4.491065929,33643,25.60754304,453,7,10,United Kingdom,Europe,Northern Hemisphere,0
+59,Female,385,131/98,51,0,1,1,0,0,16.62843339,Healthy,1,1,6,8.457357426,181566,24.42013772,379,5,9,Australia,Australia,Southern Hemisphere,1
+35,Male,381,91/79,98,1,1,1,0,0,3.550961815,Average,0,0,2,0.422016821,204512,24.99449438,62,6,4,Italy,Europe,Southern Hemisphere,1
+35,Male,309,167/104,101,0,1,1,0,1,12.63130536,Unhealthy,0,1,9,10.40033875,241864,25.61447958,64,5,9,Australia,Australia,Southern Hemisphere,0
+41,Male,172,134/106,83,1,1,1,1,0,9.494552546,Average,1,0,3,9.373237416,103732,25.77330883,251,2,8,Nigeria,Africa,Northern Hemisphere,0
+57,Male,316,110/79,109,0,1,1,1,1,1.956198817,Healthy,1,0,1,1.226222301,287797,30.81796785,445,5,6,Canada,North America,Northern Hemisphere,1
+52,Female,369,95/91,82,1,1,1,0,1,13.10271059,Healthy,1,1,3,0.902956993,31150,21.89754325,644,4,8,Thailand,Asia,Northern Hemisphere,0
+68,Female,198,175/80,57,1,0,1,0,0,11.10353046,Healthy,1,0,4,0.351767096,57508,33.43364434,140,2,8,Germany,Europe,Northern Hemisphere,1
+31,Male,226,101/103,70,0,1,1,0,0,13.59167554,Healthy,1,1,8,1.571675178,126954,38.48589647,93,6,4,Colombia,South America,Northern Hemisphere,0
+65,Female,300,134/80,99,0,1,1,0,1,14.41061493,Healthy,0,0,5,0.539968275,76002,32.18237379,212,4,6,Australia,Australia,Southern Hemisphere,0
+49,Male,342,112/76,47,1,1,1,1,1,16.31043151,Unhealthy,1,0,2,2.659079269,135682,28.69802061,794,7,4,United Kingdom,Europe,Northern Hemisphere,0
+34,Female,243,168/86,91,1,0,0,0,1,12.68283222,Healthy,1,0,7,1.414501365,129389,20.08526042,316,1,7,Argentina,South America,Southern Hemisphere,0
+19,Female,156,124/76,97,0,1,0,1,1,4.800646658,Average,0,0,8,9.902785111,284381,34.31353492,661,2,5,South Korea,Asia,Northern Hemisphere,0
+70,Male,274,126/92,48,0,1,1,0,0,0.635916039,Healthy,1,0,6,3.018804034,71896,39.27926324,796,5,4,Italy,Europe,Southern Hemisphere,1
+50,Male,182,100/91,87,1,1,1,0,0,12.67478046,Average,0,0,4,10.99847101,281854,39.58754633,779,2,7,Brazil,South America,Southern Hemisphere,0
+33,Male,280,141/64,62,1,0,1,0,1,15.44333595,Average,1,1,1,10.52460399,248219,20.4345371,751,0,9,Vietnam,Asia,Northern Hemisphere,0
+29,Female,277,130/102,57,0,1,0,1,0,1.673720339,Healthy,1,0,3,1.227565667,156222,36.62837485,94,1,10,Brazil,South America,Southern Hemisphere,0
+84,Male,157,146/64,74,1,0,1,0,0,2.256683077,Unhealthy,1,1,5,4.137596267,107832,31.36090153,213,7,9,Nigeria,Africa,Northern Hemisphere,1
+25,Female,283,145/77,102,1,1,0,0,1,12.41910446,Unhealthy,0,1,5,9.997442927,131963,29.64373694,528,1,9,France,Europe,Northern Hemisphere,1
+89,Male,262,132/92,96,1,1,1,1,1,19.82994262,Average,0,0,5,8.868529578,244519,21.2369229,232,0,7,Nigeria,Africa,Northern Hemisphere,0
+67,Male,371,155/90,45,0,0,1,1,0,0.988200075,Average,0,1,9,3.913289272,157788,26.86878283,168,5,5,Argentina,South America,Southern Hemisphere,0
+31,Male,255,158/61,93,1,1,1,1,1,12.8946348,Average,1,0,5,0.284421466,220001,32.89560381,514,4,7,Vietnam,Asia,Northern Hemisphere,0
+18,Male,138,177/103,57,1,0,1,1,1,17.61659159,Healthy,1,1,1,2.868345152,140966,36.42675753,379,1,10,India,Asia,Northern Hemisphere,0
+52,Female,297,113/109,65,0,1,1,1,1,14.41510164,Healthy,0,0,10,7.175214614,181064,31.49987531,482,5,10,United Kingdom,Europe,Northern Hemisphere,0
+51,Female,132,103/98,108,0,0,1,1,1,9.990232664,Healthy,1,0,6,2.25973418,210934,34.98621953,626,7,7,United States,North America,Northern Hemisphere,0
+28,Male,317,125/76,79,1,0,1,1,0,10.10238495,Unhealthy,0,1,7,5.223258024,119936,38.07190054,774,5,10,Spain,Europe,Southern Hemisphere,1
+67,Male,216,122/98,103,0,0,1,0,1,10.94769165,Unhealthy,0,1,3,3.781487022,22824,32.32608434,354,1,5,Nigeria,Africa,Northern Hemisphere,0
+22,Male,186,156/88,100,0,0,1,0,0,11.3682243,Healthy,0,0,7,4.996377662,66966,24.20758839,656,2,10,United Kingdom,Europe,Northern Hemisphere,0
+56,Female,216,146/110,69,1,0,1,1,1,19.2637121,Average,0,0,10,2.499630471,262023,19.18863903,755,4,6,Thailand,Asia,Northern Hemisphere,0
+20,Male,214,92/61,74,0,0,1,1,1,11.29537117,Unhealthy,0,1,10,10.85018418,271576,30.45882626,699,0,4,New Zealand,Australia,Southern Hemisphere,1
+76,Male,216,175/95,40,1,0,1,1,1,2.736720255,Healthy,0,1,7,10.8201647,47692,27.81774796,667,5,4,Italy,Europe,Southern Hemisphere,0
+25,Male,317,178/65,106,1,0,1,1,0,12.7359624,Healthy,0,0,7,4.259733206,215125,27.55372547,105,2,9,India,Asia,Northern Hemisphere,1
+78,Male,228,116/60,88,1,0,1,0,0,16.19922702,Average,1,0,6,4.445707062,283518,22.7269546,739,1,7,Brazil,South America,Southern Hemisphere,1
+56,Male,140,108/63,96,1,1,1,1,1,3.45923468,Unhealthy,1,0,4,4.794009441,81442,28.31071043,66,6,10,Germany,Europe,Northern Hemisphere,1
+42,Male,154,173/64,91,0,0,1,1,1,14.17957275,Average,1,1,8,1.836154139,91441,30.83449368,662,1,5,Argentina,South America,Southern Hemisphere,1
+90,Male,227,175/79,102,1,0,1,1,0,10.89778722,Average,0,1,9,11.93094384,135514,25.49213412,793,7,10,United States,North America,Northern Hemisphere,1
+58,Male,250,126/73,55,1,0,1,1,1,12.23878087,Unhealthy,1,0,2,1.288517285,121293,21.02320171,273,0,8,Spain,Europe,Southern Hemisphere,1
+68,Female,351,134/74,74,0,1,1,1,0,16.44834684,Average,1,0,5,3.523618627,286673,39.24956272,158,7,5,Germany,Europe,Northern Hemisphere,0
+50,Male,264,98/78,66,1,1,1,1,1,9.890574372,Unhealthy,1,1,8,7.419196168,285068,37.8723541,193,3,5,South Africa,Africa,Southern Hemisphere,0
+68,Female,190,157/109,62,1,0,1,1,0,9.304480932,Unhealthy,1,0,10,3.743080661,177364,39.98511989,476,1,6,Colombia,South America,Northern Hemisphere,1
+40,Male,130,142/99,69,1,1,1,0,1,5.768726955,Unhealthy,1,0,3,3.129569642,158116,38.66116646,783,2,9,India,Asia,Northern Hemisphere,0
+63,Male,392,180/96,71,1,0,1,0,0,11.97857301,Healthy,0,0,7,10.9922009,138076,22.6199721,513,1,9,Thailand,Asia,Northern Hemisphere,1
+67,Female,378,92/82,73,0,1,1,0,1,2.027783847,Unhealthy,1,1,1,1.406157778,217037,34.69424783,504,7,7,Spain,Europe,Southern Hemisphere,0
+60,Female,178,169/70,94,0,1,1,1,1,3.685960126,Healthy,1,1,5,3.217875095,110731,24.53829484,85,7,7,China,Asia,Northern Hemisphere,0
+79,Male,149,96/60,88,0,1,1,1,0,18.27368136,Unhealthy,0,0,10,1.398598877,20264,18.71884979,222,4,10,New Zealand,Australia,Southern Hemisphere,0
+20,Male,290,156/96,104,0,0,1,1,1,0.324796947,Healthy,0,1,9,8.74227366,294285,31.37086082,168,7,8,Japan,Asia,Northern Hemisphere,0
+69,Male,219,149/82,82,1,1,1,1,1,8.772297966,Unhealthy,1,0,9,0.941116487,177926,24.2451438,188,4,10,Canada,North America,Northern Hemisphere,1
+80,Female,354,169/62,95,1,1,1,1,0,15.39248468,Healthy,1,1,7,2.721056649,220585,24.33256654,55,1,10,Colombia,South America,Northern Hemisphere,0
+50,Male,209,100/94,69,0,1,1,0,1,17.54117195,Unhealthy,0,1,8,0.150802769,76435,32.28732198,345,1,6,France,Europe,Northern Hemisphere,0
+74,Female,284,130/110,47,1,1,1,0,1,10.80946284,Average,0,0,5,6.869714414,155559,27.7621721,563,6,4,United States,North America,Northern Hemisphere,1
+45,Male,181,148/74,98,0,0,1,1,0,12.23982826,Average,1,1,7,8.185376308,200983,33.89387007,147,0,8,Brazil,South America,Southern Hemisphere,0
+19,Female,369,92/100,104,0,0,0,1,0,16.96576364,Average,1,0,1,3.455509332,245002,21.65283097,289,4,10,South Korea,Asia,Northern Hemisphere,0
+28,Male,235,113/76,46,0,1,1,0,1,0.294817227,Unhealthy,1,1,5,3.248568758,138758,30.36141899,47,3,8,Brazil,South America,Southern Hemisphere,1
+84,Female,141,143/98,97,1,0,1,1,1,2.729558725,Average,0,1,7,4.595666309,99944,33.04043474,109,6,6,Canada,North America,Northern Hemisphere,0
+44,Male,297,114/106,66,1,1,1,1,0,8.271612592,Unhealthy,0,1,2,2.751220109,61062,21.70093654,759,5,8,Colombia,South America,Northern Hemisphere,1
+55,Male,379,133/98,97,0,0,1,0,0,11.21452054,Unhealthy,1,0,2,3.722104202,208728,20.16589181,539,1,7,Brazil,South America,Southern Hemisphere,0
+25,Male,133,133/84,65,1,0,1,0,0,19.97748241,Healthy,0,1,3,3.936891907,104986,23.53778401,312,5,10,Japan,Asia,Northern Hemisphere,0
+34,Female,246,172/108,110,1,0,0,0,1,13.2444436,Healthy,0,1,10,5.025092542,40510,26.65043936,164,3,7,Argentina,South America,Southern Hemisphere,0
+27,Male,374,138/75,48,0,1,1,1,1,13.07795696,Healthy,0,0,10,9.39978222,135817,33.29357705,157,7,8,New Zealand,Australia,Southern Hemisphere,0
+58,Male,347,158/106,66,0,0,1,1,1,10.23460725,Healthy,0,1,9,2.600400403,58521,27.27713231,200,5,7,Thailand,Asia,Northern Hemisphere,1
+69,Male,260,110/99,110,0,0,1,0,1,4.510269372,Healthy,1,0,10,9.395618956,212291,37.04138785,266,1,8,Argentina,South America,Southern Hemisphere,0
+56,Male,296,154/102,90,1,1,1,1,0,5.402965923,Unhealthy,0,1,4,4.989038085,185659,38.65748863,97,7,9,Canada,North America,Northern Hemisphere,0
+54,Male,235,169/94,52,0,0,1,0,1,6.988586415,Healthy,1,1,5,10.03568609,21193,27.85829601,232,3,9,United Kingdom,Europe,Northern Hemisphere,1
+25,Female,342,109/85,70,1,1,0,0,0,15.43046847,Average,1,1,2,1.573557444,25890,27.47761177,380,7,9,Australia,Australia,Southern Hemisphere,0
+64,Male,387,148/96,99,1,1,1,1,1,15.60548146,Unhealthy,0,0,8,8.085280903,97957,30.14100886,149,3,4,Nigeria,Africa,Northern Hemisphere,1
+67,Male,242,163/66,93,0,1,1,1,1,19.37646317,Healthy,1,1,6,8.662052518,103908,39.77099763,242,7,6,South Korea,Asia,Northern Hemisphere,0
+64,Female,322,161/72,88,1,1,1,1,1,4.158703297,Average,1,1,6,6.122051382,292666,22.89468181,182,1,6,Spain,Europe,Southern Hemisphere,1
+82,Male,303,140/107,100,1,1,1,1,1,10.25574034,Healthy,1,0,7,4.827673392,74600,25.99260454,132,4,10,France,Europe,Northern Hemisphere,1
+59,Male,302,115/96,48,0,1,1,0,1,10.28064639,Healthy,1,1,3,3.796065889,282172,39.15606537,122,6,5,United Kingdom,Europe,Northern Hemisphere,0
+30,Female,283,132/77,48,1,0,0,0,0,0.974147124,Average,0,0,4,6.569214277,91739,25.01172349,735,1,6,Canada,North America,Northern Hemisphere,0
+59,Male,286,141/83,56,1,1,1,1,1,10.27373781,Healthy,1,0,5,1.466779332,124918,32.89768948,528,4,5,Vietnam,Asia,Northern Hemisphere,1
+81,Male,245,94/65,85,0,0,1,0,1,17.78374371,Average,0,1,10,7.310236451,83408,34.08917855,424,4,8,Argentina,South America,Southern Hemisphere,0
+59,Female,322,121/86,96,0,1,1,1,1,19.23827024,Healthy,0,1,6,6.670381054,117212,31.77833211,698,3,5,South Africa,Africa,Southern Hemisphere,0
+53,Male,258,156/104,109,1,1,1,1,1,17.06824077,Healthy,0,0,2,4.715881874,130310,24.48481519,439,5,8,Nigeria,Africa,Northern Hemisphere,0
+73,Male,390,101/95,87,1,1,1,1,0,10.30879427,Healthy,1,0,9,3.312164544,75582,19.16223492,594,0,4,Australia,Australia,Southern Hemisphere,0
+64,Male,190,129/65,91,0,1,1,1,0,12.45402554,Average,0,1,2,7.960839456,178209,27.07978689,267,4,7,Colombia,South America,Northern Hemisphere,0
+88,Male,300,167/83,52,1,1,1,0,1,13.09872786,Healthy,0,1,1,8.436356197,136893,32.33723123,308,6,6,France,Europe,Northern Hemisphere,0
+47,Female,390,128/97,50,0,1,1,0,0,9.273061515,Average,1,1,5,4.80965524,31422,31.13911705,570,6,7,Germany,Europe,Northern Hemisphere,0
+83,Male,145,146/87,42,1,1,1,1,0,8.224913644,Average,1,1,10,9.672193077,174060,34.55161515,281,3,4,Vietnam,Asia,Northern Hemisphere,0
+63,Male,161,156/76,56,1,0,1,1,1,11.94111323,Average,1,0,10,1.920428044,213871,34.24113246,666,1,8,Canada,North America,Northern Hemisphere,0
+62,Female,214,93/93,96,0,1,1,0,0,11.58853929,Average,1,1,4,2.070087683,265109,18.587291,559,4,5,Nigeria,Africa,Northern Hemisphere,0
+30,Female,308,160/107,83,0,1,0,1,1,8.810845026,Unhealthy,0,1,2,5.136038472,31578,30.10341209,234,2,8,Vietnam,Asia,Northern Hemisphere,1
+82,Male,275,178/98,66,0,1,1,0,1,7.042634465,Unhealthy,0,1,8,8.61097699,241647,35.66428329,227,4,4,South Africa,Africa,Southern Hemisphere,0
+54,Female,252,92/84,106,0,0,1,1,1,13.80265079,Average,0,1,6,8.002209499,274676,37.48978668,699,2,4,Argentina,South America,Southern Hemisphere,0
+60,Male,247,154/107,87,1,0,1,0,1,10.35551411,Unhealthy,0,0,7,3.548044033,102322,21.52554498,655,5,4,Colombia,South America,Northern Hemisphere,1
+64,Male,163,118/98,85,1,1,1,0,1,7.960606094,Unhealthy,1,0,8,5.311645653,220857,39.11169332,712,4,7,China,Asia,Northern Hemisphere,1
+55,Male,320,170/103,105,1,0,1,1,0,16.20626264,Healthy,1,0,5,4.552675679,28735,23.14843569,765,1,4,Vietnam,Asia,Northern Hemisphere,0
+32,Female,251,160/64,60,1,0,0,1,1,15.06397632,Unhealthy,0,1,5,2.848814512,223001,38.52228754,228,2,10,United Kingdom,Europe,Northern Hemisphere,0
+88,Male,312,160/89,65,1,0,1,0,0,1.645685435,Average,1,1,8,8.437356871,168596,33.92480521,46,5,6,New Zealand,Australia,Southern Hemisphere,0
+57,Male,269,142/93,99,0,0,1,0,0,10.21529935,Average,0,1,7,6.261595483,70723,34.60768909,767,2,4,France,Europe,Northern Hemisphere,1
+39,Female,257,124/91,45,1,1,0,1,1,9.139971953,Healthy,1,1,8,8.22278038,91378,32.10606334,209,0,6,New Zealand,Australia,Southern Hemisphere,1
+38,Male,319,160/89,48,1,0,1,0,0,16.60143912,Unhealthy,0,0,2,4.654974338,32048,32.34782616,605,7,7,Italy,Europe,Southern Hemisphere,1
+47,Female,201,164/106,80,0,0,1,1,1,12.45500722,Unhealthy,0,0,10,11.04505938,219894,26.69343612,395,5,9,Nigeria,Africa,Northern Hemisphere,1
+29,Male,263,175/103,90,0,1,1,0,1,18.4508092,Unhealthy,1,1,9,3.24406629,75056,20.96853977,366,5,10,United States,North America,Northern Hemisphere,0
+75,Female,350,94/90,94,1,0,1,1,1,12.96075313,Average,0,1,3,4.999713846,279452,20.43883538,455,7,6,Germany,Europe,Northern Hemisphere,0
+21,Male,190,130/78,88,0,1,1,0,1,11.41968561,Healthy,1,1,9,7.61144561,85174,34.9373707,393,6,4,South Korea,Asia,Northern Hemisphere,1
+65,Male,225,113/78,93,1,1,1,1,1,3.108393548,Healthy,1,0,7,5.679915399,76571,22.81307733,520,2,5,Nigeria,Africa,Northern Hemisphere,1
+49,Male,323,169/68,91,0,1,1,1,0,16.49272981,Unhealthy,0,1,9,6.621505703,273788,22.09546145,386,0,8,Germany,Europe,Northern Hemisphere,1
+37,Male,380,178/74,43,1,0,1,1,1,12.88511234,Healthy,1,1,9,6.994670307,93333,35.8005672,384,7,7,Colombia,South America,Northern Hemisphere,0
+23,Male,252,180/102,99,0,1,1,0,1,2.016834183,Healthy,0,1,2,11.61964758,144388,38.4885632,719,1,4,Australia,Australia,Southern Hemisphere,0
+60,Female,231,135/70,68,1,0,1,1,0,12.30908158,Unhealthy,0,1,5,0.121807488,63981,35.87072607,507,3,6,New Zealand,Australia,Southern Hemisphere,0
+85,Male,269,90/90,63,1,0,1,0,1,16.80634863,Healthy,1,0,10,2.545277815,156309,25.82932826,240,4,8,Japan,Asia,Northern Hemisphere,1
+25,Female,358,158/76,98,1,1,0,1,0,14.3112233,Unhealthy,0,1,4,9.435970353,248093,33.96930647,311,6,8,Thailand,Asia,Northern Hemisphere,1
+51,Male,277,98/92,45,0,1,1,0,0,6.65144237,Unhealthy,1,1,9,2.563875034,113401,37.83729588,49,3,7,Japan,Asia,Northern Hemisphere,0
+71,Female,235,151/105,81,1,0,1,1,1,3.70367993,Unhealthy,0,0,8,7.684099503,269749,37.04320432,560,0,9,China,Asia,Northern Hemisphere,0
+60,Male,321,96/75,51,1,1,1,1,1,7.723388392,Unhealthy,1,0,4,2.499732855,184993,32.82946438,469,7,8,Brazil,South America,Southern Hemisphere,0
+52,Male,237,103/68,105,1,0,1,0,0,19.18843053,Unhealthy,0,1,5,1.79739693,234203,28.53440409,731,3,6,Thailand,Asia,Northern Hemisphere,1
+89,Female,278,151/71,100,1,1,1,1,0,5.697622279,Average,1,1,2,7.038503659,136388,20.8467234,79,6,10,Thailand,Asia,Northern Hemisphere,0
+61,Male,398,164/107,56,0,1,1,1,1,7.254930964,Average,0,1,7,11.09468859,185442,30.2107698,718,1,4,Thailand,Asia,Northern Hemisphere,0
+72,Male,391,163/100,66,0,0,1,1,0,2.862141305,Healthy,0,0,1,9.903498692,200272,19.19091174,683,3,6,New Zealand,Australia,Southern Hemisphere,0
+60,Male,325,107/103,86,0,1,1,0,1,17.42222993,Unhealthy,1,0,7,2.730569275,243772,39.76791838,410,6,4,Vietnam,Asia,Northern Hemisphere,0
+78,Male,258,139/86,91,1,0,1,1,1,15.78640957,Healthy,1,0,9,10.07658173,176324,33.78741725,715,5,8,China,Asia,Northern Hemisphere,0
+54,Male,370,156/101,75,1,0,1,1,1,14.3792298,Unhealthy,0,0,2,10.3768966,216099,30.59503388,493,5,7,Germany,Europe,Northern Hemisphere,0
+64,Male,303,118/84,67,0,0,1,0,0,13.76853058,Unhealthy,0,0,9,10.39286444,147822,33.50663964,146,1,6,Nigeria,Africa,Northern Hemisphere,0
+74,Male,165,155/85,42,1,1,1,1,0,3.755074823,Average,0,0,10,8.460142347,214319,25.27657713,699,6,6,France,Europe,Northern Hemisphere,0
+74,Male,381,108/67,99,1,0,1,0,0,0.655888166,Healthy,0,1,2,2.816170481,233739,36.54219655,573,7,8,Australia,Australia,Southern Hemisphere,1
+28,Male,294,102/104,90,0,1,1,0,1,18.5567401,Healthy,1,0,4,3.700309851,284634,36.89430954,428,2,4,China,Asia,Northern Hemisphere,0
+66,Male,160,126/105,102,1,0,1,0,1,5.031680343,Healthy,0,1,8,1.940479606,77068,29.47748959,618,3,8,Thailand,Asia,Northern Hemisphere,0
+21,Female,178,178/93,108,1,0,0,0,1,9.683388768,Healthy,0,1,10,1.850585701,94443,34.37605722,611,6,8,Germany,Europe,Northern Hemisphere,0
+22,Male,227,141/70,52,0,1,1,0,1,17.17366697,Unhealthy,1,1,7,5.89037031,230728,33.5791047,368,7,9,Brazil,South America,Southern Hemisphere,0
+44,Male,187,110/96,78,1,0,1,1,0,6.110928967,Unhealthy,1,1,5,6.865116175,146651,24.32484435,469,6,5,United States,North America,Northern Hemisphere,1
+27,Male,280,104/94,96,0,0,1,1,1,14.24109505,Average,0,0,7,4.783753296,54666,21.32831031,333,7,7,United States,North America,Northern Hemisphere,0
+48,Male,307,124/72,63,1,1,1,0,0,17.24912166,Unhealthy,0,0,3,4.347156723,290335,27.92203426,563,6,6,Italy,Europe,Southern Hemisphere,0
+75,Female,400,142/97,108,0,1,1,0,1,17.24423495,Unhealthy,1,1,10,11.95487647,240579,18.66963117,101,4,9,Japan,Asia,Northern Hemisphere,0
+89,Male,124,154/72,53,1,0,1,1,0,8.180029738,Unhealthy,1,1,1,5.488770509,154228,20.87937696,54,6,8,New Zealand,Australia,Southern Hemisphere,1
+23,Male,154,97/71,62,1,0,1,1,0,5.366881713,Unhealthy,0,0,10,5.553183049,61494,28.22720313,221,0,5,New Zealand,Australia,Southern Hemisphere,1
+75,Male,367,132/91,100,1,1,1,0,1,0.841406759,Healthy,1,1,8,2.81232685,144282,21.58961239,714,5,7,Spain,Europe,Southern Hemisphere,0
+79,Male,267,175/109,87,1,0,1,1,1,4.766896948,Average,0,0,5,0.540137175,227493,37.617751,564,4,5,Colombia,South America,Northern Hemisphere,0
+89,Female,385,168/69,55,1,1,1,1,1,6.801427308,Unhealthy,0,1,6,2.445680256,170157,33.07133683,287,7,9,United States,North America,Northern Hemisphere,0
+43,Female,230,160/106,76,0,0,1,0,0,10.37407718,Average,0,0,4,5.143339129,152706,35.76235507,529,4,6,South Africa,Africa,Southern Hemisphere,0
+54,Male,130,104/93,104,0,0,1,0,1,16.06680686,Average,0,1,2,10.16594236,213509,22.16718467,471,4,4,United States,North America,Northern Hemisphere,1
+49,Male,149,124/97,94,0,1,1,1,0,4.871982763,Healthy,0,0,10,3.229673409,65546,18.37585806,259,2,8,China,Asia,Northern Hemisphere,1
+20,Female,140,119/85,103,0,0,0,1,0,7.304884549,Unhealthy,0,0,7,7.342875078,281186,30.48437416,323,4,9,Germany,Europe,Northern Hemisphere,0
+77,Female,133,131/72,104,1,0,1,1,1,13.34242734,Unhealthy,0,0,3,4.266223878,132438,28.59987297,249,3,6,China,Asia,Northern Hemisphere,0
+78,Female,165,102/101,48,1,1,1,1,1,2.503813927,Average,0,0,8,3.364387957,261852,22.40968318,435,3,7,South Korea,Asia,Northern Hemisphere,0
+85,Male,184,127/94,67,0,0,1,1,0,10.24520012,Average,1,1,3,3.730103197,196390,18.0780961,526,1,5,Japan,Asia,Northern Hemisphere,0
+48,Male,212,180/78,108,1,0,1,1,1,19.83502301,Average,1,1,10,7.107657518,264063,23.64727568,635,0,4,United States,North America,Northern Hemisphere,0
+80,Male,278,145/87,104,1,0,1,0,1,1.864383459,Unhealthy,1,0,9,0.541811669,63396,24.00211202,263,5,5,Australia,Australia,Southern Hemisphere,1
+42,Male,299,106/66,81,0,0,1,1,1,16.37621855,Average,0,0,6,3.453737744,261065,18.27212719,704,0,9,Australia,Australia,Southern Hemisphere,0
+48,Male,365,135/103,105,1,0,1,0,1,7.922974607,Unhealthy,1,1,2,3.899794553,177602,23.58486191,83,4,4,Nigeria,Africa,Northern Hemisphere,0
+25,Female,180,165/86,48,0,0,0,1,0,12.8618511,Healthy,0,1,7,1.11414025,255077,25.26226621,602,5,7,United Kingdom,Europe,Northern Hemisphere,0
+21,Male,337,152/69,59,1,0,1,1,1,8.860806303,Average,0,0,2,7.173780599,177861,27.67441969,112,1,9,Australia,Australia,Southern Hemisphere,0
+40,Male,213,172/99,59,1,1,1,0,1,7.596976187,Average,0,1,8,11.87055338,102007,23.22293268,292,6,7,Japan,Asia,Northern Hemisphere,0
+74,Male,291,155/93,75,1,1,1,0,1,17.87524274,Average,0,0,10,7.930514831,31129,35.87969282,371,0,4,Canada,North America,Northern Hemisphere,0
+49,Male,213,161/69,92,1,1,1,0,0,14.74201296,Healthy,0,0,3,8.081920485,227541,30.36982369,493,1,6,Colombia,South America,Northern Hemisphere,1
+74,Female,375,178/64,85,0,0,1,0,0,9.284392533,Average,1,1,7,10.30862877,205768,33.25343151,133,2,4,United States,North America,Northern Hemisphere,0
+41,Male,283,134/68,77,0,0,1,1,1,16.82308026,Average,1,1,1,0.015174327,52993,19.81978055,129,3,9,Australia,Australia,Southern Hemisphere,0
+82,Female,146,125/90,86,0,1,1,0,1,17.82305262,Healthy,1,0,5,1.595204936,23726,19.89144908,369,7,5,Spain,Europe,Southern Hemisphere,0
+87,Female,367,160/82,86,0,0,1,0,1,19.42479568,Unhealthy,0,1,3,0.107630437,68840,23.73870092,555,5,7,China,Asia,Northern Hemisphere,1
+85,Male,318,163/72,45,1,0,1,0,0,6.781580446,Average,1,0,6,6.389318747,184636,38.38474749,510,2,9,France,Europe,Northern Hemisphere,1
+27,Female,396,129/108,79,1,0,0,0,0,4.601645649,Average,0,1,4,8.937923446,288273,21.53460353,754,0,10,Brazil,South America,Southern Hemisphere,0
+63,Male,173,130/110,72,1,1,1,1,1,9.338554327,Unhealthy,0,0,5,2.755869879,45223,18.77393175,707,3,5,Brazil,South America,Southern Hemisphere,1
+41,Female,380,165/70,78,1,0,1,0,1,5.044998636,Unhealthy,0,0,6,8.306072887,260714,28.81124669,35,7,6,Nigeria,Africa,Northern Hemisphere,0
+45,Female,319,158/80,102,0,1,1,1,0,15.90476977,Average,1,0,3,11.47173373,187743,25.66213164,252,6,7,Nigeria,Africa,Northern Hemisphere,0
+28,Male,186,132/78,54,1,1,1,0,1,11.2511104,Unhealthy,0,0,8,10.35106814,22355,33.33976691,775,5,6,India,Asia,Northern Hemisphere,0
+31,Male,365,110/109,65,0,1,1,0,0,3.174550663,Unhealthy,0,0,3,0.409534602,212505,20.15179832,599,5,10,Brazil,South America,Southern Hemisphere,0
+40,Male,219,177/70,103,1,0,1,0,0,4.88398868,Average,0,1,8,4.258447533,286932,30.84744493,35,1,4,Japan,Asia,Northern Hemisphere,1
+19,Female,273,158/105,77,1,1,0,1,0,10.00336602,Average,0,0,4,10.54996359,215426,37.89591251,399,7,5,United States,North America,Northern Hemisphere,0
+56,Female,257,104/84,84,0,0,1,1,0,18.72266691,Healthy,1,1,6,6.206910876,20698,36.89605695,607,7,8,Thailand,Asia,Northern Hemisphere,1
+35,Male,269,160/74,84,0,1,1,1,1,12.17931573,Average,0,0,3,3.602920955,54572,34.87117718,752,7,6,China,Asia,Northern Hemisphere,0
+59,Male,241,105/84,109,1,0,1,0,0,1.733137844,Average,1,1,8,5.74140681,64295,39.72666103,534,2,9,New Zealand,Australia,Southern Hemisphere,0
+20,Male,257,135/107,59,0,1,1,1,1,11.36815236,Healthy,0,1,3,10.69242243,226783,28.07064378,774,3,6,Italy,Europe,Southern Hemisphere,0
+22,Male,378,173/89,83,1,0,1,1,0,5.160690222,Average,0,1,8,0.2709946,119242,25.66393337,695,6,6,Brazil,South America,Southern Hemisphere,0
+57,Male,382,109/99,63,0,1,1,0,1,17.88409957,Average,1,1,7,10.64074268,92552,38.29096404,731,0,10,Thailand,Asia,Northern Hemisphere,0
+77,Male,308,98/89,55,0,1,1,0,0,6.165137103,Unhealthy,1,0,1,1.622034649,33793,32.75492264,661,1,6,Argentina,South America,Southern Hemisphere,1
+32,Female,367,95/86,100,1,0,0,0,0,2.811789899,Healthy,1,0,4,9.145644971,246662,38.41606426,321,1,9,Japan,Asia,Northern Hemisphere,0
+85,Male,251,159/106,103,0,0,1,0,1,16.23489005,Healthy,0,1,5,6.154778033,168878,33.38126873,280,5,6,Nigeria,Africa,Northern Hemisphere,0
+62,Female,181,151/105,53,0,1,1,1,1,3.516079082,Average,0,1,5,1.117239361,253827,33.55732445,388,2,4,France,Europe,Northern Hemisphere,0
+53,Male,306,166/66,101,0,0,1,0,1,18.96478469,Average,1,0,1,6.220255791,195529,30.63270322,382,4,5,Australia,Australia,Southern Hemisphere,0
+71,Female,326,92/99,61,1,1,1,1,0,8.222179719,Average,1,0,5,3.028304955,299438,21.02864668,761,1,8,Nigeria,Africa,Northern Hemisphere,1
+71,Male,340,161/104,94,1,0,1,1,0,0.187076543,Healthy,0,0,5,0.37940864,221737,32.82258108,208,7,8,Spain,Europe,Southern Hemisphere,1
+66,Male,172,162/79,87,0,0,1,1,0,2.665492886,Unhealthy,1,0,6,0.290679967,34948,28.81011679,549,1,5,Brazil,South America,Southern Hemisphere,1
+76,Female,362,117/108,64,0,0,1,0,1,3.825874852,Unhealthy,1,0,10,7.494098731,87753,27.23445618,356,7,5,Argentina,South America,Southern Hemisphere,0
+27,Male,301,116/63,50,0,0,1,1,0,13.99604491,Healthy,0,0,1,0.238782705,98644,32.35553622,216,7,7,South Korea,Asia,Northern Hemisphere,1
+76,Female,289,103/86,93,0,1,1,1,0,5.193706936,Average,0,1,9,1.919237463,222725,38.46186877,506,7,5,United Kingdom,Europe,Northern Hemisphere,1
+42,Male,194,167/87,44,0,1,1,1,1,16.02516676,Healthy,0,1,1,6.700147892,199047,26.80119022,147,5,7,New Zealand,Australia,Southern Hemisphere,0
+18,Male,264,151/61,55,1,1,1,1,0,1.514258125,Healthy,1,0,3,0.103841307,282383,30.57272785,62,3,10,United Kingdom,Europe,Northern Hemisphere,0
+28,Female,365,91/65,85,1,1,0,0,0,13.20059122,Healthy,1,0,8,7.366897342,282902,19.86509063,595,7,7,Brazil,South America,Southern Hemisphere,1
+89,Male,196,131/86,49,0,1,1,0,0,13.68912271,Healthy,0,1,5,5.447178111,91728,20.30598588,415,5,8,Brazil,South America,Southern Hemisphere,1
+87,Male,123,119/91,57,1,1,1,0,1,18.14629168,Unhealthy,1,1,6,11.91342325,224496,29.99097528,556,3,7,Italy,Europe,Southern Hemisphere,1
